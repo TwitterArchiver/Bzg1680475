@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078055874766254243",
+    "created_at": "2026-07-17T18:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078185370286756191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016769054627840000",
+          "start": 0,
+          "username": "213755798Ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078185370286756191",
+    "in_reply_to_user_id": "2016769054627840000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078055874766254243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@213755798Ma 好骚……感觉没穿内裤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19433,
+        "height": 1280,
+        "media_key": "13_2078055739994865665",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078055739994865665/img/QmgYRUfN7C7fpeRJ.jpg",
+        "public_metrics": {
+          "view_count": 2082
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078055739994865665/vid/avc1/320x568/92Dk4dguRfsJaTNY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078055739994865665/vid/avc1/480x852/QKPKSDHes-aZY6K5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078055739994865665/vid/avc1/720x1280/kEQM5RkO80uoSj1K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078055739994865665/pl/cgRhcHXhExOmTvB0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078055874766254243",
+        "created_at": "2026-07-17T18:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078185370286756191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016769054627840000",
+              "start": 0,
+              "username": "213755798Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078185370286756191",
+        "in_reply_to_user_id": "2016769054627840000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078055874766254243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@213755798Ma 好骚……感觉没穿内裤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078055739994865665"
+          ]
+        },
+        "author_id": "2016769054627840000",
+        "conversation_id": "2078055874766254243",
+        "created_at": "2026-07-17T09:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078055874766254243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DeJlO9pAaa",
+              "end": 26,
+              "expanded_url": "https://x.com/213755798Ma/status/2078055874766254243/video/1",
+              "media_key": "13_2078055739994865665",
+              "start": 3,
+              "url": "https://t.co/DeJlO9pAaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078055874766254243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7371,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿 https://t.co/DeJlO9pAaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 82,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T07:03:19.000Z",
+        "description": "4i/1i 对男的（ts，cd）不感兴趣 不要烦我\n小白一个 没有经验",
+        "id": "2016769054627840000",
+        "name": "凯蒂猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016769290868051968/BZ3O0LUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 44,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "213755798Ma",
+        "verified": false
+      }
+    ]
+  }
+}

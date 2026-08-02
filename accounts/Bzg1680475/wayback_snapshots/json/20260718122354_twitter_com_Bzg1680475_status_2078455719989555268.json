@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078184947500908776",
+    "created_at": "2026-07-18T12:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078455719989555268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078455719989555268",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078184947500908776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 已经到了要全屏打码的地步了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078184939108081665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcyMQEaoAEhFwU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078184947500908776",
+        "created_at": "2026-07-18T12:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078455719989555268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078455719989555268",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078184947500908776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 已经到了要全屏打码的地步了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078184939108081665"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "2078184947500908776",
+        "created_at": "2026-07-17T18:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078184947500908776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dqswE0BLs",
+              "end": 53,
+              "expanded_url": "https://x.com/dd_bbls/status/2078184947500908776/photo/1",
+              "media_key": "3_2078184939108081665",
+              "start": 30,
+              "url": "https://t.co/6dqswE0BLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078184947500908776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13930,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "对这张照片好满意呀这个光线显得我的小唧唧尤其好看嘿嘿🤓🤓🤓 https://t.co/6dqswE0BLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 82,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "纯直男，欢迎大家在私信或者匿名提问来找我玩呀～～匿名提问链接：https://t.co/Txsii6Ume0 加v有🚪288/520详情欢迎私信。小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dd_bbls1",
+                "end": 54,
+                "expanded_url": "https://ngl.link/dd_bbls1",
+                "start": 31,
+                "url": "https://t.co/Txsii6Ume0"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89380,
+          "following_count": 85,
+          "like_count": 6312,
+          "listed_count": 240,
+          "media_count": 37,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

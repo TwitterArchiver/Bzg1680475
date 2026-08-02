@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079631702104936649",
+    "created_at": "2026-07-21T18:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079631702104936649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "898803750755643392",
+          "start": 3,
+          "username": "luxuryx97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079631702104936649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076056137196261471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luxuryx97: 男人不骚真的扣分啊 \n但是太骚更是他妈的扣大分\n你最好要骚的张弛有度 \n一会儿是饱负才情的温润公子\n一会儿是鸡巴磨逼的市井纨绔\n但你他妈不能只顾鸡巴懂吗\n你要感受 你要服务 答应我\n你一定要看得懂好吗\n你不能只是纨绔 你还要会哄人\n最好收拾一下自己…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079631702104936649",
+        "created_at": "2026-07-21T18:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079631702104936649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "898803750755643392",
+              "start": 3,
+              "username": "luxuryx97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079631702104936649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076056137196261471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luxuryx97: 男人不骚真的扣分啊 \n但是太骚更是他妈的扣大分\n你最好要骚的张弛有度 \n一会儿是饱负才情的温润公子\n一会儿是鸡巴磨逼的市井纨绔\n但你他妈不能只顾鸡巴懂吗\n你要感受 你要服务 答应我\n你一定要看得懂好吗\n你不能只是纨绔 你还要会哄人\n最好收拾一下自己…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898803750755643392",
+        "conversation_id": "2076056137196261471",
+        "created_at": "2026-07-11T21:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076056137196261471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076056137196261471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男人不骚真的扣分啊 \n但是太骚更是他妈的扣大分\n你最好要骚的张弛有度 \n一会儿是饱负才情的温润公子\n一会儿是鸡巴磨逼的市井纨绔\n但你他妈不能只顾鸡巴懂吗\n你要感受 你要服务 答应我\n你一定要看得懂好吗\n你不能只是纨绔 你还要会哄人\n最好收拾一下自己的姿态啊再去哄人\n你不能太傻逼知道吗 纨绔是要脑子的."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 163567,
+          "like_count": 3773,
+          "quote_count": 24,
+          "reply_count": 101,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "男人不骚真的扣分啊 \n但是太骚更是他妈的扣大分\n你最好要骚的张弛有度 \n一会儿是饱负才情的温润公子\n一会儿是鸡巴磨逼的市井纨绔\n但你他妈不能只顾鸡巴懂吗\n你要感受 你要服务 答应我\n你一定要看得懂好吗\n你不能只是纨绔 你还要会哄人\n最好收拾一下自己的姿态啊再去哄人\n你不能太傻逼知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 49,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T07:08:07.000Z",
+        "description": "碎片https://t.co/heTn8tS0M2\n冲浪https://t.co/bvT6L4lMnY\n购买https://t.co/xnxhdIr0fu \n毕竟几人真得鹿 不知终日梦为鱼.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/luxuryxx97?s=2…",
+                "end": 25,
+                "expanded_url": "https://x.com/luxuryxx97?s=21/",
+                "start": 2,
+                "url": "https://t.co/heTn8tS0M2"
+              },
+              {
+                "display_url": "kitty.sb/#/register?cod…",
+                "end": 51,
+                "expanded_url": "https://kitty.sb/#/register?code=w68xizBs",
+                "start": 28,
+                "url": "https://t.co/bvT6L4lMnY"
+              },
+              {
+                "display_url": "payhip.com/b/0d98r",
+                "end": 77,
+                "expanded_url": "https://payhip.com/b/0d98r",
+                "start": 54,
+                "url": "https://t.co/xnxhdIr0fu"
+              }
+            ]
+          }
+        },
+        "id": "898803750755643392",
+        "location": "接陪玩🚪188   /  接🚪我接接接~",
+        "name": "False",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847610846303944704/11c8P6x1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17651,
+          "following_count": 17,
+          "like_count": 139,
+          "listed_count": 14,
+          "media_count": 170,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "luxuryx97",
+        "verified": true
+      }
+    ]
+  }
+}

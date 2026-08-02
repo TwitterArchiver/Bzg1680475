@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2083033008756625647",
+    "created_at": "2026-07-31T13:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083185865921331340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1996120185854685184",
+          "start": 0,
+          "username": "e5wol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083185865921331340",
+    "in_reply_to_user_id": "1996120185854685184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083033008756625647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5wol 这个校服好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2083033003186663424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhreuJbMAA2Y4Z.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2083033008756625647",
+        "created_at": "2026-07-31T13:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083185865921331340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1996120185854685184",
+              "start": 0,
+              "username": "e5wol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185865921331340",
+        "in_reply_to_user_id": "1996120185854685184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083033008756625647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5wol 这个校服好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083033003186663424"
+          ]
+        },
+        "author_id": "1996120185854685184",
+        "conversation_id": "2083033008756625647",
+        "created_at": "2026-07-31T03:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083033008756625647"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "彼女募集中関西"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "裏アカ男子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKc5oAYcqn",
+              "end": 55,
+              "expanded_url": "https://x.com/e5wol/status/2083033008756625647/photo/1",
+              "media_key": "3_2083033003186663424",
+              "start": 32,
+              "url": "https://t.co/lKc5oAYcqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083033008756625647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9698,
+          "like_count": 505,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "彼女ください\n#自撮り界隈  #彼女募集中関西  #裏アカ男子 https://t.co/lKc5oAYcqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 18,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T07:32:01.000Z",
+        "description": "自発ください",
+        "id": "1996120185854685184",
+        "location": "なら",
+        "name": "える",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033864084651941888/jO-ZTrLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 79,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "e5wol",
+        "verified": false
+      }
+    ]
+  }
+}

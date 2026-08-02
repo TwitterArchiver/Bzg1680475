@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081377730688659789",
+    "created_at": "2026-07-26T17:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081428881899434426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934302404922810369",
+          "start": 0,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081428881899434426",
+    "in_reply_to_user_id": "1934302404922810369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081377730688659789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY47047 看到哭腔不管什么我都要点进去看看。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75557,
+        "height": 1280,
+        "media_key": "13_2081377632290217984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081377632290217984/img/1KudWtHDZYQ8su3J.jpg",
+        "public_metrics": {
+          "view_count": 1302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081377632290217984/vid/avc1/320x568/hZgfMcW2O-rkgG5i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081377632290217984/vid/avc1/480x852/aCCs33VOMFdFAqwF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081377632290217984/vid/avc1/720x1280/seO8hT2Smj9ZTV4s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081377632290217984/pl/LqV0n5r-CGNn59VO.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081377730688659789",
+        "created_at": "2026-07-26T17:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081428881899434426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081428881899434426",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081377730688659789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 看到哭腔不管什么我都要点进去看看。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081377632290217984"
+          ]
+        },
+        "author_id": "1934302404922810369",
+        "conversation_id": "2081377730688659789",
+        "created_at": "2026-07-26T13:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081377730688659789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "男喘"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "可爱"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "kp"
+            },
+            {
+              "end": 65,
+              "start": 63,
+              "tag": "骚"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "小狗"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uM51cnKzBV",
+              "end": 98,
+              "expanded_url": "https://x.com/ChenY47047/status/2081377730688659789/video/1",
+              "media_key": "13_2081377632290217984",
+              "start": 75,
+              "url": "https://t.co/uM51cnKzBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081377730688659789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1881,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人。。小狗好舒服。。主人。。小狗要高潮了。。射给主人好不好。。\n喵最后的哭是真的哭喵 因为很伤心喵\n#男喘 #可爱 #kp #骚 #小狗 #女性向 https://t.co/uM51cnKzBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 19,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "cn御风🚪52 不是健全b 09 偶尔zc 经常缺爱/发牢骚/负能 诚招一位打三角洲厉害的姐姐 入门的小宝宝都会被我关爱被我哄的 接定制 有想我念的台本可以私发给我呀 匿名提问:https://t.co/tITXigjnoR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/suki",
+                "end": 112,
+                "expanded_url": "https://miyu.link/suki",
+                "start": 89,
+                "url": "https://t.co/tITXigjnoR"
+              }
+            ]
+          }
+        },
+        "id": "1934302404922810369",
+        "location": "距离487m",
+        "name": "suki！",
+        "pinned_tweet_id": "2080499323868238149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 33,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079141427758694605",
+    "created_at": "2026-07-20T11:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079161005188485240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001631586694107139",
+          "start": 0,
+          "username": "zhao77666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079161005188485240",
+    "in_reply_to_user_id": "2001631586694107139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079141427758694605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao77666 好完美。此人美商极高！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079141415813357568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqYGhdboAAbB9a.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079141415762960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqYGhRaoAACWF9.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079141427758694605",
+        "created_at": "2026-07-20T11:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079161005188485240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001631586694107139",
+              "start": 0,
+              "username": "zhao77666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079161005188485240",
+        "in_reply_to_user_id": "2001631586694107139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079141427758694605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao77666 好完美。此人美商极高！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079141415813357568",
+            "3_2079141415762960384"
+          ]
+        },
+        "author_id": "2001631586694107139",
+        "conversation_id": "2079141427758694605",
+        "created_at": "2026-07-20T09:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079141427758694605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4dQprlaBV",
+              "end": 36,
+              "expanded_url": "https://x.com/zhao77666/status/2079141427758694605/photo/1",
+              "media_key": "3_2079141415813357568",
+              "start": 13,
+              "url": "https://t.co/c4dQprlaBV"
+            },
+            {
+              "display_url": "pic.x.com/c4dQprlaBV",
+              "end": 36,
+              "expanded_url": "https://x.com/zhao77666/status/2079141427758694605/photo/1",
+              "media_key": "3_2079141415762960384",
+              "start": 13,
+              "url": "https://t.co/c4dQprlaBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079141427758694605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越是破碎，越让人想靠近。 https://t.co/c4dQprlaBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 89,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T12:32:31.000Z",
+        "description": "enfj巨蟹",
+        "id": "2001631586694107139",
+        "name": "666777",
+        "pinned_tweet_id": "2036736334652649924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033991081604616192/8ToJzBTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8891,
+          "following_count": 32,
+          "like_count": 453,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "zhao77666",
+        "verified": false
+      }
+    ]
+  }
+}

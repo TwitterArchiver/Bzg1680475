@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081222237580108056",
+    "created_at": "2026-07-26T04:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081240584786939975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081240584786939975",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081226825540448429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 真心最贵又最不值钱了(╥_╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081222237580108056",
+        "created_at": "2026-07-26T04:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081240584786939975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081240584786939975",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081226825540448429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 真心最贵又最不值钱了(╥_╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2081222237580108056",
+        "created_at": "2026-07-26T03:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081226825540448429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081226825540448429",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081222237580108056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 我要吃干抹尽，真心最美味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 19,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "he/him/他 泛性恋（大概）ENTP\n你怎么有心为难一块蛋挞\n也许你不相信，我喜欢有厚度的灵魂\n精神洁癖＞＞＞肉体洁癖\n欢迎来到我的自留地 有趣人类观察\n🚪一颗真心or超多的碎碎念 chord244@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chord88751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chord88751",
+                "start": 0,
+                "url": "https://t.co/JBFE0eKGzZ"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "location": "孤魂野鬼飘来飘去",
+        "name": "chord",
+        "pinned_tweet_id": "2079709355222700048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 94,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/JBFE0eKGzZ",
+        "username": "chord244",
+        "verified": false
+      }
+    ]
+  }
+}

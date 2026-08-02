@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078135224005984606",
+    "created_at": "2026-07-17T16:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078156870662156467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2019798223179976704",
+          "start": 0,
+          "username": "Wanna77c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078156870662156467",
+    "in_reply_to_user_id": "2019798223179976704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078135224005984606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanna77c 纹身是什么呀！好好看但我看不太清"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078135213163732992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcE90fa4AAmg2-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078135224005984606",
+        "created_at": "2026-07-17T16:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078156870662156467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2019798223179976704",
+              "start": 0,
+              "username": "Wanna77c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078156870662156467",
+        "in_reply_to_user_id": "2019798223179976704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078135224005984606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanna77c 纹身是什么呀！好好看但我看不太清"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078135213163732992"
+          ]
+        },
+        "author_id": "2019798223179976704",
+        "conversation_id": "2078135224005984606",
+        "created_at": "2026-07-17T15:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078135224005984606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2tfrDLreD",
+              "end": 27,
+              "expanded_url": "https://x.com/Wanna77c/status/2078135224005984606/photo/1",
+              "media_key": "3_2078135213163732992",
+              "start": 4,
+              "url": "https://t.co/j2tfrDLreD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078135224005984606",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1247,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "¯꒳¯ https://t.co/j2tfrDLreD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 82,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T15:40:18.000Z",
+        "description": "",
+        "id": "2019798223179976704",
+        "name": "screwittttt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032391208430174208/Yl0JOpNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15462,
+          "following_count": 16,
+          "like_count": 55,
+          "listed_count": 33,
+          "media_count": 86,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "Wanna77c",
+        "verified": false
+      }
+    ]
+  }
+}

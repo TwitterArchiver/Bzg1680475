@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082147141158682775",
+    "created_at": "2026-07-28T16:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082147141158682775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841741161884504064",
+          "start": 3,
+          "username": "Miao_oTvTo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082147141158682775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082048801041510540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miao_oTvTo_: 我的恋爱观：\n互相从里到外完全属于对方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082147141158682775",
+        "created_at": "2026-07-28T16:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082147141158682775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841741161884504064",
+              "start": 3,
+              "username": "Miao_oTvTo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082147141158682775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082048801041510540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miao_oTvTo_: 我的恋爱观：\n互相从里到外完全属于对方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2082048801041510540",
+        "created_at": "2026-07-28T10:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082048801041510540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082048801041510540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3919,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的恋爱观：\n互相从里到外完全属于对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 18,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "这个世界好坏",
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "2037553834185396376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068708904092278784/EEF_HCqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14284,
+          "following_count": 93,
+          "like_count": 15889,
+          "listed_count": 26,
+          "media_count": 585,
+          "tweet_count": 9946
+        },
+        "url": "",
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

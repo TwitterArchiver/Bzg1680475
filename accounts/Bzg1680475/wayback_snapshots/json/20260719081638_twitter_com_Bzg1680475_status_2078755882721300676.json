@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078463722759291106",
+    "created_at": "2026-07-19T08:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078755882721300676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934302404922810369",
+          "start": 0,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078755882721300676",
+    "in_reply_to_user_id": "1934302404922810369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078735361900163394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY47047 你说的精神层次上的平等，建立在对方已经是个普通人的基础上，但是我的意思是很多人连这个入场券都没有，我并没有在说个体的心理感受，因为这个确实因人而异，我说的是客观的现实问题，有的人连活着都很难，吃不起饭 没有基本的生存尊严那种难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078463722759291106",
+        "created_at": "2026-07-19T08:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078755882721300676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078755882721300676",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078735361900163394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 你说的精神层次上的平等，建立在对方已经是个普通人的基础上，但是我的意思是很多人连这个入场券都没有，我并没有在说个体的心理感受，因为这个确实因人而异，我说的是客观的现实问题，有的人连活着都很难，吃不起饭 没有基本的生存尊严那种难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934302404922810369",
+        "conversation_id": "2078463722759291106",
+        "created_at": "2026-07-19T06:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078735361900163394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078735361900163394",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078463722759291106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 但不重要不是吗 每个人都是独立的个体  首先他人的苦难与我无关 其次 我认为其实人都是一样的 不管是穷人也好富人也罢 在精神层次上都一样 我买个200的皮肤我可以开心好几天 但对他们来说可能是几万几十万的东西才能获得跟我一样的快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "🚪52 不是健全b 09 偶尔zc 经常缺爱/发牢骚/负能 诚招一位打三角洲厉害的姐姐 入门的小宝宝都会被我关爱被我哄的 接定制 有想我念的台本可以私发给我呀 匿名提问:https://t.co/tITXigjnoR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/suki",
+                "end": 108,
+                "expanded_url": "https://miyu.link/suki",
+                "start": 85,
+                "url": "https://t.co/tITXigjnoR"
+              }
+            ]
+          }
+        },
+        "id": "1934302404922810369",
+        "name": "suki！",
+        "pinned_tweet_id": "2077842866861404550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 23,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

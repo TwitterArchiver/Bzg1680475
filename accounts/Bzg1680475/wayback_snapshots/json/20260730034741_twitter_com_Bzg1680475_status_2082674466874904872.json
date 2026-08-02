@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082674466874904872",
+    "created_at": "2026-07-30T03:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082674466874904872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082674466874904872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想穿巴黎假日jsk啊，js你有啥办法不，哦多小妇人你啥时候抬上来啊…我30之前能穿上小妇人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082674466874904872",
+        "created_at": "2026-07-30T03:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082674466874904872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082674466874904872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想穿巴黎假日jsk啊，js你有啥办法不，哦多小妇人你啥时候抬上来啊…我30之前能穿上小妇人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 20,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

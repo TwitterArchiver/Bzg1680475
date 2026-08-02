@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078663785502650544",
+    "created_at": "2026-07-19T02:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078664178873884886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078664178873884886",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078663785502650544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我再也不买揭阳发货的东西了……😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078663785502650544",
+        "created_at": "2026-07-19T02:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078664178873884886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078664178873884886",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078663785502650544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我再也不买揭阳发货的东西了……😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078663785502650544",
+        "created_at": "2026-07-19T02:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078663785502650544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078663785502650544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不认为不喜欢动物的人有什么错，但是我坚定地唾弃伤害虐杀的凶手，如果连动物的命都不在意，那下一次受到伤害就是人命，为动物发声，也是在为人类安全发声，我只是想安全地活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

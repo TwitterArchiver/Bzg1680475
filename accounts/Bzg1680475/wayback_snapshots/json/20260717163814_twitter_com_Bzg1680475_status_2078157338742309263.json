@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078113784133272060",
+    "created_at": "2026-07-17T16:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078157338742309263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2068538057213771776",
+          "start": 0,
+          "username": "Ta7tk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078157338742309263",
+    "in_reply_to_user_id": "2068538057213771776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078113784133272060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta7tk6 好漂亮的眼睛！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078113778299006976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbxeJZbcAA18_K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078113784133272060",
+        "created_at": "2026-07-17T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078157338742309263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2068538057213771776",
+              "start": 0,
+              "username": "Ta7tk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078157338742309263",
+        "in_reply_to_user_id": "2068538057213771776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078113784133272060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta7tk6 好漂亮的眼睛！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078113778299006976"
+          ]
+        },
+        "author_id": "2068538057213771776",
+        "conversation_id": "2078113784133272060",
+        "created_at": "2026-07-17T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078113784133272060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M82cFvy7cv",
+              "end": 29,
+              "expanded_url": "https://x.com/Ta7tk6/status/2078113784133272060/photo/1",
+              "media_key": "3_2078113778299006976",
+              "start": 6,
+              "url": "https://t.co/M82cFvy7cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078113784133272060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3919,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりだ https://t.co/M82cFvy7cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 82,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T03:35:13.000Z",
+        "description": "ファッション初心者🔰\n\nhttps://t.co/9VatLcHyF5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 35,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/28BKVENSJFAK?ref_=wl_share",
+                "start": 12,
+                "url": "https://t.co/9VatLcHyF5"
+              }
+            ]
+          }
+        },
+        "id": "2068538057213771776",
+        "name": "優良物件",
+        "pinned_tweet_id": "2076686858432762189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068538296528142336/akrH6rQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 41,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "Ta7tk6",
+        "verified": false
+      }
+    ]
+  }
+}

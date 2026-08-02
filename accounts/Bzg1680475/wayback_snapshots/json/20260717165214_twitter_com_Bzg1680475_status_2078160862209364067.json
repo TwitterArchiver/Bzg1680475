@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078159699426603054",
+    "created_at": "2026-07-17T16:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078160862209364067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936844560652726272",
+          "start": 0,
+          "username": "XiaoYePo"
+        },
+        {
+          "end": 20,
+          "id": "1714607557375819776",
+          "start": 10,
+          "username": "Yabatame3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078160862209364067",
+    "in_reply_to_user_id": "1936844560652726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078159699426603054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYePo @Yabatame3 不是要休息几天吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 299932,
+        "height": 480,
+        "media_key": "13_2078157657534558208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078157657534558208/img/DyGVly5TO0pGGGo5.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078157657534558208/vid/avc1/320x320/huCB9xVqCW-PpzpX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078157657534558208/vid/avc1/480x480/uiWne68Qoe6xdt8Z.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078157657534558208/pl/WOyfsYDKZCTh8RZX.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078159699426603054",
+        "created_at": "2026-07-17T16:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078160862209364067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936844560652726272",
+              "start": 0,
+              "username": "XiaoYePo"
+            },
+            {
+              "end": 20,
+              "id": "1714607557375819776",
+              "start": 10,
+              "username": "Yabatame3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078160862209364067",
+        "in_reply_to_user_id": "1936844560652726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078159699426603054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYePo @Yabatame3 不是要休息几天吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078157657534558208"
+          ]
+        },
+        "author_id": "1936844560652726272",
+        "conversation_id": "2078159699426603054",
+        "created_at": "2026-07-17T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078159699426603054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "女性向"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "男喘"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "1i"
+            },
+            {
+              "end": 141,
+              "start": 131,
+              "tag": "Dirtytalk"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "中出"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "口交"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "粗口"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "温柔"
+            },
+            {
+              "end": 162,
+              "start": 158,
+              "tag": "青受音"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "一爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1714607557375819776",
+              "start": 107,
+              "username": "Yabatame3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUTcS1KS9a",
+              "end": 190,
+              "expanded_url": "https://x.com/XiaoYePo/status/2078159699426603054/video/1",
+              "media_key": "13_2078157657534558208",
+              "start": 167,
+              "url": "https://t.co/bUTcS1KS9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078159699426603054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "年级第一的白切黑学霸✖️混不明白的怂包（前）小太妹2️⃣\n“我还以为这段时间，早就把你操乖了。”\n\n“另一只手干嘛呢，允许你自己扣了吗？“\n\n“整整半个学期了……你这个笨蛋到底懂不懂？”\n\r与目三老师依旧默契交锋 @yabatame3\n#女性向 #男喘 #1i #Dirtytalk #中出 #口交 #粗口 #温柔 #青受音 #一爱 https://t.co/bUTcS1KS9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 82,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T17:51:51.000Z",
+        "description": "07 | 如果能被大家喜欢的话就太好啦\n匿名提问在这里~ https://t.co/HbxsS8SUNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye42026",
+                "end": 52,
+                "expanded_url": "http://ngl.link/xiaoye42026",
+                "start": 29,
+                "url": "https://t.co/HbxsS8SUNQ"
+              }
+            ]
+          }
+        },
+        "id": "1936844560652726272",
+        "location": "5.20km",
+        "name": "小也",
+        "pinned_tweet_id": "2077059068859187674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061481799197270016/OTuxVuSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 26,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "XiaoYePo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T11:41:23.000Z",
+        "description": "人类都是有七情六欲的，我注册账号就是为了看点黄的🫡\n背景里的是我的小猫，他们是异父异母的好兄弟，请不要说他们坏话🥺",
+        "id": "1714607557375819776",
+        "name": "目三",
+        "pinned_tweet_id": "2077945265290641588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011594347767365632/VIhq9vDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 72,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Yabatame3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078427432189903309",
+    "created_at": "2026-07-18T11:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078438802230776293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078438802230776293",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078435369369096324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 怎么看出来的！其实是因为在小红书上刷到的一个姐姐收到了高考完的资助女孩送来的一些小礼物 被触动到了，目前因为工作还不是很稳定，就只能捐月经包给妹妹们，没稳定了，想看一下能不能在生活方面给一点支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078427432189903309",
+        "created_at": "2026-07-18T11:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078438802230776293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078438802230776293",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078435369369096324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 怎么看出来的！其实是因为在小红书上刷到的一个姐姐收到了高考完的资助女孩送来的一些小礼物 被触动到了，目前因为工作还不是很稳定，就只能捐月经包给妹妹们，没稳定了，想看一下能不能在生活方面给一点支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2078427432189903309",
+        "created_at": "2026-07-18T11:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078435369369096324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078435369369096324",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078427432189903309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 infp吗老师，，怎么要讲这么有爱的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 81,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "也许你不相信，我喜欢有厚度的灵魂\nENTP 后续会写OC吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chord233",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chord233",
+                "start": 0,
+                "url": "https://t.co/EjG60s7FGR"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "location": "ShenZhen,GuangDong, China",
+        "name": "chord",
+        "pinned_tweet_id": "2078335624516600110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 828,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/EjG60s7FGR",
+        "username": "chord244",
+        "verified": false
+      }
+    ]
+  }
+}

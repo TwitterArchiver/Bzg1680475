@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2071945770312597820",
+    "created_at": "2026-06-30T17:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072005902945915362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2063788679739666432",
+          "start": 0,
+          "username": "S2___95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072005902945915362",
+    "in_reply_to_user_id": "2063788679739666432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071945770312597820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S2___95 好厉害的宝宝！女人团结起来就是最厉害的！我也很喜欢大部分韩女！你们是榜样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2071945770312597820",
+        "created_at": "2026-06-30T17:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072005902945915362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2063788679739666432",
+              "start": 0,
+              "username": "S2___95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072005902945915362",
+        "in_reply_to_user_id": "2063788679739666432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071945770312597820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S2___95 好厉害的宝宝！女人团结起来就是最厉害的！我也很喜欢大部分韩女！你们是榜样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063788679739666432",
+        "conversation_id": "2071945770312597820",
+        "created_at": "2026-06-30T13:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071945770312597820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071945770312597820",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 137933,
+          "like_count": 3467,
+          "quote_count": 13,
+          "reply_count": 414,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "중녀언니들 우리가 이겼어\n나 개 열심히 욕했으니까 마지막으로 칭찬부탁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 59,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T01:05:04.000Z",
+        "description": "이서언 일반인 여자친구",
+        "id": "2063788679739666432",
+        "location": "럽딥계",
+        "name": "하니 ｡♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063841361707913216/3FJ9Gxle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 77,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "S2___95",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078340116842418296",
+    "created_at": "2026-07-18T11:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078441335602938110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905716862836731904",
+          "start": 0,
+          "username": "Osaka989916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078441335602938110",
+    "in_reply_to_user_id": "1905716862836731904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078340116842418296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Osaka989916 我的天！第一次见这么长的舌头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2078340100153319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe_T0AWoAASSxY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078340116842418296",
+        "created_at": "2026-07-18T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078441335602938110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905716862836731904",
+              "start": 0,
+              "username": "Osaka989916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078441335602938110",
+        "in_reply_to_user_id": "1905716862836731904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078340116842418296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Osaka989916 我的天！第一次见这么长的舌头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078340100153319424"
+          ]
+        },
+        "author_id": "1905716862836731904",
+        "conversation_id": "2078340116842418296",
+        "created_at": "2026-07-18T04:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078340116842418296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyOWbAzPM5",
+              "end": 23,
+              "expanded_url": "https://x.com/Osaka989916/status/2078340116842418296/photo/1",
+              "media_key": "3_2078340100153319424",
+              "start": 0,
+              "url": "https://t.co/QyOWbAzPM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078340116842418296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1034,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QyOWbAzPM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T20:21:31.000Z",
+        "description": "🚪88",
+        "id": "1905716862836731904",
+        "name": "如果可以的话我想再看你一眼",
+        "pinned_tweet_id": "2067537600647172132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076090257188020225/SXgRHLBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 3,
+          "like_count": 236,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Osaka989916",
+        "verified": false
+      }
+    ]
+  }
+}

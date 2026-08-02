@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2040023041011540057",
+    "created_at": "2026-07-06T15:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074152780156293355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873707906631421953",
+          "start": 0,
+          "username": "ICEcryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074152780156293355",
+    "in_reply_to_user_id": "1873707906631421953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040023041011540057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEcryy 闷死算喜丧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2040023041011540057",
+        "created_at": "2026-07-06T15:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074152780156293355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873707906631421953",
+              "start": 0,
+              "username": "ICEcryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074152780156293355",
+        "in_reply_to_user_id": "1873707906631421953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040023041011540057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEcryy 闷死算喜丧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873707906631421953",
+        "conversation_id": "2040023041011540057",
+        "created_at": "2026-04-03T11:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040023041011540057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040023041011540057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3210,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我有老婆了我就天天给她舔逼 舔完逼舔屁眼 舔完屁眼舔脚 我就这样当狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:29:20.000Z",
+        "description": "他的心像不化的冰 \n\nswitch ｜188🚪好友位 ｜直男",
+        "id": "1873707906631421953",
+        "location": "我希望平静 然后幸福",
+        "name": "𝑪𝒐𝟏𝒅",
+        "pinned_tweet_id": "1934898377743036855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070792598697164800/VNdDWXcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 0,
+          "like_count": 3008,
+          "listed_count": 35,
+          "media_count": 47,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "ICEcryy",
+        "verified": false
+      }
+    ]
+  }
+}

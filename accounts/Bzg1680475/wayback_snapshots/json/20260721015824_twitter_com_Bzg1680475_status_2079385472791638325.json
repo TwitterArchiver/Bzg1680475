@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079384719431696527",
+    "created_at": "2026-07-21T01:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079385472791638325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936844560652726272",
+          "start": 0,
+          "username": "XiaoYePo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079385472791638325",
+    "in_reply_to_user_id": "1936844560652726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079384719431696527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYePo 真是把男喘当铁饭碗一样认真对待了啊主播"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079384719431696527",
+        "created_at": "2026-07-21T01:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079385472791638325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936844560652726272",
+              "start": 0,
+              "username": "XiaoYePo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079385472791638325",
+        "in_reply_to_user_id": "1936844560652726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079384719431696527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYePo 真是把男喘当铁饭碗一样认真对待了啊主播"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936844560652726272",
+        "conversation_id": "2079384719431696527",
+        "created_at": "2026-07-21T01:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079384719431696527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079384719431696527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在已经学会怎么配双声道了，你们等着我在以后的作品里左一声右一下的烧叫吧😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 44,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T17:51:51.000Z",
+        "description": "07 | 如果能被大家喜欢的话就太好啦\n匿名提问在这里~ https://t.co/HbxsS8SUNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye42026",
+                "end": 52,
+                "expanded_url": "http://ngl.link/xiaoye42026",
+                "start": 29,
+                "url": "https://t.co/HbxsS8SUNQ"
+              }
+            ]
+          }
+        },
+        "id": "1936844560652726272",
+        "location": "5.20km",
+        "name": "小也",
+        "pinned_tweet_id": "2078507502572802261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061481799197270016/OTuxVuSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 29,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "XiaoYePo",
+        "verified": false
+      }
+    ]
+  }
+}

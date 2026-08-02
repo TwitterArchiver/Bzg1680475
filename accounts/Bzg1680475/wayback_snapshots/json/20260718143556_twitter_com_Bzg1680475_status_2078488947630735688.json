@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078480727885353425",
+    "created_at": "2026-07-18T14:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078488947630735688"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078488947630735688",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078480727885353425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "它的尾巴被人断了 或许是天生断尾，但也像个兔子，好可爱 小猫不管如何都很可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078480476508180480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg--yra0AAX5Zf.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2078480476516605952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg--ytbYAAzQRP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2078480476512337921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg--ysaQAEed-c.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078480727885353425",
+        "created_at": "2026-07-18T14:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078488947630735688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078488947630735688",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078480727885353425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "它的尾巴被人断了 或许是天生断尾，但也像个兔子，好可爱 小猫不管如何都很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480476508180480",
+            "3_2078480476516605952",
+            "3_2078480476512337921"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078480727885353425",
+        "created_at": "2026-07-18T14:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078480727885353425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHex71Hdbr",
+              "end": 66,
+              "expanded_url": "https://x.com/Bzg1680475/status/2078480727885353425/photo/1",
+              "media_key": "3_2078480476508180480",
+              "start": 43,
+              "url": "https://t.co/NHex71Hdbr"
+            },
+            {
+              "display_url": "pic.x.com/NHex71Hdbr",
+              "end": 66,
+              "expanded_url": "https://x.com/Bzg1680475/status/2078480727885353425/photo/1",
+              "media_key": "3_2078480476516605952",
+              "start": 43,
+              "url": "https://t.co/NHex71Hdbr"
+            },
+            {
+              "display_url": "pic.x.com/NHex71Hdbr",
+              "end": 66,
+              "expanded_url": "https://x.com/Bzg1680475/status/2078480727885353425/photo/1",
+              "media_key": "3_2078480476512337921",
+              "start": 43,
+              "url": "https://t.co/NHex71Hdbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078480727885353425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被断尾的小流浪猫  好可怜 很亲人  本想带回家但是好像不太愿意跟我走 投喂了鳕鱼肠 https://t.co/NHex71Hdbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 83,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

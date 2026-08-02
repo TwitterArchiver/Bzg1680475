@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079759867443920896"
+      ],
+      "media_source_tweet_id": [
+        "2080071391328571541"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080345689780031844",
+    "created_at": "2026-07-23T17:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080345689780031844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Shtr3Svb59",
+          "end": 60,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2080071391328571541/video/1",
+          "media_key": "13_2079759867443920896",
+          "start": 37,
+          "url": "https://t.co/Shtr3Svb59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080345689780031844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080071391328571541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: りんごが好きすぎる猫ちゃんが可愛い https://t.co/Shtr3Svb59"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3866,
+        "height": 900,
+        "media_key": "13_2079759867443920896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079759867443920896/img/2K4UdTFAmilx1XyC.jpg",
+        "public_metrics": {
+          "view_count": 86363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079759867443920896/vid/avc1/320x400/PSZi4MoAO4aMQibW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079759867443920896/vid/avc1/480x600/0kerC67OaOSiGlwh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079759867443920896/vid/avc1/720x900/9-plYRXYCTN8bgyd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079759867443920896/pl/D9eGEuyTtWLUSFXU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079759867443920896"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2080071391328571541",
+        "created_at": "2026-07-22T23:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080071391328571541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Shtr3Svb59",
+              "end": 41,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2080071391328571541/video/1",
+              "media_key": "13_2079759867443920896",
+              "start": 18,
+              "url": "https://t.co/Shtr3Svb59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080071391328571541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 682,
+          "impression_count": 238171,
+          "like_count": 15763,
+          "quote_count": 56,
+          "reply_count": 75,
+          "retweet_count": 1249
+        },
+        "reply_settings": "everyone",
+        "text": "りんごが好きすぎる猫ちゃんが可愛い https://t.co/Shtr3Svb59"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079759867443920896"
+          ],
+          "media_source_tweet_id": [
+            "2080071391328571541"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080345689780031844",
+        "created_at": "2026-07-23T17:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080345689780031844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Shtr3Svb59",
+              "end": 60,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2080071391328571541/video/1",
+              "media_key": "13_2079759867443920896",
+              "start": 37,
+              "url": "https://t.co/Shtr3Svb59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080345689780031844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080071391328571541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: りんごが好きすぎる猫ちゃんが可愛い https://t.co/Shtr3Svb59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 46,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331089,
+          "following_count": 0,
+          "like_count": 4550,
+          "listed_count": 521,
+          "media_count": 9592,
+          "tweet_count": 9734
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

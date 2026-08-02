@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078861888792957363",
+    "created_at": "2026-07-19T19:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078922339040063966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078922339040063966",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078861888792957363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 真的有点天赋异禀了不是我说……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 270651,
+        "height": 684,
+        "media_key": "13_2078861575709130752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078861575709130752/img/OTaycJVbtl6rdKaq.jpg",
+        "public_metrics": {
+          "view_count": 2827
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078861575709130752/vid/avc1/504x270/de_0uq5E4jB-sxOU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078861575709130752/vid/avc1/672x360/FlbBK_9lWaEkNHMu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078861575709130752/vid/avc1/1280x684/O0iBejNXof1rzKKT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078861575709130752/pl/cUGxT5a3s7mlGgb4.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078861888792957363",
+        "created_at": "2026-07-19T19:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078922339040063966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078922339040063966",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078861888792957363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 真的有点天赋异禀了不是我说……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078861575709130752"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "2078861888792957363",
+        "created_at": "2026-07-19T15:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078861888792957363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsYH64hrHN",
+              "end": 28,
+              "expanded_url": "https://x.com/dd_bbls/status/2078861888792957363/video/1",
+              "media_key": "13_2078861575709130752",
+              "start": 5,
+              "url": "https://t.co/FsYH64hrHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078861888792957363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 10685,
+          "like_count": 442,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "脱不脱～ https://t.co/FsYH64hrHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 88,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "纯直男，欢迎大家在私信或者匿名提问来找我玩呀～～匿名提问链接：https://t.co/Txsii6Ume0 加v有🚪288/520详情欢迎私信。小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dd_bbls1",
+                "end": 54,
+                "expanded_url": "https://ngl.link/dd_bbls1",
+                "start": 31,
+                "url": "https://t.co/Txsii6Ume0"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89387,
+          "following_count": 84,
+          "like_count": 6347,
+          "listed_count": 240,
+          "media_count": 39,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

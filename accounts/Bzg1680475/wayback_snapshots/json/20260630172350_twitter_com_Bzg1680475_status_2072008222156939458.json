@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2071942085620686851",
+    "created_at": "2026-06-30T17:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072008222156939458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2059653619402539013",
+          "start": 0,
+          "username": "miaberriem17l"
+        },
+        {
+          "end": 26,
+          "id": "1893030061848305665",
+          "start": 15,
+          "username": "Xyyyy_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072008222156939458",
+    "in_reply_to_user_id": "2059653619402539013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071973304504569995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaberriem17l @Xyyyy_0324 那你殉情吧 和你推一起去死吧 忌日快乐😜😜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2071942085620686851",
+        "created_at": "2026-06-30T17:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072008222156939458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2059653619402539013",
+              "start": 0,
+              "username": "miaberriem17l"
+            },
+            {
+              "end": 26,
+              "id": "1893030061848305665",
+              "start": 15,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072008222156939458",
+        "in_reply_to_user_id": "2059653619402539013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071973304504569995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaberriem17l @Xyyyy_0324 那你殉情吧 和你推一起去死吧 忌日快乐😜😜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059653619402539013",
+        "conversation_id": "2071942085620686851",
+        "created_at": "2026-06-30T15:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071973304504569995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893030061848305665",
+              "start": 0,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973304504569995",
+        "in_reply_to_user_id": "1893030061848305665",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3783,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071942085620686851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyy_0324 FUCK YALL FUCKING CHINESE PLAYERS BITCHES FUCKING ULGY RACISTS🖕🖕🖕🖕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 60,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T15:11:56.000Z",
+        "description": "CHINESE PLAYERS FROM LOVE AND DEEPSPACE FCK YALL🖕",
+        "id": "2059653619402539013",
+        "name": "sonofbish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071961917308977152/4e_-Ka19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "miaberriem17l",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "08 🇯🇵本科艺留 可以叫我小氧^^我有恋哥癖 钱性恋。无🚪只加互关！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 114,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 91,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 301,
+          "like_count": 8465,
+          "listed_count": 7,
+          "media_count": 421,
+          "tweet_count": 3803
+        },
+        "url": "",
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

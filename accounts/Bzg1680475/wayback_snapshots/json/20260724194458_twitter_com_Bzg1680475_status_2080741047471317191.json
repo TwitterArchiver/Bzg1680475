@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080710010498339123",
+    "created_at": "2026-07-24T19:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080741047471317191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039890858976440320",
+          "start": 0,
+          "username": "Peaceeeeeeub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080741047471317191",
+    "in_reply_to_user_id": "2039890858976440320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080710010498339123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peaceeeeeeub 好可爱哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080709997567397888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAqt_2b0AAvqoG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080710010498339123",
+        "created_at": "2026-07-24T19:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080741047471317191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039890858976440320",
+              "start": 0,
+              "username": "Peaceeeeeeub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080741047471317191",
+        "in_reply_to_user_id": "2039890858976440320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080710010498339123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peaceeeeeeub 好可爱哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080709997567397888"
+          ]
+        },
+        "author_id": "2039890858976440320",
+        "conversation_id": "2080710010498339123",
+        "created_at": "2026-07-24T17:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080710010498339123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHiFn16Zmo",
+              "end": 38,
+              "expanded_url": "https://x.com/Peaceeeeeeub/status/2080710010498339123/photo/1",
+              "media_key": "3_2080709997567397888",
+              "start": 15,
+              "url": "https://t.co/XHiFn16Zmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080710010498339123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1113,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肉腿…还有小肚子…\n还是发了 https://t.co/XHiFn16Zmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 46,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T02:22:56.000Z",
+        "description": "我只是一个20岁的阿宅。主页都是碎碎念转发和自拍。不加联系方式但是萌妹子互fo大欢迎🥺需要互fo可以私信我！\nhttps://t.co/KFNKQI0MM3 欢迎来提问！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dachuiiii",
+                "end": 78,
+                "expanded_url": "http://ngl.link/dachuiiii",
+                "start": 55,
+                "url": "https://t.co/KFNKQI0MM3"
+              }
+            ]
+          }
+        },
+        "id": "2039890858976440320",
+        "name": "Dachuiiii",
+        "pinned_tweet_id": "2071784746385064101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811051093258240/9zIkOlX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 84,
+          "like_count": 5193,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "Peaceeeeeeub",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078090704224678284",
+    "created_at": "2026-07-17T12:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078090704224678284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2064253263952912384",
+          "start": 3,
+          "username": "Yuani7muf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078090704224678284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077847699278414166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuani7muf: 我刷到那个“被性侵时穿什么”展览真的很荒谬很可悲啊 为什么始终是受害者在自证 这到底有什么用 目光不应该聚焦受害者\n\n为什么不能是强奸犯处刑纪念馆 走进去里面贴着每个强奸犯的入狱照 年龄 职业 刑罚 狱中劳作 以及出狱后永远悲惨的后果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078090704224678284",
+        "created_at": "2026-07-17T12:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078090704224678284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2064253263952912384",
+              "start": 3,
+              "username": "Yuani7muf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078090704224678284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077847699278414166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuani7muf: 我刷到那个“被性侵时穿什么”展览真的很荒谬很可悲啊 为什么始终是受害者在自证 这到底有什么用 目光不应该聚焦受害者\n\n为什么不能是强奸犯处刑纪念馆 走进去里面贴着每个强奸犯的入狱照 年龄 职业 刑罚 狱中劳作 以及出狱后永远悲惨的后果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064253263952912384",
+        "conversation_id": "2077847699278414166",
+        "created_at": "2026-07-16T20:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077847699278414166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077847699278414166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12080,
+          "like_count": 556,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我刷到那个“被性侵时穿什么”展览真的很荒谬很可悲啊 为什么始终是受害者在自证 这到底有什么用 目光不应该聚焦受害者\n\n为什么不能是强奸犯处刑纪念馆 走进去里面贴着每个强奸犯的入狱照 年龄 职业 刑罚 狱中劳作 以及出狱后永远悲惨的后果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 80,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T07:49:41.000Z",
+        "description": "美丽坏女人小yuan\n你喜欢我我就喜欢你\n我吃性转和gb，不接受的远离我",
+        "id": "2064253263952912384",
+        "name": "Yuani",
+        "pinned_tweet_id": "2075553039835078790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064381537865576452/C-0mVf_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 204,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "Yuani7muf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079260377020612984",
+    "created_at": "2026-07-21T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079410171458310245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903118459443220480",
+          "start": 0,
+          "username": "Shaomai1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079410171458310245",
+    "in_reply_to_user_id": "1903118459443220480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079260377020612984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shaomai1024 还有这好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079260377020612984",
+        "created_at": "2026-07-21T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079410171458310245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903118459443220480",
+              "start": 0,
+              "username": "Shaomai1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410171458310245",
+        "in_reply_to_user_id": "1903118459443220480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079260377020612984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shaomai1024 还有这好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903118459443220480",
+        "conversation_id": "2079260377020612984",
+        "created_at": "2026-07-20T17:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079260377020612984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079260377020612984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1778,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我到底哪里不够好了…就是年纪小一点吗 我有积蓄可以养你的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 44,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:16:22.000Z",
+        "description": "祝我日常幸福",
+        "id": "1903118459443220480",
+        "name": "邦邦",
+        "pinned_tweet_id": "2006520212766802033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025182110521147394/9yz8zVUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 66,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "Shaomai1024",
+        "verified": false
+      }
+    ]
+  }
+}

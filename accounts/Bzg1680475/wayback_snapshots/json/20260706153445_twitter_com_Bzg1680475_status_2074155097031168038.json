@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2073992668632281250",
+    "created_at": "2026-07-06T15:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074155097031168038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813792666364047360",
+          "start": 0,
+          "username": "nxrc0lics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074155097031168038",
+    "in_reply_to_user_id": "1813792666364047360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073992668632281250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nxrc0lics 好漂亮的纹身"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2015,
+        "media_key": "3_2073992657848651776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhNVXXWUAACv_1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2073992668632281250",
+        "created_at": "2026-07-06T15:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074155097031168038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813792666364047360",
+              "start": 0,
+              "username": "nxrc0lics"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074155097031168038",
+        "in_reply_to_user_id": "1813792666364047360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073992668632281250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nxrc0lics 好漂亮的纹身"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073992657848651776"
+          ]
+        },
+        "author_id": "1813792666364047360",
+        "conversation_id": "2073992668632281250",
+        "created_at": "2026-07-06T04:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073992668632281250"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 14,
+              "tag": "SeductiveSunday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/432ek9FBgz",
+              "end": 58,
+              "expanded_url": "https://x.com/nxrc0lics/status/2073992668632281250/photo/1",
+              "media_key": "3_2073992657848651776",
+              "start": 35,
+              "url": "https://t.co/432ek9FBgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073992668632281250",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2429,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ᅠᅠ\nᅠᅠᅠᅠᅠᅠᅠᅠ;` #SeductiveSunday ៹ ☆ https://t.co/432ek9FBgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:27:42.000Z",
+        "description": "ᅠᅠ﹙ᅠ𝚇𝚇𝚅ᅠ.ᅠ191cmᅠ﹚ᅠ⺌ᅠLove  is  𝖓𝖔𝖙    ᅠᅠᅠ ᅠeasy / especially  when  you're  with  𝖒𝖊.\nᅠᅠ",
+        "id": "1813792666364047360",
+        "name": "ᅠ˖ ࣪♱ᅠᅠᅠ",
+        "pinned_tweet_id": "2073161607694393433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073161459735973888/ZYN0eGz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 260,
+          "like_count": 1342,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "nxrc0lics",
+        "verified": false
+      }
+    ]
+  }
+}

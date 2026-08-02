@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2077424550632161532",
+    "created_at": "2026-07-15T16:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077433980601995679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936844560652726272",
+          "start": 0,
+          "username": "XiaoYePo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077433980601995679",
+    "in_reply_to_user_id": "1936844560652726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077433596701540787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYePo 下次感觉可以把麦放下面一点呢……讲话的声音其实远远传来也是很那个了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2077424550632161532",
+        "created_at": "2026-07-15T16:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077433980601995679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936844560652726272",
+              "start": 0,
+              "username": "XiaoYePo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077433980601995679",
+        "in_reply_to_user_id": "1936844560652726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077433596701540787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYePo 下次感觉可以把麦放下面一点呢……讲话的声音其实远远传来也是很那个了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936844560652726272",
+        "conversation_id": "2077424550632161532",
+        "created_at": "2026-07-15T16:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077433596701540787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077433596701540787",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077432908630180320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 完全害羞..🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T17:51:51.000Z",
+        "description": "07 | 如果能被大家喜欢的话就太好啦\n匿名提问在这里~ https://t.co/HbxsS8SUNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye42026",
+                "end": 52,
+                "expanded_url": "http://ngl.link/xiaoye42026",
+                "start": 29,
+                "url": "https://t.co/HbxsS8SUNQ"
+              }
+            ]
+          }
+        },
+        "id": "1936844560652726272",
+        "location": "5.20km",
+        "name": "小也",
+        "pinned_tweet_id": "2077059068859187674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061481799197270016/OTuxVuSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 23,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "XiaoYePo",
+        "verified": false
+      }
+    ]
+  }
+}

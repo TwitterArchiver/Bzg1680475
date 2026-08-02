@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2071592915131101435",
+    "created_at": "2026-06-30T17:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072011449518747791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701249690723926016",
+          "start": 0,
+          "username": "KatrinWill17234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072011449518747791",
+    "in_reply_to_user_id": "1701249690723926016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071592915131101435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KatrinWill17234 知己来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2071592915131101435",
+        "created_at": "2026-06-30T17:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072011449518747791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701249690723926016",
+              "start": 0,
+              "username": "KatrinWill17234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072011449518747791",
+        "in_reply_to_user_id": "1701249690723926016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071592915131101435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KatrinWill17234 知己来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701249690723926016",
+        "conversation_id": "2071592915131101435",
+        "created_at": "2026-06-29T13:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071592915131101435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071592915131101435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "乳头不敏感的男人很无趣。\n坐着一块打游戏，我有一搭没一搭地伸手从后面给披萨哥进行乳腺检查，摸到一个像小颗粒皮下硬块的东西，我皱眉头还抠半天，他若无其事地一直和我正常聊天\n我：你好像有乳腺结节，怎么这么明显啊，我指压这个滑块你痛不痛？平时会间歇针样刺痛吗？\n他（平静）：那是我乳头，你已经抠很久了。\n\n我尼玛像个阴痿无能的妻子，玩弄半天丈夫结果对方呆呆地问你在干嘛呀。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 222744,
+          "like_count": 1720,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "乳头不敏感的男人很无趣。\n坐着一块打游戏，我有一搭没一搭地伸手从后面给披萨哥进行乳腺检查，摸到一个像小颗粒皮下硬块的东西，我皱眉头还抠半天，他若无其事地一直和我正常聊天\n我：你好像有乳腺结节，怎么这么明显啊，我指压这个滑块你痛不痛？平时会间歇针样刺痛吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 60,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T15:02:11.000Z",
+        "description": "不接广，随便记录的活人\n成分复杂难以简介，以前被说可爱，现在完全属于变态。\nintj",
+        "id": "1701249690723926016",
+        "location": "Hong Kong",
+        "name": "说吧超市谁",
+        "pinned_tweet_id": "1806247222583177521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909136539034230784/XZKtWNSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 54,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "KatrinWill17234",
+        "verified": true
+      }
+    ]
+  }
+}

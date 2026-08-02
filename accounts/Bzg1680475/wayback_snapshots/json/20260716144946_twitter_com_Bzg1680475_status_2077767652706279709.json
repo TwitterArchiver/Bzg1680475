@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2077739422553198949",
+    "created_at": "2026-07-16T14:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077767652706279709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1534869548981268480",
+          "start": 0,
+          "username": "dingshuding3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077767652706279709",
+    "in_reply_to_user_id": "1534869548981268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077739422553198949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingshuding3 哇塞 感觉好瘦哦 多重呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077739409114546177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWc-_gaQAEJODi.jpg",
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2077739422553198949",
+        "created_at": "2026-07-16T14:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077767652706279709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1534869548981268480",
+              "start": 0,
+              "username": "dingshuding3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077767652706279709",
+        "in_reply_to_user_id": "1534869548981268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077739422553198949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingshuding3 哇塞 感觉好瘦哦 多重呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077739409114546177"
+          ]
+        },
+        "author_id": "1534869548981268480",
+        "conversation_id": "2077739422553198949",
+        "created_at": "2026-07-16T12:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077739422553198949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxoRRWRfwu",
+              "end": 36,
+              "expanded_url": "https://x.com/dingshuding3/status/2077739422553198949/photo/1",
+              "media_key": "3_2077739409114546177",
+              "start": 13,
+              "url": "https://t.co/LxoRRWRfwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077739422553198949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 628,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以你怎么还不来找我聊天 https://t.co/LxoRRWRfwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 72,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T12:06:41.000Z",
+        "description": "退学 直的\n防走丢@suxiaojiuxin 超级好用的梯子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "suxiaojiuxin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mojie.best/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://mojie.best/#/register?code=75oHGWF4",
+                "start": 0,
+                "url": "https://t.co/K8uoHhcnfo"
+              }
+            ]
+          }
+        },
+        "id": "1534869548981268480",
+        "name": "营养快线",
+        "pinned_tweet_id": "2012740471727313145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734947370255675392/2ULFzEJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3803,
+          "following_count": 295,
+          "like_count": 3080,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/K8uoHhcnfo",
+        "username": "dingshuding3",
+        "verified": false
+      }
+    ]
+  }
+}

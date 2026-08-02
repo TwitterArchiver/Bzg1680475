@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082142739081343077",
+    "created_at": "2026-07-29T04:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082321504549875913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016408687854944258",
+          "start": 0,
+          "username": "kawaiilu3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082321504549875913",
+    "in_reply_to_user_id": "2016408687854944258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082142739081343077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiilu3u 和我聊的话 都可以哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082142739081343077",
+        "created_at": "2026-07-29T04:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082321504549875913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016408687854944258",
+              "start": 0,
+              "username": "kawaiilu3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082321504549875913",
+        "in_reply_to_user_id": "2016408687854944258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082142739081343077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiilu3u 和我聊的话 都可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016408687854944258",
+        "conversation_id": "2082142739081343077",
+        "created_at": "2026-07-28T16:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082142739081343077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082142739081343077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 45972,
+          "like_count": 495,
+          "quote_count": 10,
+          "reply_count": 113,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "到底和谁聊才可以又发骚又犯贱又撒娇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 19,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T07:11:18.000Z",
+        "description": "爱比项圈更系得紧",
+        "id": "2016408687854944258",
+        "name": "糟糕露馅了",
+        "pinned_tweet_id": "2081890271625982456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066567148827492352/DHoe8jD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "kawaiilu3u",
+        "verified": false
+      }
+    ]
+  }
+}

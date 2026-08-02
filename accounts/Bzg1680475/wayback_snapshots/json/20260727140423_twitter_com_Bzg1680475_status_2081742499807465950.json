@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081635273939865741",
+    "created_at": "2026-07-27T14:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081742499807465950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858477736697745408",
+          "start": 0,
+          "username": "rayexis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081742499807465950",
+    "in_reply_to_user_id": "1858477736697745408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081635273939865741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rayexis 好棒！恭喜你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081635273939865741",
+        "created_at": "2026-07-27T14:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081742499807465950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858477736697745408",
+              "start": 0,
+              "username": "rayexis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081742499807465950",
+        "in_reply_to_user_id": "1858477736697745408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081635273939865741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rayexis 好棒！恭喜你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858477736697745408",
+        "conversation_id": "2081635273939865741",
+        "created_at": "2026-07-27T06:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081635273939865741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rayexis/status…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/rayexis/status/1988662047178146293",
+              "start": 82,
+              "url": "https://t.co/cGwIXU7AlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081635273939865741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 1879662,
+          "like_count": 123123,
+          "quote_count": 72,
+          "reply_count": 803,
+          "retweet_count": 3609
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988662047178146293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I DID IT!! I FUCKING BEAT CANCER AT 23 !!!! I FUCKING DID IT YALL IM IN REMISSION https://t.co/cGwIXU7AlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 19,
+          "like_count": 898,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T11:50:12.000Z",
+        "description": "ex tech writer, current full time artist // dm for commissions!! (self taught)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artwjo.carrd.co",
+                "end": 23,
+                "expanded_url": "http://artwjo.carrd.co",
+                "start": 0,
+                "url": "https://t.co/dLMchyqg6W"
+              }
+            ]
+          }
+        },
+        "id": "1858477736697745408",
+        "location": "they / she 23",
+        "name": "joanne",
+        "pinned_tweet_id": "2076304035410514017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952692516181966848/76EvUkNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 477,
+          "like_count": 30141,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 15144
+        },
+        "url": "https://t.co/dLMchyqg6W",
+        "username": "rayexis",
+        "verified": false
+      }
+    ]
+  }
+}

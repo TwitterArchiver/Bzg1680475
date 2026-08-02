@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080703547398856770",
+    "created_at": "2026-07-24T18:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080728304072663093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709527622349209600",
+          "start": 0,
+          "username": "Dodoubleg12321L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080728304072663093",
+    "in_reply_to_user_id": "1709527622349209600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080721212318355740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoubleg12321L 我不知道该给他们直接买一份饭好还是当做看不到更好……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080703547398856770",
+        "created_at": "2026-07-24T18:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080728304072663093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709527622349209600",
+              "start": 0,
+              "username": "Dodoubleg12321L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080728304072663093",
+        "in_reply_to_user_id": "1709527622349209600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080721212318355740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoubleg12321L 我不知道该给他们直接买一份饭好还是当做看不到更好……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709527622349209600",
+        "conversation_id": "2080703547398856770",
+        "created_at": "2026-07-24T18:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080721212318355740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080721212318355740",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080703547398856770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 每次看到都只能假装不去看见 这样的话感觉能给他们留下一点尊严 平时的空水桶和瓶子我一般都放在垃圾桶旁边以免他们去翻 哎..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 46,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T11:15:31.000Z",
+        "description": "本质碎碎念 私信看不见 有问题直接留言",
+        "id": "1709527622349209600",
+        "name": "坐着不如躺着",
+        "pinned_tweet_id": "2071332561851465960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080020447761248256/K4Wq1q7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "Dodoubleg12321L",
+        "verified": false
+      }
+    ]
+  }
+}

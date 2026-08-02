@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078372710611349692",
+    "created_at": "2026-07-18T15:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078502046089764928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644368543956213765",
+          "start": 0,
+          "username": "yyzkx_zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078502046089764928",
+    "in_reply_to_user_id": "1644368543956213765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078372710611349692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyzkx_zz 卧槽好色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078372684422053889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfc8d3aAAEl2VH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078372710611349692",
+        "created_at": "2026-07-18T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502046089764928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644368543956213765",
+              "start": 0,
+              "username": "yyzkx_zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502046089764928",
+        "in_reply_to_user_id": "1644368543956213765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078372710611349692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyzkx_zz 卧槽好色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078372684422053889"
+          ]
+        },
+        "author_id": "1644368543956213765",
+        "conversation_id": "2078372710611349692",
+        "created_at": "2026-07-18T06:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078372710611349692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGhkIWJUnX",
+              "end": 41,
+              "expanded_url": "https://x.com/yyzkx_zz/status/2078372710611349692/photo/1",
+              "media_key": "3_2078372684422053889",
+              "start": 18,
+              "url": "https://t.co/nGhkIWJUnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078372710611349692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10810,
+          "like_count": 221,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我不会放弃拍这个图的 我不会放弃的 https://t.co/nGhkIWJUnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 83,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T15:57:02.000Z",
+        "description": "帐号的主人其实是一包🍟以及八包🥫给我666块的骚扰费我才能被骚扰",
+        "id": "1644368543956213765",
+        "name": "Zz_Yy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059812483175788544/BoMPwEBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 52,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "yyzkx_zz",
+        "verified": false
+      }
+    ]
+  }
+}

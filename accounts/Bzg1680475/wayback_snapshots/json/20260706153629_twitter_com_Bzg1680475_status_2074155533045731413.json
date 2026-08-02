@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2074155533045731413",
+    "created_at": "2026-07-06T15:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074155533045731413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gonewiththelea…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Gonewiththeleaf/status/2073855531891224640",
+          "start": 13,
+          "url": "https://t.co/2AezyJKQkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074155533045731413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073855531891224640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我等这个帖子等了二十年。 https://t.co/2AezyJKQkq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2074155533045731413",
+        "created_at": "2026-07-06T15:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074155533045731413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gonewiththelea…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Gonewiththeleaf/status/2073855531891224640",
+              "start": 13,
+              "url": "https://t.co/2AezyJKQkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074155533045731413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073855531891224640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我等这个帖子等了二十年。 https://t.co/2AezyJKQkq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2908159795",
+        "conversation_id": "2073855531891224640",
+        "created_at": "2026-07-05T19:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073855531891224640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073855531891224640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12091,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "狗操主人就是很涩啊。\n就这个1i女S男M爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 67,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-23T13:03:54.000Z",
+        "description": "🇺🇸美东Switch属性0.5 感情里偏Dom\n1i＞4i Dom＞Sub S=M 具体见置顶 \n有对象 纯口high 不约不调",
+        "id": "2908159795",
+        "location": "美东一个有Tatte的城市",
+        "name": "萧晔Nola",
+        "pinned_tweet_id": "2054977190375063936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061930894995181568/dNJcFSs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6435,
+          "following_count": 66,
+          "like_count": 15,
+          "listed_count": 17,
+          "media_count": 59,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Gonewiththeleaf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079361733161025889",
+    "created_at": "2026-07-21T00:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079361733161025889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1264131297619804160",
+          "start": 3,
+          "username": "EgonuBoskovic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079361733161025889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079176188602597385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EgonuBoskovic: 【轉載微博】“邹镇豪在国内疯狂作案，中学时就将一位女生打得头破血流。哪些个棒槌还在说在国外学坏才作恶的，分明是在国内没人管胆子大了跑国外也犯案才被境外势力抓的🤮🤮🤮还好在国外被抓，要是在国内监控证据什么都有了，警察就是不立案。” https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2079175306729140224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq27O9asAAiuHR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079361733161025889",
+        "created_at": "2026-07-21T00:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079361733161025889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1264131297619804160",
+              "start": 3,
+              "username": "EgonuBoskovic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079361733161025889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079176188602597385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EgonuBoskovic: 【轉載微博】“邹镇豪在国内疯狂作案，中学时就将一位女生打得头破血流。哪些个棒槌还在说在国外学坏才作恶的，分明是在国内没人管胆子大了跑国外也犯案才被境外势力抓的🤮🤮🤮还好在国外被抓，要是在国内监控证据什么都有了，警察就是不立案。” https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079175306729140224"
+          ]
+        },
+        "author_id": "1264131297619804160",
+        "conversation_id": "2079176188602597385",
+        "created_at": "2026-07-20T12:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079176188602597385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wV9a5eUDxn",
+              "end": 138,
+              "expanded_url": "https://x.com/EgonuBoskovic/status/2079176188602597385/photo/1",
+              "media_key": "3_2079175306729140224",
+              "start": 115,
+              "url": "https://t.co/wV9a5eUDxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079176188602597385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 592,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【轉載微博】“邹镇豪在国内疯狂作案，中学时就将一位女生打得头破血流。哪些个棒槌还在说在国外学坏才作恶的，分明是在国内没人管胆子大了跑国外也犯案才被境外势力抓的🤮🤮🤮还好在国外被抓，要是在国内监控证据什么都有了，警察就是不立案。” https://t.co/wV9a5eUDxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 44,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T09:49:31.000Z",
+        "description": "性别女，爱好打拳，坦克，剪鸡手，6B4T，易block人，勿关注。可以不追星，但不可以停止为郑爽发声。反代孕不反男的非蠢即坏",
+        "id": "1264131297619804160",
+        "name": "谢绝娣",
+        "pinned_tweet_id": "1527248958720180225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538515298902753280/p8QpZcZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 107,
+          "like_count": 87426,
+          "listed_count": 26,
+          "media_count": 7617,
+          "tweet_count": 50368
+        },
+        "url": "",
+        "username": "EgonuBoskovic",
+        "verified": false
+      }
+    ]
+  }
+}

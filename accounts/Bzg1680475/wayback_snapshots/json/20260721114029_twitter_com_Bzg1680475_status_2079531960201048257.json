@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079531056982888639",
+    "created_at": "2026-07-21T11:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079531960201048257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079531960201048257",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079531056982888639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我精神上支持nobra，偶尔外衣合适我也不穿内衣，但是大部分时间还是会穿的，内衣真是个反人类的设计，除了上班出门，其他时候我坚决不穿，其实在家就是要裸着才舒服啊。穿条内裤得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079531056982888639",
+        "created_at": "2026-07-21T11:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079531960201048257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079531960201048257",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079531056982888639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我精神上支持nobra，偶尔外衣合适我也不穿内衣，但是大部分时间还是会穿的，内衣真是个反人类的设计，除了上班出门，其他时候我坚决不穿，其实在家就是要裸着才舒服啊。穿条内裤得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079531056982888639",
+        "created_at": "2026-07-21T11:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079531056982888639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079531056982888639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人住就是好，没有烟味 还很自由，下班了到家就是窗帘一拉把衣服一脱蜷在椅子上当野人，当然一定要找个毯子盖住我的肚脐眼。卫生间独享，衣服每个地方都能放几件，好幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 45,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

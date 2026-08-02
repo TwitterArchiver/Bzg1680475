@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2077941780751011997",
+    "created_at": "2026-07-17T02:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077947315797835869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789604039220748289",
+          "start": 0,
+          "username": "xxxxx_10101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077947315797835869",
+    "in_reply_to_user_id": "1789604039220748289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077941780751011997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxx_10101010 我也想要个妹妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2077941780751011997",
+        "created_at": "2026-07-17T02:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077947315797835869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789604039220748289",
+              "start": 0,
+              "username": "xxxxx_10101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947315797835869",
+        "in_reply_to_user_id": "1789604039220748289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077941780751011997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxx_10101010 我也想要个妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789604039220748289",
+        "conversation_id": "2077941780751011997",
+        "created_at": "2026-07-17T02:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077941780751011997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077941780751011997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹おる人羨ましい、妹ほしかった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 76,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:30:46.000Z",
+        "description": "07〻日常〻🗝️@Harukun_1010x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "Harukun_1010x"
+              }
+            ]
+          }
+        },
+        "id": "1789604039220748289",
+        "location": "ゆっくり生きてます",
+        "name": "はるき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073260505427488769/_mO4v-Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 142,
+          "like_count": 2422,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "xxxxx_10101010",
+        "verified": false
+      }
+    ]
+  }
+}

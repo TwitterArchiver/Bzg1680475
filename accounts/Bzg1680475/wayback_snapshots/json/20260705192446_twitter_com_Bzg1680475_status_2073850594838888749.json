@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2073688766926221532",
+    "created_at": "2026-07-05T19:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073850594838888749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2033748259190308864",
+          "start": 0,
+          "username": "Yujswq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073850594838888749",
+    "in_reply_to_user_id": "2033748259190308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073688766926221532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujswq 我也好想染头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2073688762207617024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc48T4awAAOK8E.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2073688766926221532",
+        "created_at": "2026-07-05T19:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073850594838888749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2033748259190308864",
+              "start": 0,
+              "username": "Yujswq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073850594838888749",
+        "in_reply_to_user_id": "2033748259190308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073688766926221532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujswq 我也好想染头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073688762207617024"
+          ]
+        },
+        "author_id": "2033748259190308864",
+        "conversation_id": "2073688766926221532",
+        "created_at": "2026-07-05T08:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073688766926221532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mzNgGpJtv",
+              "end": 30,
+              "expanded_url": "https://x.com/Yujswq/status/2073688766926221532/photo/1",
+              "media_key": "3_2073688762207617024",
+              "start": 7,
+              "url": "https://t.co/2mzNgGpJtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073688766926221532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4888,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "髪そめたーい https://t.co/2mzNgGpJtv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 64,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T03:32:25.000Z",
+        "description": "02",
+        "id": "2033748259190308864",
+        "name": "S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064776599439056896/kkyV25oh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 50,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Yujswq",
+        "verified": false
+      }
+    ]
+  }
+}

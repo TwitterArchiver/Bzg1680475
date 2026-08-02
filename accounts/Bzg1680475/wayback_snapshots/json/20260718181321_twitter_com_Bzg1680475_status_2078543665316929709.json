@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078495928261243147",
+    "created_at": "2026-07-18T18:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078543665316929709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1647256080022421505",
+          "start": 0,
+          "username": "Cc27741122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078543665316929709",
+    "in_reply_to_user_id": "1647256080022421505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078495928261243147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc27741122 好适合打乳钉。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078495917892919297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhNBmUbYAEOkaH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078495928261243147",
+        "created_at": "2026-07-18T18:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078543665316929709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1647256080022421505",
+              "start": 0,
+              "username": "Cc27741122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078543665316929709",
+        "in_reply_to_user_id": "1647256080022421505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078495928261243147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc27741122 好适合打乳钉。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078495917892919297"
+          ]
+        },
+        "author_id": "1647256080022421505",
+        "conversation_id": "2078495928261243147",
+        "created_at": "2026-07-18T15:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078495928261243147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E81mrihmwx",
+              "end": 28,
+              "expanded_url": "https://x.com/Cc27741122/status/2078495928261243147/photo/1",
+              "media_key": "3_2078495917892919297",
+              "start": 5,
+              "url": "https://t.co/E81mrihmwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078495928261243147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1566,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁的视角 https://t.co/E81mrihmwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T15:14:47.000Z",
+        "description": "",
+        "id": "1647256080022421505",
+        "location": "beijing",
+        "name": "kiki",
+        "pinned_tweet_id": "2063167327043281407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869041272574623744/QJCGT_O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 29,
+          "like_count": 4326,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Cc27741122",
+        "verified": false
+      }
+    ]
+  }
+}

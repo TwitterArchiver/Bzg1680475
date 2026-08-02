@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080675807379517553",
+    "created_at": "2026-07-24T15:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080675807379517553"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080675807379517553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "理想主义的破灭是看到凌晨还有拾荒老人走在大街上无法回家。安得广厦千万间，大庇天下寒士俱欢颜，杜甫的理想在千年之后仍未实现，多的是放着不住的高楼大厦，多的是无家可归的可怜人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080675807379517553",
+        "created_at": "2026-07-24T15:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080675807379517553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080675807379517553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理想主义的破灭是看到凌晨还有拾荒老人走在大街上无法回家。安得广厦千万间，大庇天下寒士俱欢颜，杜甫的理想在千年之后仍未实现，多的是放着不住的高楼大厦，多的是无家可归的可怜人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 48,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078665197963943948",
+    "created_at": "2026-07-19T02:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078665197963943948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "小狗旺旺"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "揭阳旺旺"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580507619306840064",
+          "start": 3,
+          "username": "CryptoMiemie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/QY",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078665197963943948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 850
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078055878901874905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryptoMiemie: 在推特上，旺旺的话题有13500篇+帖子\n\n对应的浏览量在3000W以上\n\n国内从来没有哪个动物引起过这么大的关注\n\n不仅仅是中国网友，全世界爱动物人士，尤其是日本网友都在为旺旺发声\n\n#小狗旺旺 #揭阳旺旺\n\nhttps://t.co/QY…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078665197963943948",
+        "created_at": "2026-07-19T02:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078665197963943948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "小狗旺旺"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "揭阳旺旺"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580507619306840064",
+              "start": 3,
+              "username": "CryptoMiemie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/QY",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078665197963943948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 850
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078055878901874905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryptoMiemie: 在推特上，旺旺的话题有13500篇+帖子\n\n对应的浏览量在3000W以上\n\n国内从来没有哪个动物引起过这么大的关注\n\n不仅仅是中国网友，全世界爱动物人士，尤其是日本网友都在为旺旺发声\n\n#小狗旺旺 #揭阳旺旺\n\nhttps://t.co/QY…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580507619306840064",
+        "conversation_id": "2078055878901874905",
+        "created_at": "2026-07-17T09:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078055878901874905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "小狗旺旺"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "揭阳旺旺"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中国で4人の少年が人懐こい母犬「旺旺」とその3匹の子犬を火をつけて苦しめ、動画撮影した上で串刺しにするなど拷問で殺害した。",
+              "display_url": "x.com/i/trending/207…",
+              "end": 129,
+              "expanded_url": "https://x.com/i/trending/2077279577626624471",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2077404174875275265/z7lV7jvm?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077404174875275265/z7lV7jvm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "中国で4人の少年が母犬「旺旺」と3匹の子犬を拷問殺害",
+              "unwound_url": "https://x.com/i/trending/2077279577626624471",
+              "url": "https://t.co/QYl3ksIX5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078055878901874905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 40403,
+          "like_count": 2611,
+          "quote_count": 40,
+          "reply_count": 121,
+          "retweet_count": 850
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上，旺旺的话题有13500篇+帖子\n\n对应的浏览量在3000W以上\n\n国内从来没有哪个动物引起过这么大的关注\n\n不仅仅是中国网友，全世界爱动物人士，尤其是日本网友都在为旺旺发声\n\n#小狗旺旺 #揭阳旺旺\n\nhttps://t.co/QYl3ksIX5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:36:07.000Z",
+        "description": "Web3 Meme Builder  💎 \n\n把可爱猫咪做成加密文化\n\n喜欢可爱猫咪的快来一起玩～ =^･ω･^= 喵！",
+        "id": "1580507619306840064",
+        "name": "咩咩加密日记2.5🐱",
+        "pinned_tweet_id": "2071627011978871098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931972886279110656/wA_OtdP__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4611,
+          "following_count": 1294,
+          "like_count": 9195,
+          "listed_count": 113,
+          "media_count": 568,
+          "tweet_count": 5347
+        },
+        "url": "",
+        "username": "CryptoMiemie",
+        "verified": true
+      }
+    ]
+  }
+}

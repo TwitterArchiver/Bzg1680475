@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082354040994972073",
+    "created_at": "2026-07-29T14:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082468200168718579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2046858518536536064",
+          "start": 0,
+          "username": "qvq1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468200168718579",
+    "in_reply_to_user_id": "2046858518536536064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082354040994972073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qvq1005 老板来份三合一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082354040994972073",
+        "created_at": "2026-07-29T14:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468200168718579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2046858518536536064",
+              "start": 0,
+              "username": "qvq1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468200168718579",
+        "in_reply_to_user_id": "2046858518536536064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082354040994972073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qvq1005 老板来份三合一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046858518536536064",
+        "conversation_id": "2082354040994972073",
+        "created_at": "2026-07-29T06:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082354040994972073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082354040994972073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2472,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处男 厨男 畜男 你选一个吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 19,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T07:48:29.000Z",
+        "description": "当日记本发\n你猜猜真正的我是什么样的\n不约不卖不卡 喜欢的会回关 私信看见会回",
+        "id": "2046858518536536064",
+        "location": "距离3.6km",
+        "name": "困困咕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046858856970747904/DKwPhZgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 75,
+          "like_count": 3902,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "qvq1005",
+        "verified": false
+      }
+    ]
+  }
+}

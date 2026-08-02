@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078810489615007767",
+    "created_at": "2026-07-19T14:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078853369066918006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1486790885278826499",
+          "start": 0,
+          "username": "wzc__0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078853369066918006",
+    "in_reply_to_user_id": "1486790885278826499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078810489615007767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzc__0620 吃中药能治躯体化吗，我也忘了我方式咋克制的了，好像就是慢慢过来了，时间比一切都有用，但是前提是这段时间里没有人刺激你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078810475576594432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlrHRAakAABCYu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078810475576582144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlrHRAaYAAGQLR.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078810475668905986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlrHRWbIAIH7Bv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078810475656298496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlrHRTawAASE6s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078810489615007767",
+        "created_at": "2026-07-19T14:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078853369066918006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1486790885278826499",
+              "start": 0,
+              "username": "wzc__0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078853369066918006",
+        "in_reply_to_user_id": "1486790885278826499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078810489615007767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzc__0620 吃中药能治躯体化吗，我也忘了我方式咋克制的了，好像就是慢慢过来了，时间比一切都有用，但是前提是这段时间里没有人刺激你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078810475576594432",
+            "3_2078810475576582144",
+            "3_2078810475668905986",
+            "3_2078810475656298496"
+          ]
+        },
+        "author_id": "1486790885278826499",
+        "conversation_id": "2078810489615007767",
+        "created_at": "2026-07-19T11:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078810489615007767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "下克上"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "反差"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "恶堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKbelGuXWS",
+              "end": 112,
+              "expanded_url": "https://x.com/wzc__0620/status/2078810489615007767/photo/1",
+              "media_key": "3_2078810475576594432",
+              "start": 89,
+              "url": "https://t.co/RKbelGuXWS"
+            },
+            {
+              "display_url": "pic.x.com/RKbelGuXWS",
+              "end": 112,
+              "expanded_url": "https://x.com/wzc__0620/status/2078810489615007767/photo/1",
+              "media_key": "3_2078810475576582144",
+              "start": 89,
+              "url": "https://t.co/RKbelGuXWS"
+            },
+            {
+              "display_url": "pic.x.com/RKbelGuXWS",
+              "end": 112,
+              "expanded_url": "https://x.com/wzc__0620/status/2078810489615007767/photo/1",
+              "media_key": "3_2078810475668905986",
+              "start": 89,
+              "url": "https://t.co/RKbelGuXWS"
+            },
+            {
+              "display_url": "pic.x.com/RKbelGuXWS",
+              "end": 112,
+              "expanded_url": "https://x.com/wzc__0620/status/2078810489615007767/photo/1",
+              "media_key": "3_2078810475656298496",
+              "start": 89,
+              "url": "https://t.co/RKbelGuXWS"
+            },
+            {
+              "display_url": "x.com/wzc__0620/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/wzc__0620/status/2078557211463389689",
+              "start": 113,
+              "url": "https://t.co/kaCXpwHieB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078810489615007767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9867,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078557211463389689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，谁想和我试试，女s或女m都可以，我不介意技术，当个情感寄托树洞也行，先聊聊探讨一下，期待你的私信。\n（话说躯体化除了吃中药以外还有别的方式吗）\n#下克上  #反差 #恶堕 https://t.co/RKbelGuXWS https://t.co/kaCXpwHieB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T19:59:21.000Z",
+        "description": "点赞即感兴趣/185cm/Switch/脂包肌/入圈7年了解12年/双重人格/反差/只喜欢女生/出原/欢迎香香软软的女宝宝私信/被付出型人格/xp喜欢脚好看的女孩子/互相尊重/视频单纯正常爱好分享 不做牟利不当黄博 希望日常生活中大家尊重女性 偶尔上线 不接推广 /点击↓方链接匿名问答",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wzc__06202",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wzc__06202",
+                "start": 0,
+                "url": "https://t.co/v0xAEFcdkX"
+              }
+            ]
+          }
+        },
+        "id": "1486790885278826499",
+        "location": "0.1km",
+        "name": "川一",
+        "pinned_tweet_id": "1979512482520846702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733114945238151168/Ar3syt3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8205,
+          "following_count": 30,
+          "like_count": 1707,
+          "listed_count": 44,
+          "media_count": 119,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/v0xAEFcdkX",
+        "username": "wzc__0620",
+        "verified": false
+      }
+    ]
+  }
+}

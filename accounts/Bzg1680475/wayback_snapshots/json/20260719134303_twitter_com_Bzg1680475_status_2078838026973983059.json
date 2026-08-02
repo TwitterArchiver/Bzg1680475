@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078838026973983059",
+    "created_at": "2026-07-19T13:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078838026973983059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bzg1680475/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Bzg1680475/status/2078662274861142236",
+          "start": 36,
+          "url": "https://t.co/C0xtkUCfGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078838026973983059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078662274861142236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发抖音其他小猫的视频，甚至只是带了一个保护动物 揭阳的tag就被限流了 https://t.co/C0xtkUCfGA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078838026973983059",
+        "created_at": "2026-07-19T13:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078838026973983059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bzg1680475/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Bzg1680475/status/2078662274861142236",
+              "start": 36,
+              "url": "https://t.co/C0xtkUCfGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078838026973983059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078662274861142236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发抖音其他小猫的视频，甚至只是带了一个保护动物 揭阳的tag就被限流了 https://t.co/C0xtkUCfGA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078662270595571885",
+        "created_at": "2026-07-19T02:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078662274861142236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078662274861142236",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078662272734703890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虐杀动物残忍，捂嘴、扼杀正常的发声也是残忍，我们到底该如何为自己想要的世界发声？我们到底要做出什么才能有所改变？等人权谈好了再落实动保是最大的伪善，人权和动物权本身是同盟而不是仇敌！我由衷希望人类更好，也希望动物安全。当一条鲜活的生命被社会漠视，哪又谈何普通人的人权。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 83,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

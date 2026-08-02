@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082065412041359556",
+    "created_at": "2026-07-29T09:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082398773913977007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630516515853447169",
+          "start": 0,
+          "username": "yoruranran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082398773913977007",
+    "in_reply_to_user_id": "1630516515853447169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082065412041359556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoruranran 噢噢 奶奶我退下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082065412041359556",
+        "created_at": "2026-07-29T09:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082398773913977007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630516515853447169",
+              "start": 0,
+              "username": "yoruranran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398773913977007",
+        "in_reply_to_user_id": "1630516515853447169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082065412041359556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoruranran 噢噢 奶奶我退下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630516515853447169",
+        "conversation_id": "2082065412041359556",
+        "created_at": "2026-07-28T11:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082065412041359556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082065412041359556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17500,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟你们说，刚才有个22岁的老头加我，给我恶心坏了，这么老，都快比我们大一轮了，脸皮也是够厚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 19,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T10:33:39.000Z",
+        "description": "我在随便发发/\n友链:@zhongliu19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zhongliu19"
+              }
+            ]
+          }
+        },
+        "id": "1630516515853447169",
+        "name": "飒然",
+        "pinned_tweet_id": "2074726002568396927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079448663580098560/MBcFNbgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 1077,
+          "like_count": 21309,
+          "listed_count": 9,
+          "media_count": 489,
+          "tweet_count": 12243
+        },
+        "url": "",
+        "username": "yoruranran",
+        "verified": false
+      }
+    ]
+  }
+}

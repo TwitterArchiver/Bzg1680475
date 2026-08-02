@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2077702848457093618",
+    "created_at": "2026-07-17T02:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077947849816641595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1899724958731046912",
+          "start": 0,
+          "username": "ugrxxx_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077947849816641595",
+    "in_reply_to_user_id": "1899724958731046912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077702848457093618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugrxxx_x 有时候连自己都看不下去了！但是就在懒得收"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2077702848457093618",
+        "created_at": "2026-07-17T02:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077947849816641595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1899724958731046912",
+              "start": 0,
+              "username": "ugrxxx_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947849816641595",
+        "in_reply_to_user_id": "1899724958731046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077702848457093618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugrxxx_x 有时候连自己都看不下去了！但是就在懒得收"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899724958731046912",
+        "conversation_id": "2077702848457093618",
+        "created_at": "2026-07-16T10:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077702848457093618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077702848457093618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 147491,
+          "like_count": 2884,
+          "quote_count": 708,
+          "reply_count": 16,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "可愛い人あるある❗️\nみんな部屋汚い、ガチで。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 76,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T07:31:56.000Z",
+        "description": "君に価値あれ＿ （@subxxx_x）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "subxxx_x"
+              }
+            ]
+          }
+        },
+        "id": "1899724958731046912",
+        "location": "350日目",
+        "name": "あいえふˣˣˣ",
+        "pinned_tweet_id": "2020428438549709302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994561571788656645/C9MUmMgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 428,
+          "like_count": 9628,
+          "listed_count": 16,
+          "media_count": 49,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "ugrxxx_x",
+        "verified": false
+      }
+    ]
+  }
+}

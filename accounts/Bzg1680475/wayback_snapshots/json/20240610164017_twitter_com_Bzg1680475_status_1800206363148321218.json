@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "1799893871238750304",
+    "created_at": "2024-06-10T16:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800206363148321218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1073434426007261184",
+          "start": 0,
+          "username": "Istilldontgaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800206363148321218",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800206114052813207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Istilldontgaf 老师万岁……（缓缓跪下）（胸口画十字）（安详地闭眼）（带着诡异笑容）（磕头）呜呜……𓀁 𓀂 𓀄 𓀅 𓀆 𓀇 𓀈....魂兮归来（骨头扭曲的声音）....𓀉 𓀊 𓀋 𓀌 𓀍...啊啊（挣扎爬起）... 𓀎 𓀏 𓀐 𓀑 𓀒𓀓 𓀔 𓀕 𓀖 𓀗....魂兮归来（手触碰阳光）....𓀘 𓀙 𓀚 𓀛 𓀜 𓀝 𓀞𓀀....啊啊....𓀁 𓀂 𓀃 𓀄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "1799893871238750304",
+        "created_at": "2024-06-10T16:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800206363148321218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073434426007261184",
+              "start": 0,
+              "username": "Istilldontgaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800206363148321218",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800206114052813207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Istilldontgaf 老师万岁……（缓缓跪下）（胸口画十字）（安详地闭眼）（带着诡异笑容）（磕头）呜呜……𓀁 𓀂 𓀄 𓀅 𓀆 𓀇 𓀈....魂兮归来（骨头扭曲的声音）....𓀉 𓀊 𓀋 𓀌 𓀍...啊啊（挣扎爬起）... 𓀎 𓀏 𓀐 𓀑 𓀒𓀓 𓀔 𓀕 𓀖 𓀗....魂兮归来（手触碰阳光）....𓀘 𓀙 𓀚 𓀛 𓀜 𓀝 𓀞𓀀....啊啊....𓀁 𓀂 𓀃 𓀄"
+      },
+      {
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "1799893871238750304",
+        "created_at": "2024-06-10T16:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800206114052813207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073434426007261184",
+              "start": 0,
+              "username": "Istilldontgaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800206114052813207",
+        "in_reply_to_user_id": "1073434426007261184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799893871238750304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Istilldontgaf 国宴。。。国宴？（试探）国宴？（犹豫）国宴……（颤抖）国宴？！（惊讶）（边走边喊）国宴！！（哭腔）（双手捧起）（狼吞虎咽）呜...呜...（哽咽）好...好...好香的饭！（激动）（向天咆哮）（猛吃一大口）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 64,
+          "like_count": 9,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T04:28:05.000Z",
+        "description": "👋🏻 Sul sul, Aurelia here ⚠️  NSFW / Pls Do Not Reupload or Modify my LnD videos /请勿二传贩卖修改我的视频  ⚠️  还有，我好想你 🌟 en/cn",
+        "id": "1073434426007261184",
+        "location": "United States",
+        "name": "沈星回的狼尾巴 🦨",
+        "pinned_tweet_id": "1793974889252323558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759406854524862464/l3QEOqF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 117,
+          "like_count": 1771,
+          "listed_count": 5,
+          "tweet_count": 813
+        },
+        "username": "Istilldontgaf",
+        "verified": false
+      }
+    ]
+  }
+}

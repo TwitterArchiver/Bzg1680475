@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081416784205504979",
+    "created_at": "2026-07-26T17:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081428329106928027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081428329106928027",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081416784205504979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 卧槽再次感叹此男天赋异禀。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47568,
+        "height": 678,
+        "media_key": "13_2081416593872199680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081416593872199680/img/Kh7cRgc4KoJ9mrQU.jpg",
+        "public_metrics": {
+          "view_count": 1123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081416593872199680/vid/avc1/508x270/Q6lNphiM6P_fAAjH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081416593872199680/vid/avc1/678x360/OM4vJJrNXxxRVxmp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081416593872199680/vid/avc1/1280x678/8lWCMvVUBre3omEN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081416593872199680/pl/GE-Ud167pu49M6I6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081416784205504979",
+        "created_at": "2026-07-26T17:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081428329106928027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081428329106928027",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081416784205504979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 卧槽再次感叹此男天赋异禀。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081416593872199680"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "2081416784205504979",
+        "created_at": "2026-07-26T16:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081416784205504979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQwtKfwJaz",
+              "end": 54,
+              "expanded_url": "https://x.com/dd_bbls/status/2081416784205504979/video/1",
+              "media_key": "13_2081416593872199680",
+              "start": 31,
+              "url": "https://t.co/QQwtKfwJaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081416784205504979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3257,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "文字加视频描述的够清楚了叭～～有不懂的地方可以提问喔🙋‍♀️ https://t.co/QQwtKfwJaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 19,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 342
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "纯直男，欢迎大家在私信或者匿名提问来找我玩呀～～匿名提问链接：https://t.co/Txsii6Ume0 加v有🚪288/520详情欢迎私信。小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dd_bbls1",
+                "end": 54,
+                "expanded_url": "https://ngl.link/dd_bbls1",
+                "start": 31,
+                "url": "https://t.co/Txsii6Ume0"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89407,
+          "following_count": 83,
+          "like_count": 6338,
+          "listed_count": 241,
+          "media_count": 42,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

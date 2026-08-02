@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081544261586354444",
+    "created_at": "2026-07-27T00:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081544261586354444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RourouYang_/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/RourouYang_/status/2081277047587180883",
+          "start": 12,
+          "url": "https://t.co/vV8aGTPGWP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081544261586354444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081277047587180883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要这样吗。。圈地自萌吧 https://t.co/vV8aGTPGWP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081544261586354444",
+        "created_at": "2026-07-27T00:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081544261586354444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RourouYang_/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/RourouYang_/status/2081277047587180883",
+              "start": 12,
+              "url": "https://t.co/vV8aGTPGWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081544261586354444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081277047587180883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要这样吗。。圈地自萌吧 https://t.co/vV8aGTPGWP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798255824571355136",
+        "conversation_id": "2081277047587180883",
+        "created_at": "2026-07-26T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081277047587180883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081277047587180883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 248594,
+          "like_count": 1213,
+          "quote_count": 2,
+          "reply_count": 265,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是很懂在小红书开个号专门安利推特上的网黄是何意味。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 19,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T07:29:42.000Z",
+        "description": "小羊想要 小羊得到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=w1d2otxc",
+                "start": 0,
+                "url": "https://t.co/8MEqOXdEMZ"
+              }
+            ]
+          }
+        },
+        "id": "1798255824571355136",
+        "location": "纯绿🚪188/288 自用🪜⬇️",
+        "name": "K᳐ilig᳐੭",
+        "pinned_tweet_id": "1948126581526044730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005666874911236096/gNT3cjoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10886,
+          "following_count": 320,
+          "like_count": 34065,
+          "listed_count": 16,
+          "media_count": 1120,
+          "tweet_count": 13966
+        },
+        "url": "https://t.co/8MEqOXdEMZ",
+        "username": "RourouYang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081078749722968493",
+    "created_at": "2026-07-25T18:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081079649036296496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081079649036296496",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081078749722968493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肚子痛，我弟煮的饺子坑我…好讨厌 拉屎去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2081076685341073408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF4OCQaIAAAs-t.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081078749722968493",
+        "created_at": "2026-07-25T18:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081079649036296496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081079649036296496",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081078749722968493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肚子痛，我弟煮的饺子坑我…好讨厌 拉屎去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081076685341073408"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081078749722968493",
+        "created_at": "2026-07-25T18:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081078749722968493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYG1sGinzQ",
+              "end": 107,
+              "expanded_url": "https://x.com/Bzg1680475/status/2081078749722968493/photo/1",
+              "media_key": "3_2081076685341073408",
+              "start": 84,
+              "url": "https://t.co/qYG1sGinzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081078749722968493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想失去和非常珍惜是两码事。哎不要把我当选项，我需要的始终是非我不可的共振。果然我对纯粹的情感还是太期待，我这几天得理清一下自己的想法，哎，我的自我主体性还是有点差。 https://t.co/qYG1sGinzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 39,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

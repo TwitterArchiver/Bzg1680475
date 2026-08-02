@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078438351632499002",
+    "created_at": "2026-07-19T02:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078666215699157345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636359489271267330",
+          "start": 0,
+          "username": "daji_kong39820"
+        },
+        {
+          "end": 27,
+          "id": "1643447567878090753",
+          "start": 16,
+          "username": "lidalang40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078666215699157345",
+    "in_reply_to_user_id": "1636359489271267330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078498507015737418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daji_kong39820 @lidalang40 我也好痛苦，但正是因为绝望，我们才不能让这种对痛苦的漠视成为常态，（虽然已经是了）一个社会怎么对待最弱的动物，就怎么对待最弱的人，愤怒是有靶子的火种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078438351632499002",
+        "created_at": "2026-07-19T02:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078666215699157345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636359489271267330",
+              "start": 0,
+              "username": "daji_kong39820"
+            },
+            {
+              "end": 27,
+              "id": "1643447567878090753",
+              "start": 16,
+              "username": "lidalang40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078666215699157345",
+        "in_reply_to_user_id": "1636359489271267330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078498507015737418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daji_kong39820 @lidalang40 我也好痛苦，但正是因为绝望，我们才不能让这种对痛苦的漠视成为常态，（虽然已经是了）一个社会怎么对待最弱的动物，就怎么对待最弱的人，愤怒是有靶子的火种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636359489271267330",
+        "conversation_id": "2078438351632499002",
+        "created_at": "2026-07-18T15:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078498507015737418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643447567878090753",
+              "start": 0,
+              "username": "lidalang40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078498507015737418",
+        "in_reply_to_user_id": "1643447567878090753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 463,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078438351632499002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidalang40 我很不幸地告诉你，在中国很多普通人都难以捍卫自己的权利，维权无果的案例屡见不鲜，普通人在这里是没有人权的。更别提这些小生命了，另外，冷漠扭曲的人很多，虐待动物能形成一系列圈内黑话，能在公众平台大肆讨论，可见蟑螂之多。非常感谢您能发声，我对于这个地方也感到绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T13:31:36.000Z",
+        "description": "🪦🪦🪦",
+        "id": "1636359489271267330",
+        "name": "Hot dog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021925765722537984/98O5Fe8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 147,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "daji_kong39820",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T02:57:02.000Z",
+        "description": "End Animal Abuse Worldwide\n\nArt, animals, and love know no borders.",
+        "id": "1643447567878090753",
+        "name": "sahiaaaa",
+        "pinned_tweet_id": "2075402473511211138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075148729745854464/Cqtk5xU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 175,
+          "like_count": 1229,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "lidalang40",
+        "verified": false
+      }
+    ]
+  }
+}

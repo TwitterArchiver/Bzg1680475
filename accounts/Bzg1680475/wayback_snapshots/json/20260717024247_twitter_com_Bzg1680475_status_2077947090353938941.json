@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2075496345595711650",
+    "created_at": "2026-07-17T02:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077947090353938941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015159607434629120",
+          "start": 0,
+          "username": "vxnlzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077947090353938941",
+    "in_reply_to_user_id": "2015159607434629120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075496345595711650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vxnlzq 好壮……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075496341275561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2k7QpaUAAFW7F.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1905,
+        "media_key": "3_2075496341275623424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2k7QpbQAAb5vg.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2075496345595711650",
+        "created_at": "2026-07-17T02:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077947090353938941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015159607434629120",
+              "start": 0,
+              "username": "vxnlzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947090353938941",
+        "in_reply_to_user_id": "2015159607434629120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075496345595711650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vxnlzq 好壮……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075496341275561984",
+            "3_2075496341275623424"
+          ]
+        },
+        "author_id": "2015159607434629120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fitness Novelty",
+              "id": "917499347805204480",
+              "name": "Fitness Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fitness Hashtags",
+              "id": "917499855685087232",
+              "name": "Fitness Hashtags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2075496345595711650",
+        "created_at": "2026-07-10T08:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075496345595711650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "ジム"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "筋トレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vz9JX1VjQ7",
+              "end": 84,
+              "expanded_url": "https://x.com/vxnlzq/status/2075496345595711650/photo/1",
+              "media_key": "3_2075496341275561984",
+              "start": 61,
+              "url": "https://t.co/vz9JX1VjQ7"
+            },
+            {
+              "display_url": "pic.x.com/vz9JX1VjQ7",
+              "end": 84,
+              "expanded_url": "https://x.com/vxnlzq/status/2075496345595711650/photo/1",
+              "media_key": "3_2075496341275623424",
+              "start": 61,
+              "url": "https://t.co/vz9JX1VjQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075496345595711650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 24141,
+          "like_count": 287,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ジムで自撮りしてる細い男ダサいよ。\n何しにジムに来てるんだよ、\nおれはイケメンだし筋肉あるから許して😌\n#ジム　#筋トレ https://t.co/vz9JX1VjQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 76,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T20:28:34.000Z",
+        "description": "イケメンすぎて困ってる😔 https://t.co/DSUXiAVVri",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@vxnlzq?_r=1&_…",
+                "end": 36,
+                "expanded_url": "https://www.tiktok.com/@vxnlzq?_r=1&_t=ZS-94QHMzhHD1R",
+                "start": 13,
+                "url": "https://t.co/DSUXiAVVri"
+              }
+            ]
+          }
+        },
+        "id": "2015159607434629120",
+        "name": "ゆめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026253397574418432/Y68gKCtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 3,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "vxnlzq",
+        "verified": false
+      }
+    ]
+  }
+}

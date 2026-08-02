@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2070891944188969238",
+    "created_at": "2026-07-18T11:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078439838504849514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078439838504849514",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070891944188969238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 是这样，所以我现在一点都不脱腋毛，也不刮腿毛，反正不会影响到我的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2070891944188969238",
+        "created_at": "2026-07-18T11:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078439838504849514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078439838504849514",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070891944188969238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 是这样，所以我现在一点都不脱腋毛，也不刮腿毛，反正不会影响到我的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2070891944188969238",
+        "created_at": "2026-06-27T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070891944188969238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070891944188969238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "踢掉腋毛后腋下的汗臭味明显重了好多(´ཫ`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "也许你不相信，我喜欢有厚度的灵魂\nENTP 后续会写OC吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chord233",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chord233",
+                "start": 0,
+                "url": "https://t.co/EjG60s7FGR"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "location": "ShenZhen,GuangDong, China",
+        "name": "chord",
+        "pinned_tweet_id": "2078335624516600110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 828,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/EjG60s7FGR",
+        "username": "chord244",
+        "verified": false
+      }
+    ]
+  }
+}

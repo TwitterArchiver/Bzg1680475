@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078326851068710938",
+    "created_at": "2026-07-18T15:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078500895822893539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "PyongyangYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078500895822893539",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078326851068710938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PyongyangYouth 会不会有点太s了博主"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_2078326845087563777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNezQRCaQAE36Ng.jpg",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078326851068710938",
+        "created_at": "2026-07-18T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078500895822893539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "PyongyangYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078500895822893539",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078326851068710938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PyongyangYouth 会不会有点太s了博主"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078326845087563777"
+          ]
+        },
+        "author_id": "1644761277900951552",
+        "conversation_id": "2078326851068710938",
+        "created_at": "2026-07-18T03:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078326851068710938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12ewy2axsZ",
+              "end": 32,
+              "expanded_url": "https://x.com/PyongyangYouth/status/2078326851068710938/photo/1",
+              "media_key": "3_2078326845087563777",
+              "start": 9,
+              "url": "https://t.co/12ewy2axsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078326851068710938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1956,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会不会有点太m了 https://t.co/12ewy2axsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 83,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "我是男的别再觉得我是女的了谢谢！本人农村户口（可验证）技校毕业（可验证）持有某函授大专证书（可验证）（注：本人无任何小号）",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "平壤青年",
+        "pinned_tweet_id": "2055822795893092796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074448064425984001/hn2teAUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6746,
+          "following_count": 436,
+          "like_count": 65217,
+          "listed_count": 6,
+          "media_count": 448,
+          "tweet_count": 29222
+        },
+        "url": "",
+        "username": "PyongyangYouth",
+        "verified": false
+      }
+    ]
+  }
+}

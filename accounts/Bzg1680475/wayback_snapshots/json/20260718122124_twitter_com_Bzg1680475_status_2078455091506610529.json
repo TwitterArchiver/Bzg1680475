@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078455091506610529",
+    "created_at": "2026-07-18T12:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078455091506610529"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078455091506610529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想做的事情太多了，但精力确实又太低了。蚂蚁森林一直在收集能量种树，我也想去沙漠种树，想看山川湖海，想跟着一直捐款的那个组织去实地看看，想见想见的人，但我是个打工社畜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078455091506610529",
+        "created_at": "2026-07-18T12:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455091506610529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455091506610529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做的事情太多了，但精力确实又太低了。蚂蚁森林一直在收集能量种树，我也想去沙漠种树，想看山川湖海，想跟着一直捐款的那个组织去实地看看，想见想见的人，但我是个打工社畜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 82,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078841949721854099",
+    "created_at": "2026-07-19T15:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078866739362922569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959521271856930816",
+          "start": 0,
+          "username": "hai_bei24096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078866739362922569",
+    "in_reply_to_user_id": "1959521271856930816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078859187040219170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai_bei24096 其实我也是……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078841949721854099",
+        "created_at": "2026-07-19T15:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078866739362922569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959521271856930816",
+              "start": 0,
+              "username": "hai_bei24096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078866739362922569",
+        "in_reply_to_user_id": "1959521271856930816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078859187040219170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai_bei24096 其实我也是……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959521271856930816",
+        "conversation_id": "2078841949721854099",
+        "created_at": "2026-07-19T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078859187040219170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078859187040219170",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078841949721854099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 我想起了我的吉他，已经落灰了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 83,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T07:41:15.000Z",
+        "description": "直男！！！\n好吧～我在发癫，一个很癫很癫的男大二学生，天天都在因为学习和比赛发愁...\n身高182 体重70Kg 校田径队 运动是我的强项",
+        "id": "1959521271856930816",
+        "location": "南昌",
+        "name": "会敬礼的狗",
+        "pinned_tweet_id": "2039993633886421293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078768879581679616/PzlZDpsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 144,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "hai_bei24096",
+        "verified": false
+      }
+    ]
+  }
+}

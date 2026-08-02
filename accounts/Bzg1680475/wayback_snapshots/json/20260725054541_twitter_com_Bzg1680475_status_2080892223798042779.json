@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080656383058542928",
+    "created_at": "2026-07-25T05:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080892223798042779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828809368873398273",
+          "start": 0,
+          "username": "rowdaandan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080892223798042779",
+    "in_reply_to_user_id": "1828809368873398273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080889873553301699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rowdaandan 我对这种真的完全不懂，唯一的印象是小时候看十宗罪有一次死的人是男模然后鸡鸡嵌珠，，当时给小小的老子不小的震撼，不过十宗罪都挺震撼的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080656383058542928",
+        "created_at": "2026-07-25T05:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080892223798042779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828809368873398273",
+              "start": 0,
+              "username": "rowdaandan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080892223798042779",
+        "in_reply_to_user_id": "1828809368873398273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080889873553301699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rowdaandan 我对这种真的完全不懂，唯一的印象是小时候看十宗罪有一次死的人是男模然后鸡鸡嵌珠，，当时给小小的老子不小的震撼，不过十宗罪都挺震撼的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828809368873398273",
+        "conversation_id": "2080656383058542928",
+        "created_at": "2026-07-25T05:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080889873553301699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889873553301699",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080889003012981068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 穿这个其实算鸡鸡穿孔常见的款式啦...\n可以搜一下pa环，很多穿的很好看的效果都不错，我也是看见那些觉得很性感就来了一个hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 41,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T14:58:41.000Z",
+        "description": "用这个号发就是说明大号又被shadowban了，大号 @WheelchairOfKk\n🐧2411416172",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "WheelchairOfKk"
+              }
+            ]
+          }
+        },
+        "id": "1828809368873398273",
+        "location": "Japan",
+        "name": "R0vkster",
+        "pinned_tweet_id": "1844767226165117385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828809692027797504/fkcLi1cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 36,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "rowdaandan",
+        "verified": false
+      }
+    ]
+  }
+}

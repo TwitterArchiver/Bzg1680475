@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081247108095750422",
+    "created_at": "2026-07-26T05:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081247108095750422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Haticecanmyaaa…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Haticecanmyaaa/status/2081039238271803574",
+          "start": 10,
+          "url": "https://t.co/8t685oGfcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081247108095750422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081039238271803574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1 2 4会好点吧 https://t.co/8t685oGfcR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081039232466903040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFWJ_bXYAAg3p2.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081247108095750422",
+        "created_at": "2026-07-26T05:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081247108095750422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Haticecanmyaaa…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Haticecanmyaaa/status/2081039238271803574",
+              "start": 10,
+              "url": "https://t.co/8t685oGfcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081247108095750422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039238271803574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1 2 4会好点吧 https://t.co/8t685oGfcR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081039232466903040"
+          ]
+        },
+        "author_id": "2073759397151375360",
+        "conversation_id": "2081039238271803574",
+        "created_at": "2026-07-25T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039238271803574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYozXnKVsa",
+              "end": 75,
+              "expanded_url": "https://x.com/Haticecanmyaaa/status/2081039238271803574/photo/1",
+              "media_key": "3_2081039232466903040",
+              "start": 52,
+              "url": "https://t.co/JYozXnKVsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039238271803574",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2077,
+          "impression_count": 4834571,
+          "like_count": 4854,
+          "quote_count": 968,
+          "reply_count": 1495,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "Kızlar dürüst olun, hangi erkek vücudu daha çekici? https://t.co/JYozXnKVsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 19,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T13:23:27.000Z",
+        "description": "Takip edene dönüş sağlıyorum 🦋",
+        "id": "2073759397151375360",
+        "location": "Mugla, Turkey",
+        "name": "Hatice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073832026050887680/Ji2zmfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 703,
+          "like_count": 718,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 613
+        },
+        "url": "",
+        "username": "Haticecanmyaaa",
+        "verified": true
+      }
+    ]
+  }
+}

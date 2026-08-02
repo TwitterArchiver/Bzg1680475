@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081972781902888960"
+      ],
+      "media_source_tweet_id": [
+        "2081972826903560438"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082111719292522912",
+    "created_at": "2026-07-28T14:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082111719292522912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266995054456868865",
+          "start": 3,
+          "username": "so_lovely_31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WNE5qaJSAp",
+          "end": 56,
+          "expanded_url": "https://x.com/so_lovely_31/status/2081972826903560438/photo/1",
+          "media_key": "3_2081972781902888960",
+          "start": 33,
+          "url": "https://t.co/WNE5qaJSAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082111719292522912",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5658
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081972826903560438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @so_lovely_31: 세상에 아름다운게 참 많아 https://t.co/WNE5qaJSAp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_2081972781902888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSnNuFagAApb-z.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972781902888960"
+          ]
+        },
+        "author_id": "1266995054456868865",
+        "conversation_id": "2081972826903560438",
+        "created_at": "2026-07-28T05:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081972826903560438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNE5qaJSAp",
+              "end": 38,
+              "expanded_url": "https://x.com/so_lovely_31/status/2081972826903560438/photo/1",
+              "media_key": "3_2081972781902888960",
+              "start": 15,
+              "url": "https://t.co/WNE5qaJSAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972826903560438",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1760,
+          "impression_count": 546011,
+          "like_count": 41257,
+          "quote_count": 154,
+          "reply_count": 26,
+          "retweet_count": 5655
+        },
+        "reply_settings": "everyone",
+        "text": "세상에 아름다운게 참 많아 https://t.co/WNE5qaJSAp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972781902888960"
+          ],
+          "media_source_tweet_id": [
+            "2081972826903560438"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082111719292522912",
+        "created_at": "2026-07-28T14:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082111719292522912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266995054456868865",
+              "start": 3,
+              "username": "so_lovely_31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNE5qaJSAp",
+              "end": 56,
+              "expanded_url": "https://x.com/so_lovely_31/status/2081972826903560438/photo/1",
+              "media_key": "3_2081972781902888960",
+              "start": 33,
+              "url": "https://t.co/WNE5qaJSAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082111719292522912",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5658
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081972826903560438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @so_lovely_31: 세상에 아름다운게 참 많아 https://t.co/WNE5qaJSAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 18,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T07:29:06.000Z",
+        "description": "예쁜 거랑 이런저런 것들 모으는 계정",
+        "id": "1266995054456868865",
+        "name": "예쁜것들 모음✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1266995218772971526/fZNld1wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47815,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 107,
+          "media_count": 288,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "so_lovely_31",
+        "verified": false
+      }
+    ]
+  }
+}

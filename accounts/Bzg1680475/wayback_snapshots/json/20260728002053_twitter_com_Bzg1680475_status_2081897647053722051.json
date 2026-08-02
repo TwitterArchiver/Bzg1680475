@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081897647053722051",
+    "created_at": "2026-07-28T00:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T01:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081897647053722051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065224221417181184",
+          "start": 3,
+          "username": "Theaqhv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081897647053722051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081673410661487008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Theaqhv9: 我尊重任何人从前的情史，但是跟我有情感链接的情况下，请务必务必务必保证自己只属于我一个人好吗？不然你最好能长长久久地一直瞒着我，永远瞒着我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081897647053722051",
+        "created_at": "2026-07-28T00:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081897647053722051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065224221417181184",
+              "start": 3,
+              "username": "Theaqhv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081897647053722051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081673410661487008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Theaqhv9: 我尊重任何人从前的情史，但是跟我有情感链接的情况下，请务必务必务必保证自己只属于我一个人好吗？不然你最好能长长久久地一直瞒着我，永远瞒着我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065224221417181184",
+        "conversation_id": "2081673410661487008",
+        "created_at": "2026-07-27T09:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081673410661487008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081673410661487008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2319,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我尊重任何人从前的情史，但是跟我有情感链接的情况下，请务必务必务必保证自己只属于我一个人好吗？不然你最好能长长久久地一直瞒着我，永远瞒着我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 18,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T00:07:23.000Z",
+        "description": "一直在寻求1v1的路上……\n不幸福的时候会来碎碎念发泄一下",
+        "id": "2065224221417181184",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080636299938320384/m4F853Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 66,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Theaqhv9",
+        "verified": false
+      }
+    ]
+  }
+}

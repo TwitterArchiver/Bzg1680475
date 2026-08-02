@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080181275508502957",
+    "created_at": "2026-07-23T06:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080181275508502957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644780178990829569",
+          "start": 3,
+          "username": "puppyloveowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080181275508502957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079708219933442229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppyloveowo: 你意思是我打扮得漂漂亮亮拍了半天照 精心挑选个文案发点美照就是为了钓你这种猪头肉对吗….？你走路上跟半扇猪肉丢路中间一样 路过我都嫌挡道…哪个女的会对你有想法？没有这种好事哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080181275508502957",
+        "created_at": "2026-07-23T06:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080181275508502957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644780178990829569",
+              "start": 3,
+              "username": "puppyloveowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080181275508502957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079708219933442229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puppyloveowo: 你意思是我打扮得漂漂亮亮拍了半天照 精心挑选个文案发点美照就是为了钓你这种猪头肉对吗….？你走路上跟半扇猪肉丢路中间一样 路过我都嫌挡道…哪个女的会对你有想法？没有这种好事哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644780178990829569",
+        "conversation_id": "2079708219933442229",
+        "created_at": "2026-07-21T23:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079708219933442229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079708219933442229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 33335,
+          "like_count": 1098,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你意思是我打扮得漂漂亮亮拍了半天照 精心挑选个文案发点美照就是为了钓你这种猪头肉对吗….？你走路上跟半扇猪肉丢路中间一样 路过我都嫌挡道…哪个女的会对你有想法？没有这种好事哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 50,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T19:12:19.000Z",
+        "description": "puppylovewithu",
+        "id": "1644780178990829569",
+        "name": "sadpuppy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644781412384665600/fjlXCGkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 15,
+          "like_count": 2510,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "puppyloveowo",
+        "verified": false
+      }
+    ]
+  }
+}

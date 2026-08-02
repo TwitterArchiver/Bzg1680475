@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1795220894329266176"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "1795220940361527319",
+    "created_at": "2024-05-27T22:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T23:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795220940361527319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VF9j18DlKz",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Bzg1680475/status/1795220940361527319/video/1",
+          "media_key": "7_1795220894329266176",
+          "start": 33,
+          "url": "https://t.co/VF9j18DlKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795220940361527319",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "价值10500个钻的视频！狗叠还我钱！歪卡就算了依旧保底！痛恨！ https://t.co/VF9j18DlKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29833,
+        "height": 960,
+        "media_key": "7_1795220894329266176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1795220894329266176/pu/img/UwtyyDWMCfMymiOp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795220894329266176/pu/vid/avc1/320x426/r0m5Zp-VOct2qLqR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795220894329266176/pu/vid/avc1/480x640/g2T2vD4gEdIA8zGO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795220894329266176/pu/vid/avc1/720x960/KoTkz2Tch3C-CoAT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1795220894329266176/pu/pl/52O6siGhlWtJw10p.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1795220894329266176"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "1795220940361527319",
+        "created_at": "2024-05-27T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795220940361527319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VF9j18DlKz",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Bzg1680475/status/1795220940361527319/video/1",
+              "media_key": "7_1795220894329266176",
+              "start": 33,
+              "url": "https://t.co/VF9j18DlKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795220940361527319",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "价值10500个钻的视频！狗叠还我钱！歪卡就算了依旧保底！痛恨！ https://t.co/VF9j18DlKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

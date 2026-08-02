@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078280057223864495",
+    "created_at": "2026-07-18T18:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078547715273953767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "856164467134091265",
+          "start": 0,
+          "username": "Gaus58417665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078547715273953767",
+    "in_reply_to_user_id": "856164467134091265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078280057223864495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaus58417665 听不懂好着急 不过真的感觉日男在这方面太有天赋了……好骚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78088,
+        "height": 1280,
+        "media_key": "13_2078280017088491520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078280017088491520/img/HhtqlMZdSAbr19vv.jpg",
+        "public_metrics": {
+          "view_count": 16669
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078280017088491520/vid/avc1/320x568/8F6FKI9V8Hy6frLI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078280017088491520/vid/avc1/480x852/6UvAY8mMP9QlJY6m.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078280017088491520/vid/avc1/720x1280/ff1DaMxLPlod8poJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078280017088491520/pl/AVw0tT91RZ8OceZp.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078280057223864495",
+        "created_at": "2026-07-18T18:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078547715273953767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "856164467134091265",
+              "start": 0,
+              "username": "Gaus58417665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078547715273953767",
+        "in_reply_to_user_id": "856164467134091265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078280057223864495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaus58417665 听不懂好着急 不过真的感觉日男在这方面太有天赋了……好骚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078280017088491520"
+          ]
+        },
+        "author_id": "856164467134091265",
+        "conversation_id": "2078280057223864495",
+        "created_at": "2026-07-18T00:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078280057223864495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKxBDbZUMk",
+              "end": 35,
+              "expanded_url": "https://x.com/Gaus58417665/status/2078280057223864495/video/1",
+              "media_key": "13_2078280017088491520",
+              "start": 12,
+              "url": "https://t.co/YKxBDbZUMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078280057223864495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 12565,
+          "like_count": 550,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "これされたいやついる？ https://t.co/YKxBDbZUMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 84,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-23T15:14:50.000Z",
+        "description": "07 大学生\nサブはこっちね→＠sabu_31508",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "sabu_31508"
+              }
+            ]
+          }
+        },
+        "id": "856164467134091265",
+        "location": "DMふぉろわーさんと♡",
+        "name": "Rei",
+        "pinned_tweet_id": "2065423883155706140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052533363605635072/P7PhPnCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 758,
+          "like_count": 97,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Gaus58417665",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080563829625557220",
+    "created_at": "2026-07-24T08:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080563829625557220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fffffffx286556…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fffffffx286556/status/2080470571293315170",
+          "start": 7,
+          "url": "https://t.co/Hv4cHOz8rE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080563829625557220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080470571293315170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最怕这种了 https://t.co/Hv4cHOz8rE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080470555799568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9Q8pwXwAAjT-f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080563829625557220",
+        "created_at": "2026-07-24T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080563829625557220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fffffffx286556…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fffffffx286556/status/2080470571293315170",
+              "start": 7,
+              "url": "https://t.co/Hv4cHOz8rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080563829625557220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080470571293315170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最怕这种了 https://t.co/Hv4cHOz8rE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080470555799568384"
+          ]
+        },
+        "author_id": "1788854643163877376",
+        "conversation_id": "2080470571293315170",
+        "created_at": "2026-07-24T01:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080470571293315170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZ69E6iRqj",
+              "end": 29,
+              "expanded_url": "https://x.com/fffffffx286556/status/2080470571293315170/photo/1",
+              "media_key": "3_2080470555799568384",
+              "start": 6,
+              "url": "https://t.co/dZ69E6iRqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080470571293315170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12120,
+          "like_count": 336,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女性向来了 https://t.co/dZ69E6iRqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 47,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "希望你天天开心^_^",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "2079855173988409462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277425875943425/ddlPGrls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36765,
+          "following_count": 59,
+          "like_count": 2945,
+          "listed_count": 51,
+          "media_count": 275,
+          "tweet_count": 1486
+        },
+        "url": "",
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

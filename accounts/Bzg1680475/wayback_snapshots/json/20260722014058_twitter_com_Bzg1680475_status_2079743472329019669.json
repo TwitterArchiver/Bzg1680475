@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078008942056313248",
+    "created_at": "2026-07-22T01:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079743472329019669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070091957368664064",
+          "start": 0,
+          "username": "femigamja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079743472329019669",
+    "in_reply_to_user_id": "2070091957368664064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078008942056313248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@femigamja 韩国的校服真的很好看，穿上去特别现瘦，偶然拥有一件，和博主画的差不多，确实不太舒服，尤其是领口很磨人，也不好抬手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2078008938998743040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaSHskbQAAHDMA.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2078008939095240704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaSHs7bsAAUK1D.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078008942056313248",
+        "created_at": "2026-07-22T01:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079743472329019669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070091957368664064",
+              "start": 0,
+              "username": "femigamja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079743472329019669",
+        "in_reply_to_user_id": "2070091957368664064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078008942056313248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@femigamja 韩国的校服真的很好看，穿上去特别现瘦，偶然拥有一件，和博主画的差不多，确实不太舒服，尤其是领口很磨人，也不好抬手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078008938998743040",
+            "3_2078008939095240704"
+          ]
+        },
+        "author_id": "2070091957368664064",
+        "conversation_id": "2078008942056313248",
+        "created_at": "2026-07-17T06:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078008942056313248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5bRJBD7Vr",
+              "end": 123,
+              "expanded_url": "https://x.com/femigamja/status/2078008942056313248/photo/1",
+              "media_key": "3_2078008938998743040",
+              "start": 100,
+              "url": "https://t.co/b5bRJBD7Vr"
+            },
+            {
+              "display_url": "pic.x.com/b5bRJBD7Vr",
+              "end": 123,
+              "expanded_url": "https://x.com/femigamja/status/2078008942056313248/photo/1",
+              "media_key": "3_2078008939095240704",
+              "start": 100,
+              "url": "https://t.co/b5bRJBD7Vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078008942056313248",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 1369450,
+          "like_count": 1527,
+          "quote_count": 1416,
+          "reply_count": 18,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "‼️🏫 나는 교복에도 남녀 차별이 숨어있다고 생각해 👕‼️\n\n아래는 내가 직접 그린 교복이야\n(혹시 몰라서 다른 학교 교복으로 함)\n\n(좌:여자 하복 우: 남자 하복)\n\n타래로) https://t.co/b5bRJBD7Vr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 49,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T10:31:32.000Z",
+        "description": "🦋#블루레이디 📚📝💙\n🤙🏻#6B\n@0qoiiop0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 1,
+                "tag": "블루레이디"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "6B"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "0qoiiop0"
+              }
+            ]
+          }
+        },
+        "id": "2070091957368664064",
+        "location": "🤙🩵",
+        "name": "감쟈",
+        "pinned_tweet_id": "2077677178884685965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070096474793529344/sLxvsnCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 580,
+          "like_count": 5153,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 4758
+        },
+        "url": "",
+        "username": "femigamja",
+        "verified": true
+      }
+    ]
+  }
+}

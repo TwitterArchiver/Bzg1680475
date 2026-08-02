@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078062883901263967",
+    "created_at": "2026-07-17T11:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078081191056732489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826265844713918464",
+          "start": 0,
+          "username": "LinKkzzttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078081191056732489",
+    "in_reply_to_user_id": "1826265844713918464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078062883901263967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinKkzzttt 好完美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2078062881552379904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbDLkPasAAqQM-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078062883901263967",
+        "created_at": "2026-07-17T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078081191056732489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826265844713918464",
+              "start": 0,
+              "username": "LinKkzzttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078081191056732489",
+        "in_reply_to_user_id": "1826265844713918464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078062883901263967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinKkzzttt 好完美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078062881552379904"
+          ]
+        },
+        "author_id": "1826265844713918464",
+        "conversation_id": "2078062883901263967",
+        "created_at": "2026-07-17T10:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078062883901263967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxXQ7cITOM",
+              "end": 41,
+              "expanded_url": "https://x.com/LinKkzzttt/status/2078062883901263967/photo/1",
+              "media_key": "3_2078062881552379904",
+              "start": 18,
+              "url": "https://t.co/KxXQ7cITOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078062883901263967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 848,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢体脂低低的，能看见下腹都是血管 https://t.co/KxXQ7cITOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 79,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T14:31:31.000Z",
+        "description": "06\n欢迎友好健身交流~\n187/147\n狮子座♌\n有🚪\n接举牌\n接健身私教\n直直直直\n拒同但尊重🤝",
+        "id": "1826265844713918464",
+        "location": "Los Angeles, CA",
+        "name": "我爱吃米饭🍚",
+        "pinned_tweet_id": "2054250620409053570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961370535670972416/Pebl-H37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 79,
+          "like_count": 821,
+          "listed_count": 15,
+          "media_count": 77,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "LinKkzzttt",
+        "verified": false
+      }
+    ]
+  }
+}

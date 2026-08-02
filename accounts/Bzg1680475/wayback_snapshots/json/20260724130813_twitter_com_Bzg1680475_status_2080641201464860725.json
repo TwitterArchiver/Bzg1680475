@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080637885150056940",
+    "created_at": "2026-07-24T13:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080641201464860725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1109336213121581056",
+          "start": 0,
+          "username": "cute_7haha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080641201464860725",
+    "in_reply_to_user_id": "1109336213121581056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080637885150056940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_7haha 不用谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2080637874752372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_pH5bWwAA_R8t.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080637885150056940",
+        "created_at": "2026-07-24T13:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080641201464860725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1109336213121581056",
+              "start": 0,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080641201464860725",
+        "in_reply_to_user_id": "1109336213121581056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080637885150056940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_7haha 不用谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080637874752372736"
+          ]
+        },
+        "author_id": "1109336213121581056",
+        "conversation_id": "2080637885150056940",
+        "created_at": "2026-07-24T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080637885150056940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9a90z0gKtb",
+              "end": 49,
+              "expanded_url": "https://x.com/cute_7haha/status/2080637885150056940/photo/1",
+              "media_key": "3_2080637874752372736",
+              "start": 26,
+              "url": "https://t.co/9a90z0gKtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080637885150056940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢宝宝🥹 咋这么好，我刚回到。祝你天天开心呀乖乖 https://t.co/9a90z0gKtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 48,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T06:08:58.000Z",
+        "description": "^ ^谢谢喜欢 很友好私信都会回的！infp｜1i｜Switch偏m｜反差闷骚｜小狗男｜声音好听｜没有🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cute_7haha1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cute_7haha1",
+                "start": 0,
+                "url": "https://t.co/lWI5Nkt9qC"
+              }
+            ]
+          }
+        },
+        "id": "1109336213121581056",
+        "name": "沂",
+        "pinned_tweet_id": "2080101396766920855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078678285379117056/Qs0O6Se0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 3309,
+          "like_count": 1767,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/lWI5Nkt9qC",
+        "username": "cute_7haha",
+        "verified": false
+      }
+    ]
+  }
+}

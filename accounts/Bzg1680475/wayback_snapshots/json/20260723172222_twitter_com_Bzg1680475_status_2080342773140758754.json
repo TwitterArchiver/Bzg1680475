@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080283558846083180",
+    "created_at": "2026-07-23T17:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080342773140758754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030479746908475393",
+          "start": 0,
+          "username": "yuqing_260129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080342773140758754",
+    "in_reply_to_user_id": "2030479746908475393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080283558846083180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqing_260129 好蒙比呀！感觉像进了青楼一样！这个格也太银荡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138321,
+        "height": 720,
+        "media_key": "13_2080283418043277312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080283418043277312/img/cbLHdEXHmDQKGPar.jpg",
+        "public_metrics": {
+          "view_count": 1382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283418043277312/vid/avc1/480x270/ws6YzqFsTEyrqtmz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283418043277312/vid/avc1/640x360/dTkI2RU6Xo7Mfv-b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283418043277312/vid/avc1/1280x720/cXoy_h-ri9EurDlV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080283418043277312/pl/PKZp0p7VncJVbtft.m3u8?v=19c"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080283558846083180",
+        "created_at": "2026-07-23T17:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080342773140758754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030479746908475393",
+              "start": 0,
+              "username": "yuqing_260129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080342773140758754",
+        "in_reply_to_user_id": "2030479746908475393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080283558846083180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqing_260129 好蒙比呀！感觉像进了青楼一样！这个格也太银荡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080283418043277312"
+          ]
+        },
+        "author_id": "2030479746908475393",
+        "conversation_id": "2080283558846083180",
+        "created_at": "2026-07-23T13:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080283558846083180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男喘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "4i"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "兄妹"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "骨科"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "iiii"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "公狗"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "女性向"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "小狗"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "青年音"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "青受音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVz6MLzHg9",
+              "end": 82,
+              "expanded_url": "https://x.com/yuqing_260129/status/2080283558846083180/video/1",
+              "media_key": "13_2080283418043277312",
+              "start": 59,
+              "url": "https://t.co/aVz6MLzHg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283558846083180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2652,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹刚旅游回来就来操我呀～ #男喘 #4i #兄妹 #骨科 #iiii #公狗 #女性向 #小狗 #青年音 #青受音 https://t.co/aVz6MLzHg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 46,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T03:04:43.000Z",
+        "description": "07  双鱼  4i  不定期更新\nHug me until my body smell like yours♡",
+        "id": "2030479746908475393",
+        "location": "Tokyo-to, Japan",
+        "name": "余情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070391752968876032/pfp7VA8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "yuqing_260129",
+        "verified": false
+      }
+    ]
+  }
+}

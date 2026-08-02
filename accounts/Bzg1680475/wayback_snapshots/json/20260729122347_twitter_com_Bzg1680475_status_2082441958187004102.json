@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082309038919086402",
+    "created_at": "2026-07-29T12:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082441958187004102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471544137870675974",
+          "start": 0,
+          "username": "licheng1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082441958187004102",
+    "in_reply_to_user_id": "1471544137870675974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082418776524644582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licheng1227 这种我根本看不下去，直接退出怒骂……所以现在比较喜欢看单人自慰而不是双人片……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082309038919086402",
+        "created_at": "2026-07-29T12:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082441958187004102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471544137870675974",
+              "start": 0,
+              "username": "licheng1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441958187004102",
+        "in_reply_to_user_id": "1471544137870675974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082418776524644582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licheng1227 这种我根本看不下去，直接退出怒骂……所以现在比较喜欢看单人自慰而不是双人片……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471544137870675974",
+        "conversation_id": "2082309038919086402",
+        "created_at": "2026-07-29T10:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082418776524644582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082418776524644582",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082309038919086402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 看片有时候会听见那些女主说不要拍不想拍然后还是拍拍拍真是一股子无名火我说实话😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 19,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T18:14:04.000Z",
+        "description": "保持平静",
+        "id": "1471544137870675974",
+        "name": "弈澄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082249526489018368/Ny5KjQCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 58,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "licheng1227",
+        "verified": false
+      }
+    ]
+  }
+}

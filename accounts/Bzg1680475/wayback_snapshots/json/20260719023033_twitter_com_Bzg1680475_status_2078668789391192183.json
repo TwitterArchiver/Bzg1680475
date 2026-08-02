@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078480385734783057",
+    "created_at": "2026-07-19T02:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078668789391192183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1422651492570382340",
+          "start": 0,
+          "username": "feilung_lau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078668789391192183",
+    "in_reply_to_user_id": "1422651492570382340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078480385734783057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feilung_lau 其实这群人就是嘴上说说哪里舍得花这些钱。贱种一群"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078480374988931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg-44fWAAAiHbf.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078480385734783057",
+        "created_at": "2026-07-19T02:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078668789391192183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1422651492570382340",
+              "start": 0,
+              "username": "feilung_lau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078668789391192183",
+        "in_reply_to_user_id": "1422651492570382340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078480385734783057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feilung_lau 其实这群人就是嘴上说说哪里舍得花这些钱。贱种一群"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480374988931072"
+          ]
+        },
+        "author_id": "1422651492570382340",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078480385734783057",
+        "created_at": "2026-07-18T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078480385734783057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DicfTALHi9",
+              "end": 107,
+              "expanded_url": "https://x.com/feilung_lau/status/2078480385734783057/photo/1",
+              "media_key": "3_2078480374988931072",
+              "start": 84,
+              "url": "https://t.co/DicfTALHi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078480385734783057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2651,
+          "like_count": 137,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "廣東ip的極端恨狗人士已經徹底的瘋了\n\n有消息說村裡又殺了一百隻狗報復網友（不知真假），但我是有看到把三隻狗關在籠子里活燒還剪斷一隻腳的圖片。（圖片太惡心了沒有保存） https://t.co/DicfTALHi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T20:12:24.000Z",
+        "description": "廣東羅定人。 荷蘭反共之聲志工：https://t.co/VTzAM72pgI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Anticcp.nl",
+                "end": 39,
+                "expanded_url": "https://www.Anticcp.nl/",
+                "start": 16,
+                "url": "https://t.co/VTzAM72pgI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Anticcp.nl",
+                "end": 23,
+                "expanded_url": "https://www.Anticcp.nl/",
+                "start": 0,
+                "url": "https://t.co/VTzAM72pgI"
+              }
+            ]
+          }
+        },
+        "id": "1422651492570382340",
+        "location": "Amsterdam, The Netherlands",
+        "name": "劉飛龍",
+        "pinned_tweet_id": "1918044223724531722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078634672557375488/SJHVcd5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7189,
+          "following_count": 1163,
+          "like_count": 12034,
+          "listed_count": 33,
+          "media_count": 3872,
+          "tweet_count": 22381
+        },
+        "url": "https://t.co/VTzAM72pgI",
+        "username": "feilung_lau",
+        "verified": false
+      }
+    ]
+  }
+}

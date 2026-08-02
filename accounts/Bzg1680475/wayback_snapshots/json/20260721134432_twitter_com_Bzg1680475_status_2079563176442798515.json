@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079552257016651982",
+    "created_at": "2026-07-21T13:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079563176442798515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1109336213121581056",
+          "start": 0,
+          "username": "cute_7haha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079563176442798515",
+    "in_reply_to_user_id": "1109336213121581056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079552257016651982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_7haha 马斯克把你判定为给子了🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61405,
+        "height": 720,
+        "media_key": "13_2079552148702957568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079552148702957568/img/DLtPrkb74xsC_JVH.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079552148702957568/vid/avc1/324x270/LTyrMKwSJPYtohuv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079552148702957568/vid/avc1/432x360/yJEXxyReLN9wuYx0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079552148702957568/vid/avc1/866x720/3WEpS09u9evYz4g6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079552148702957568/pl/OFuzl4Ant7h7FqMC.m3u8"
+          }
+        ],
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079552257016651982",
+        "created_at": "2026-07-21T13:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079563176442798515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1109336213121581056",
+              "start": 0,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079563176442798515",
+        "in_reply_to_user_id": "1109336213121581056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079552257016651982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_7haha 马斯克把你判定为给子了🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079552148702957568"
+          ]
+        },
+        "author_id": "1109336213121581056",
+        "conversation_id": "2079552257016651982",
+        "created_at": "2026-07-21T13:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079552257016651982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "打标签有用吗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNk4JuZwHR",
+              "end": 31,
+              "expanded_url": "https://x.com/cute_7haha/status/2079552257016651982/video/1",
+              "media_key": "13_2079552148702957568",
+              "start": 8,
+              "url": "https://t.co/KNk4JuZwHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079552257016651982",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#打标签有用吗 https://t.co/KNk4JuZwHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 46,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T06:08:58.000Z",
+        "description": "^ ^谢谢喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cute_7haha1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cute_7haha1",
+                "start": 0,
+                "url": "https://t.co/lWI5NktHga"
+              }
+            ]
+          }
+        },
+        "id": "1109336213121581056",
+        "name": "沂",
+        "pinned_tweet_id": "1601907567273254912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078678285379117056/Qs0O6Se0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 3319,
+          "like_count": 1679,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/lWI5NktHga",
+        "username": "cute_7haha",
+        "verified": false
+      }
+    ]
+  }
+}

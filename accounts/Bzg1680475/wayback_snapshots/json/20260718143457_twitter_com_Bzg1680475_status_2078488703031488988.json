@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078488566418870272",
+        "13_2078488565248675840"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078488703031488988",
+    "created_at": "2026-07-18T14:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078488703031488988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCWJ1QWDO1",
+          "end": 57,
+          "expanded_url": "https://x.com/Bzg1680475/status/2078488703031488988/video/1",
+          "media_key": "13_2078488566418870272",
+          "start": 34,
+          "url": "https://t.co/OCWJ1QWDO1"
+        },
+        {
+          "display_url": "pic.x.com/OCWJ1QWDO1",
+          "end": 57,
+          "expanded_url": "https://x.com/Bzg1680475/status/2078488703031488988/video/1",
+          "media_key": "13_2078488565248675840",
+          "start": 34,
+          "url": "https://t.co/OCWJ1QWDO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078488703031488988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们能听到它的呼噜声吗！超级亲人还拿头拱我！好幸福！可惜我没法养它 https://t.co/OCWJ1QWDO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10526,
+        "height": 1280,
+        "media_key": "13_2078488566418870272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078488566418870272/img/Qg9R0qpN_v-fc6Qm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488566418870272/vid/avc1/320x568/r3pzodhTxmEMrNV-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488566418870272/vid/avc1/480x852/p_R5pVTp9bbUicLZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488566418870272/vid/avc1/720x1280/uDTxiisc6KX0ExGk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078488566418870272/pl/maAvGjaVWxm6Lawp.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13634,
+        "height": 720,
+        "media_key": "13_2078488565248675840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078488565248675840/img/bjXx4Ok-WqpyeE98.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488565248675840/vid/avc1/480x270/-3_xrU_tvvYfjBrn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488565248675840/vid/avc1/640x360/Fobbd-QpRCm0eRdP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078488565248675840/vid/avc1/1280x720/vCHQmtvUcndqXLtx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078488565248675840/pl/Ao67R4uRoSiQysBZ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078488566418870272",
+            "13_2078488565248675840"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078488703031488988",
+        "created_at": "2026-07-18T14:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078488703031488988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCWJ1QWDO1",
+              "end": 57,
+              "expanded_url": "https://x.com/Bzg1680475/status/2078488703031488988/video/1",
+              "media_key": "13_2078488566418870272",
+              "start": 34,
+              "url": "https://t.co/OCWJ1QWDO1"
+            },
+            {
+              "display_url": "pic.x.com/OCWJ1QWDO1",
+              "end": 57,
+              "expanded_url": "https://x.com/Bzg1680475/status/2078488703031488988/video/1",
+              "media_key": "13_2078488565248675840",
+              "start": 34,
+              "url": "https://t.co/OCWJ1QWDO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078488703031488988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能听到它的呼噜声吗！超级亲人还拿头拱我！好幸福！可惜我没法养它 https://t.co/OCWJ1QWDO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 83,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

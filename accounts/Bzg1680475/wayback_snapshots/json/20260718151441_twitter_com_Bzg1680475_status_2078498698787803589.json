@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078498698787803589",
+    "created_at": "2026-07-18T15:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078498698787803589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1619021081238732802",
+          "start": 3,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078498698787803589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078493266706616635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love__bbh__lks: 我再说一遍，不要因为用了“请”“可以吗”等礼貌用语，性骚扰就变成了问候语，别来骚扰我，也别觉得自己很有礼貌被我骂了冤枉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078498698787803589",
+        "created_at": "2026-07-18T15:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078498698787803589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1619021081238732802",
+              "start": 3,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078498698787803589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078493266706616635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love__bbh__lks: 我再说一遍，不要因为用了“请”“可以吗”等礼貌用语，性骚扰就变成了问候语，别来骚扰我，也别觉得自己很有礼貌被我骂了冤枉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "2078493266706616635",
+        "created_at": "2026-07-18T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078493266706616635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078493266706616635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我再说一遍，不要因为用了“请”“可以吗”等礼貌用语，性骚扰就变成了问候语，别来骚扰我，也别觉得自己很有礼貌被我骂了冤枉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 83,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。恋爱中。法学专业在读。可以喊我小柳，不加联系方式",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks25286",
+                "start": 0,
+                "url": "https://t.co/ooQXOUDEFh"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554787258970112/ahfCxp7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3149,
+          "following_count": 271,
+          "like_count": 20995,
+          "listed_count": 4,
+          "media_count": 2114,
+          "tweet_count": 14214
+        },
+        "url": "https://t.co/ooQXOUDEFh",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

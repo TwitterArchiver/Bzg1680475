@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2071605185248444858",
+    "created_at": "2026-06-30T17:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072008857346564263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "220973545",
+          "start": 0,
+          "username": "1cesgusto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072008857346564263",
+    "in_reply_to_user_id": "220973545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071605185248444858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1cesgusto 历史和痛苦不该被遗忘！感谢每个愿意了解并承认这段历史的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2071605185248444858",
+        "created_at": "2026-06-30T17:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072008857346564263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "220973545",
+              "start": 0,
+              "username": "1cesgusto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072008857346564263",
+        "in_reply_to_user_id": "220973545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071605185248444858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1cesgusto 历史和痛苦不该被遗忘！感谢每个愿意了解并承认这段历史的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "220973545",
+        "conversation_id": "2071605185248444858",
+        "created_at": "2026-06-29T14:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071605185248444858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071605185248444858",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 247124,
+          "like_count": 9930,
+          "quote_count": 43,
+          "reply_count": 311,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "Japão tem mais é que se fuder, bando de FDP. Até hoje eles tem orgulho dos crimes de guerra deles na II GM. \n\nSó procurar Unidade 731, Massacre de Nanquim, Mulheres de Conforto ou Marcha de Morte de Bataan. \n\nPau no cu deles."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 60,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-29T11:26:40.000Z",
+        "description": "Direito UNESP. Pesquisador de política africana contemporânea. Torcedor do Corinthians e McLaren.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/171EZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/171EZ",
+                "start": 0,
+                "url": "https://t.co/YmAAOKXf3o"
+              }
+            ]
+          }
+        },
+        "id": "220973545",
+        "name": "Augusto",
+        "pinned_tweet_id": "2043495045173531072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061985251585372160/5qMRZjPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14418,
+          "following_count": 2522,
+          "like_count": 316815,
+          "listed_count": 26,
+          "media_count": 4338,
+          "tweet_count": 116181
+        },
+        "url": "https://t.co/YmAAOKXf3o",
+        "username": "1cesgusto",
+        "verified": true
+      }
+    ]
+  }
+}

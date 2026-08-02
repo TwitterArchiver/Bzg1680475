@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "2078639630271095178",
+    "created_at": "2026-07-19T00:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078639630271095178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042063792930979840",
+          "start": 3,
+          "username": "lego4shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078639630271095178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4768
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078050298036469896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @lego4shi: これガチだよ。男性用避妊薬が開発中止になったのは、“一部の”被験者に“女性と同じ”ような鬱症状等の重大な副作用が出たから。\n\nつまり女性達が副作用に苦しんでも重大な問題じゃないけど、男性に同じ副作用が出たら開発中止するレベルの大問題だと捉えられる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2078639630271095178",
+        "created_at": "2026-07-19T00:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078639630271095178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042063792930979840",
+              "start": 3,
+              "username": "lego4shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078639630271095178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4768
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078050298036469896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @lego4shi: これガチだよ。男性用避妊薬が開発中止になったのは、“一部の”被験者に“女性と同じ”ような鬱症状等の重大な副作用が出たから。\n\nつまり女性達が副作用に苦しんでも重大な問題じゃないけど、男性に同じ副作用が出たら開発中止するレベルの大問題だと捉えられる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042063792930979840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2078050298036469896",
+        "created_at": "2026-07-17T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078050298036469896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ghmlawlaw/stat…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ghmlawlaw/status/2077943398108164364",
+              "start": 125,
+              "url": "https://t.co/G7XaqHtSBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078050298036469896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1742,
+          "impression_count": 2102516,
+          "like_count": 39694,
+          "quote_count": 139,
+          "reply_count": 6,
+          "retweet_count": 4768
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077943398108164364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "これガチだよ。男性用避妊薬が開発中止になったのは、“一部の”被験者に“女性と同じ”ような鬱症状等の重大な副作用が出たから。\n\nつまり女性達が副作用に苦しんでも重大な問題じゃないけど、男性に同じ副作用が出たら開発中止するレベルの大問題だと捉えられる。 https://t.co/G7XaqHtSBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 84,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T02:15:37.000Z",
+        "description": "BlueLady 🤙｜Feminist｜6B4T｜女性が幸せになるヒントを発信｜署名と手作りツイートはハイライト",
+        "id": "2042063792930979840",
+        "name": "Lon🩵",
+        "pinned_tweet_id": "2067895420962099704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046815528187297792/wO23S96t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 862,
+          "like_count": 19357,
+          "listed_count": 14,
+          "media_count": 277,
+          "tweet_count": 9306
+        },
+        "url": "",
+        "username": "lego4shi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081970174396096988",
+    "created_at": "2026-07-28T05:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081980468686463309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1109336213121581056",
+          "start": 0,
+          "username": "cute_7haha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081980468686463309",
+    "in_reply_to_user_id": "1109336213121581056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081970174396096988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_7haha 严肃等待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081970174396096988",
+        "created_at": "2026-07-28T05:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081980468686463309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1109336213121581056",
+              "start": 0,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081980468686463309",
+        "in_reply_to_user_id": "1109336213121581056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081970174396096988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_7haha 严肃等待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109336213121581056",
+        "conversation_id": "2081970174396096988",
+        "created_at": "2026-07-28T05:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081970174396096988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081970174396096988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sry大家，最近有点拖延，晚上录一期̋(ˊ•͈ꇴ•͈ˋ)匿名啵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 18,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T06:08:58.000Z",
+        "description": "^ ^私信会回 ｜INFP｜1i｜Switch偏m｜反差闷骚｜小狗男｜声音好听｜17cm上翘标准粉追追｜无🚪｜喜欢的话就打赏支持wo一下啵 谢谢大家๑'~'๑ ɞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cute_7haha1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cute_7haha1",
+                "start": 0,
+                "url": "https://t.co/lWI5Nkt9qC"
+              }
+            ]
+          }
+        },
+        "id": "1109336213121581056",
+        "location": "Shanghai ",
+        "name": "沂",
+        "pinned_tweet_id": "2080101396766920855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078678285379117056/Qs0O6Se0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 3240,
+          "like_count": 1890,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/lWI5Nkt9qC",
+        "username": "cute_7haha",
+        "verified": false
+      }
+    ]
+  }
+}

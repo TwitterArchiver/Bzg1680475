@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078424107432202240"
+      ],
+      "media_source_tweet_id": [
+        "2078424113312632890"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078656367699910858",
+    "created_at": "2026-07-19T01:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078656367699910858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6ve5LfVpY",
+          "end": 68,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2078424113312632890/photo/1",
+          "media_key": "3_2078424107432202240",
+          "start": 45,
+          "url": "https://t.co/s6ve5LfVpY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078656367699910858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078424113312632890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 虐杀小动物的人是反社会人格，后续就会变本加厉。 https://t.co/s6ve5LfVpY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078424107432202240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgLtrga0AAaWGj.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078424107432202240"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2078424113312632890",
+        "created_at": "2026-07-18T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078424113312632890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6ve5LfVpY",
+              "end": 47,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2078424113312632890/photo/1",
+              "media_key": "3_2078424107432202240",
+              "start": 24,
+              "url": "https://t.co/s6ve5LfVpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078424113312632890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2544,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "虐杀小动物的人是反社会人格，后续就会变本加厉。 https://t.co/s6ve5LfVpY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078424107432202240"
+          ],
+          "media_source_tweet_id": [
+            "2078424113312632890"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078656367699910858",
+        "created_at": "2026-07-19T01:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078656367699910858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6ve5LfVpY",
+              "end": 68,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2078424113312632890/photo/1",
+              "media_key": "3_2078424107432202240",
+              "start": 45,
+              "url": "https://t.co/s6ve5LfVpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078656367699910858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078424113312632890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 虐杀小动物的人是反社会人格，后续就会变本加厉。 https://t.co/s6ve5LfVpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30056,
+          "following_count": 578,
+          "like_count": 37955,
+          "listed_count": 90,
+          "media_count": 10404,
+          "tweet_count": 28692
+        },
+        "url": "",
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

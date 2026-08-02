@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082076404116529269",
+    "created_at": "2026-07-28T12:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082087422566023303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484937266573168640",
+          "start": 0,
+          "username": "LouVeveryday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082087422566023303",
+    "in_reply_to_user_id": "1484937266573168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082076404116529269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LouVeveryday 真的有班味了哈哈哈哈哈这期和之前感觉都不一样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 261933,
+        "height": 1548,
+        "media_key": "13_2082073711071444992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082073711071444992/img/05bjw_tuPoaIjf8g.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082073711071444992/vid/avc1/320x562/aygzdY_buiKdKLJt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082073711071444992/vid/avc1/480x844/ErQ5I4DLnpUOt5tg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082073711071444992/vid/avc1/720x1266/leJDrMglBiB5yjMu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082073711071444992/pl/EmWZFtY9MDzYNJBt.m3u8?tag=14"
+          }
+        ],
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082076404116529269",
+        "created_at": "2026-07-28T12:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082087422566023303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484937266573168640",
+              "start": 0,
+              "username": "LouVeveryday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082087422566023303",
+        "in_reply_to_user_id": "1484937266573168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082076404116529269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LouVeveryday 真的有班味了哈哈哈哈哈这期和之前感觉都不一样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082073711071444992"
+          ]
+        },
+        "author_id": "1484937266573168640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082076404116529269",
+        "created_at": "2026-07-28T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082076404116529269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "男喘"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "手冲"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "手冲问答"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehQcrR6Rmv",
+              "end": 81,
+              "expanded_url": "https://x.com/LouVeveryday/status/2082076404116529269/video/1",
+              "media_key": "13_2082073711071444992",
+              "start": 58,
+              "url": "https://t.co/ehQcrR6Rmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082076404116529269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期全部读完了，暂时可能先不开信箱了，现在读信箱有一种莫名的上班感😭剩下的视频在评论里\n#男喘 #手冲 #手冲问答 https://t.co/ehQcrR6Rmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 18,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T17:13:42.000Z",
+        "description": "男的/switch/性取向女",
+        "id": "1484937266573168640",
+        "name": "想吃麦当劳",
+        "pinned_tweet_id": "2074515826317885458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065041684313133056/8A-lJBId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 74,
+          "like_count": 461,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "LouVeveryday",
+        "verified": false
+      }
+    ]
+  }
+}

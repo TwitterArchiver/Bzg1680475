@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081735518262575580",
+    "created_at": "2026-07-28T11:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082063452504486307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1323222909679120385",
+          "start": 0,
+          "username": "geye5555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082063452504486307",
+    "in_reply_to_user_id": "1323222909679120385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081735518262575580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geye5555 哎 我有个朋友不舒服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081735518262575580",
+        "created_at": "2026-07-28T11:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082063452504486307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1323222909679120385",
+              "start": 0,
+              "username": "geye5555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082063452504486307",
+        "in_reply_to_user_id": "1323222909679120385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081735518262575580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geye5555 哎 我有个朋友不舒服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323222909679120385",
+        "conversation_id": "2081735518262575580",
+        "created_at": "2026-07-27T13:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081735518262575580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081735518262575580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3610,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，每次给男的主动发消息，我都觉得自己是个蠢逼，哎呦，明明对方都懒得搭理我，我操，我现在心情真是中国人能飞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 18,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T11:18:36.000Z",
+        "description": "4i/1i/switch/bbw\n提问箱🤍https://t.co/NYTtTPb7KU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lov5ovo",
+                "end": 44,
+                "expanded_url": "https://ngl.link/lov5ovo",
+                "start": 21,
+                "url": "https://t.co/NYTtTPb7KU"
+              }
+            ]
+          }
+        },
+        "id": "1323222909679120385",
+        "location": "郑州",
+        "name": "一只羊",
+        "pinned_tweet_id": "2025274750315233618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077370111275737088/wxTbq2tB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 549,
+          "like_count": 14701,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "geye5555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080703547398856770",
+    "created_at": "2026-07-24T18:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080728983931658706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2080362486843531265",
+          "start": 0,
+          "username": "hexiaaaaggfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080728983931658706",
+    "in_reply_to_user_id": "2080362486843531265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080724663202943218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hexiaaaaggfk 虽然但是……我是女的(ᐡ⦁⩊⦁⸝⸝ᐡ ) 我也搞颜色来着…但是真的看到这些好难过呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080703547398856770",
+        "created_at": "2026-07-24T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080728983931658706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2080362486843531265",
+              "start": 0,
+              "username": "hexiaaaaggfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080728983931658706",
+        "in_reply_to_user_id": "2080362486843531265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080724663202943218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hexiaaaaggfk 虽然但是……我是女的(ᐡ⦁⩊⦁⸝⸝ᐡ ) 我也搞颜色来着…但是真的看到这些好难过呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080362486843531265",
+        "conversation_id": "2080703547398856770",
+        "created_at": "2026-07-24T18:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080724663202943218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080724663202943218",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080703547398856770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 兄弟这才是我该看的帖子，而不是什么傻逼麦子傻逼男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我讲话",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 46,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-23T18:42:04.000Z",
+        "description": "",
+        "id": "2080362486843531265",
+        "name": "hexiaaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080367362260512768/FWYQ-Nzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "hexiaaaaggfk",
+        "verified": false
+      }
+    ]
+  }
+}

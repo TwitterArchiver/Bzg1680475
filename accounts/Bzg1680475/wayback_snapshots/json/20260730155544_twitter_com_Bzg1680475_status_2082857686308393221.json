@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082856294550298624"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082857686308393221",
+    "created_at": "2026-07-30T15:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082857686308393221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/68P0dn9KXF",
+          "end": 136,
+          "expanded_url": "https://x.com/Bzg1680475/status/2082857686308393221/video/1",
+          "media_key": "13_2082856294550298624",
+          "start": 113,
+          "url": "https://t.co/68P0dn9KXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082857686308393221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "表达能力堪比一只成年拖鞋。四个问题，前面的应该都是人机，其实让我录这种口播我是有点紧张，并且不知道该说什么的，大家将就看啦，晚安大家，希望明天还有人找我玩，再叠甲。丑不丑是我个人审美，我之前认为我前任巨帅，被人鉴定有恋丑癖。 https://t.co/68P0dn9KXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 250117,
+        "height": 2712,
+        "media_key": "13_2082856294550298624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082856294550298624/img/kZ2CenXGleOqQjWt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082856294550298624/vid/avc1/320x710/D5ZAUkI2-rS4QfSc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082856294550298624/vid/avc1/480x1066/kE7JW0BBDYefn7Jf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082856294550298624/vid/avc1/720x1600/yKG1fKj0ZLOL1WqA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082856294550298624/pl/dGz05li-ZbKaPdRQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082856294550298624"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082857686308393221",
+        "created_at": "2026-07-30T15:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082857686308393221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68P0dn9KXF",
+              "end": 136,
+              "expanded_url": "https://x.com/Bzg1680475/status/2082857686308393221/video/1",
+              "media_key": "13_2082856294550298624",
+              "start": 113,
+              "url": "https://t.co/68P0dn9KXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082857686308393221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "表达能力堪比一只成年拖鞋。四个问题，前面的应该都是人机，其实让我录这种口播我是有点紧张，并且不知道该说什么的，大家将就看啦，晚安大家，希望明天还有人找我玩，再叠甲。丑不丑是我个人审美，我之前认为我前任巨帅，被人鉴定有恋丑癖。 https://t.co/68P0dn9KXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 20,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

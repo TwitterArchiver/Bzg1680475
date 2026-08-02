@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078159699426603054",
+    "created_at": "2026-07-17T16:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078162599892730164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936844560652726272",
+          "start": 0,
+          "username": "XiaoYePo"
+        },
+        {
+          "end": 20,
+          "id": "1714607557375819776",
+          "start": 10,
+          "username": "Yabatame3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078162599892730164",
+    "in_reply_to_user_id": "1936844560652726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078161827679338839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYePo @Yabatame3 好勤恳的黄推一个！其实感觉工作量也蛮大的，又要念文本又要撸还要剪辑……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078159699426603054",
+        "created_at": "2026-07-17T16:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078162599892730164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936844560652726272",
+              "start": 0,
+              "username": "XiaoYePo"
+            },
+            {
+              "end": 20,
+              "id": "1714607557375819776",
+              "start": 10,
+              "username": "Yabatame3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078162599892730164",
+        "in_reply_to_user_id": "1936844560652726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078161827679338839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYePo @Yabatame3 好勤恳的黄推一个！其实感觉工作量也蛮大的，又要念文本又要撸还要剪辑……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936844560652726272",
+        "conversation_id": "2078159699426603054",
+        "created_at": "2026-07-17T16:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078161827679338839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 22,
+              "id": "1714607557375819776",
+              "start": 12,
+              "username": "Yabatame3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078161827679338839",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078160862209364067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @Yabatame3 都休息两天了！我这个年纪我怎么睡得着觉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 82,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T17:51:51.000Z",
+        "description": "07 | 如果能被大家喜欢的话就太好啦\n匿名提问在这里~ https://t.co/HbxsS8SUNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye42026",
+                "end": 52,
+                "expanded_url": "http://ngl.link/xiaoye42026",
+                "start": 29,
+                "url": "https://t.co/HbxsS8SUNQ"
+              }
+            ]
+          }
+        },
+        "id": "1936844560652726272",
+        "location": "5.20km",
+        "name": "小也",
+        "pinned_tweet_id": "2077059068859187674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061481799197270016/OTuxVuSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 26,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "XiaoYePo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T11:41:23.000Z",
+        "description": "人类都是有七情六欲的，我注册账号就是为了看点黄的🫡\n背景里的是我的小猫，他们是异父异母的好兄弟，请不要说他们坏话🥺",
+        "id": "1714607557375819776",
+        "name": "目三",
+        "pinned_tweet_id": "2077945265290641588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011594347767365632/VIhq9vDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 72,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Yabatame3",
+        "verified": false
+      }
+    ]
+  }
+}

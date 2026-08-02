@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078152978067059097",
+    "created_at": "2026-07-19T00:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078641003419050166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264131297619804160",
+          "start": 0,
+          "username": "EgonuBoskovic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078641003419050166",
+    "in_reply_to_user_id": "1264131297619804160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078152978067059097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EgonuBoskovic b站现在真的太可怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2078152656225533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcU1I9bgAAl4Y5.png",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078152978067059097",
+        "created_at": "2026-07-19T00:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078641003419050166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1264131297619804160",
+              "start": 0,
+              "username": "EgonuBoskovic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078641003419050166",
+        "in_reply_to_user_id": "1264131297619804160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078152978067059097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EgonuBoskovic b站现在真的太可怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078152656225533952"
+          ]
+        },
+        "author_id": "1264131297619804160",
+        "conversation_id": "2078152978067059097",
+        "created_at": "2026-07-17T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078152978067059097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P50ycvkFZB",
+              "end": 53,
+              "expanded_url": "https://x.com/EgonuBoskovic/status/2078152978067059097/photo/1",
+              "media_key": "3_2078152656225533952",
+              "start": 30,
+              "url": "https://t.co/P50ycvkFZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078152978067059097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1333,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "既然覺得婚姻是男人的枷鎖，你又爲什麼覺得國家欠你一個老婆？ https://t.co/P50ycvkFZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 84,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T09:49:31.000Z",
+        "description": "性别女，爱好打拳，坦克，剪鸡手，6B4T，易block人，勿关注。可以不追星，但不可以停止为郑爽发声。反代孕不反男的非蠢即坏",
+        "id": "1264131297619804160",
+        "name": "谢绝娣",
+        "pinned_tweet_id": "1527248958720180225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538515298902753280/p8QpZcZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 107,
+          "like_count": 87262,
+          "listed_count": 26,
+          "media_count": 7602,
+          "tweet_count": 50294
+        },
+        "url": "",
+        "username": "EgonuBoskovic",
+        "verified": false
+      }
+    ]
+  }
+}

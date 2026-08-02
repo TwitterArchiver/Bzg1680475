@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081747229543670234",
+    "created_at": "2026-07-27T15:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081769681338380588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2070104221945348096",
+          "start": 0,
+          "username": "nzigycjpohzk8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081769681338380588",
+    "in_reply_to_user_id": "2070104221945348096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081747229543670234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nzigycjpohzk8c 真这么干净还会一上来就约吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081747215576600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPaECCaEAAbbYR.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081747229543670234",
+        "created_at": "2026-07-27T15:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081769681338380588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2070104221945348096",
+              "start": 0,
+              "username": "nzigycjpohzk8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081769681338380588",
+        "in_reply_to_user_id": "2070104221945348096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081747229543670234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nzigycjpohzk8c 真这么干净还会一上来就约吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081747215576600576"
+          ]
+        },
+        "author_id": "2070104221945348096",
+        "conversation_id": "2081747229543670234",
+        "created_at": "2026-07-27T14:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081747229543670234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PT3xl8oLCn",
+              "end": 41,
+              "expanded_url": "https://x.com/nzigycjpohzk8c/status/2081747229543670234/photo/1",
+              "media_key": "3_2081747215576600576",
+              "start": 18,
+              "url": "https://t.co/PT3xl8oLCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081747229543670234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 65476,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 112,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "有礼貌，有素质的男孩子真的很加分！ https://t.co/PT3xl8oLCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 18,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T11:18:55.000Z",
+        "description": "做一个真实的博主.爱自由！日常分享！每天开心就行啦哈哈",
+        "id": "2070104221945348096",
+        "location": "6.88km    实名认证",
+        "name": "隔壁兰兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080898581029134336/5KO4q1Zq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "nzigycjpohzk8c",
+        "verified": false
+      }
+    ]
+  }
+}

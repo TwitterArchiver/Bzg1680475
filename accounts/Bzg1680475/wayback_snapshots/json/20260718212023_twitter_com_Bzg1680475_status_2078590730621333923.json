@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078436911572734188",
+    "created_at": "2026-07-18T21:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078590730621333923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753373969951105024",
+          "start": 0,
+          "username": "twin_sinners"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078590730621333923",
+    "in_reply_to_user_id": "1753373969951105024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078436911572734188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twin_sinners 这个真的太完美了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2078436897026904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgXWIdakAAEton.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078436911572734188",
+        "created_at": "2026-07-18T21:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078590730621333923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753373969951105024",
+              "start": 0,
+              "username": "twin_sinners"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078590730621333923",
+        "in_reply_to_user_id": "1753373969951105024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078436911572734188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twin_sinners 这个真的太完美了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078436897026904064"
+          ]
+        },
+        "author_id": "1753373969951105024",
+        "conversation_id": "2078436911572734188",
+        "created_at": "2026-07-18T11:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078436911572734188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yV3BNYMt8j",
+              "end": 23,
+              "expanded_url": "https://x.com/twin_sinners/status/2078436911572734188/photo/1",
+              "media_key": "3_2078436897026904064",
+              "start": 0,
+              "url": "https://t.co/yV3BNYMt8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078436911572734188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2196,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yV3BNYMt8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 84,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:05:12.000Z",
+        "description": "prynce",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/twin_sinners",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/twin_sinners",
+                "start": 0,
+                "url": "https://t.co/4nejGFvIt2"
+              }
+            ]
+          }
+        },
+        "id": "1753373969951105024",
+        "location": "13.2",
+        "name": "sin",
+        "pinned_tweet_id": "2074136550699671846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961356704278614017/KaRGhK-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3145,
+          "following_count": 59,
+          "like_count": 8090,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/4nejGFvIt2",
+        "username": "twin_sinners",
+        "verified": false
+      }
+    ]
+  }
+}

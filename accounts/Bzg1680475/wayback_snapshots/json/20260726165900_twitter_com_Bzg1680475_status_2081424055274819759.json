@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2027343766768738627",
+    "created_at": "2026-07-26T16:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081424055274819759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999381428803702784",
+          "start": 0,
+          "username": "neversay1647130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081424055274819759",
+    "in_reply_to_user_id": "1999381428803702784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027343766768738627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neversay1647130 你的眼睛是什么问题呀 希望你能好起来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2027343766768738627",
+        "created_at": "2026-07-26T16:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081424055274819759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999381428803702784",
+              "start": 0,
+              "username": "neversay1647130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081424055274819759",
+        "in_reply_to_user_id": "1999381428803702784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027343766768738627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neversay1647130 你的眼睛是什么问题呀 希望你能好起来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999381428803702784",
+        "conversation_id": "2027343766768738627",
+        "created_at": "2026-02-27T11:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027343766768738627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027343766768738627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的很想眼睛好起来\n我想看城市的夜景，想逛商场，想攀岩\n想赚钱后买车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 19,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T07:31:03.000Z",
+        "description": "1i&4i Switch 上海实习中\n难以名状之人",
+        "id": "1999381428803702784",
+        "name": "never_say",
+        "pinned_tweet_id": "2081120659007217953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999381613147492352/glziuanC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 47,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "neversay1647130",
+        "verified": false
+      }
+    ]
+  }
+}

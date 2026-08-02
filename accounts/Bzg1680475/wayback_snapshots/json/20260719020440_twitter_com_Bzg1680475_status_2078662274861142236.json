@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078662270595571885",
+    "created_at": "2026-07-19T02:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078662274861142236"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078662274861142236",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078662272734703890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虐杀动物残忍，捂嘴、扼杀正常的发声也是残忍，我们到底该如何为自己想要的世界发声？我们到底要做出什么才能有所改变？等人权谈好了再落实动保是最大的伪善，人权和动物权本身是同盟而不是仇敌！我由衷希望人类更好，也希望动物安全。当一条鲜活的生命被社会漠视，哪又谈何普通人的人权。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078662270595571885",
+        "created_at": "2026-07-19T02:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078662274861142236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078662274861142236",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078662272734703890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虐杀动物残忍，捂嘴、扼杀正常的发声也是残忍，我们到底该如何为自己想要的世界发声？我们到底要做出什么才能有所改变？等人权谈好了再落实动保是最大的伪善，人权和动物权本身是同盟而不是仇敌！我由衷希望人类更好，也希望动物安全。当一条鲜活的生命被社会漠视，哪又谈何普通人的人权。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078662270595571885",
+        "created_at": "2026-07-19T02:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078662272734703890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078662272734703890",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078662270595571885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法律给了未成年保护，但又是什么样的教育，什么样的观念，什么样的土壤，培养出以活活烧死正在哺乳的动物为乐的凶手？！\n没有法律，是最大的恶，活活烧死一条生命竟不如偷走一辆电瓶车罚得重，如果在社会眼里动物的命不值钱，其实也等同于：弱者的命不值钱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2082129262438486423",
+    "created_at": "2026-07-28T16:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082134974292185376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1109336213121581056",
+          "start": 0,
+          "username": "cute_7haha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082134974292185376",
+    "in_reply_to_user_id": "1109336213121581056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082129262438486423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_7haha 哥哥你淡推了我怎么办……🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1061000,
+        "height": 1280,
+        "media_key": "13_2082128598488498177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082128598488498177/img/E7j5x2jKveAq-0Xc.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128598488498177/vid/avc1/320x690/lbk_KYV1QixxpyTf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128598488498177/vid/avc1/480x1036/6EMSTBj-itye9s5Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128598488498177/vid/avc1/592x1280/nGEdofUDsmhUq_3T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082128598488498177/pl/-NKB8l2trKz6gnCM.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082129262438486423",
+        "created_at": "2026-07-28T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082134974292185376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1109336213121581056",
+              "start": 0,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082134974292185376",
+        "in_reply_to_user_id": "1109336213121581056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082129262438486423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_7haha 哥哥你淡推了我怎么办……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082128598488498177"
+          ]
+        },
+        "author_id": "1109336213121581056",
+        "conversation_id": "2082129262438486423",
+        "created_at": "2026-07-28T15:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082129262438486423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男喘"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "青年音"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ho8CSNYTfR",
+              "end": 51,
+              "expanded_url": "https://x.com/cute_7haha/status/2082129262438486423/video/1",
+              "media_key": "13_2082128598488498177",
+              "start": 28,
+              "url": "https://t.co/ho8CSNYTfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082129262438486423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 315,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二期匿名，最后有深夜福利🥵🥵#男喘\n#青年音 #反差 https://t.co/ho8CSNYTfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 18,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T06:08:58.000Z",
+        "description": "^ ^私信会回 ｜INFP｜1i｜Switch偏m｜反差闷骚｜小狗男｜声音好听｜17cm上翘标准粉追追｜无🚪｜喜欢的话就打赏支持wo一下啵 谢谢大家๑'~'๑ ɞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cute_7haha1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cute_7haha1",
+                "start": 0,
+                "url": "https://t.co/lWI5Nkt9qC"
+              }
+            ]
+          }
+        },
+        "id": "1109336213121581056",
+        "location": "Shanghai ",
+        "name": "沂",
+        "pinned_tweet_id": "2080101396766920855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078678285379117056/Qs0O6Se0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4300,
+          "following_count": 3229,
+          "like_count": 1944,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/lWI5Nkt9qC",
+        "username": "cute_7haha",
+        "verified": false
+      }
+    ]
+  }
+}

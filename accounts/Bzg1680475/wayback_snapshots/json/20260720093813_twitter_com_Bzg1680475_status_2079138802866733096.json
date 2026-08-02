@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2064245473968341274",
+    "created_at": "2026-07-20T09:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079138802866733096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685053257100689408",
+          "start": 0,
+          "username": "lei_le91111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079138802866733096",
+    "in_reply_to_user_id": "1685053257100689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064245473968341274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_le91111 我想问一下给别人发这种的目的是什么 真的会有什么快感吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2064245473968341274",
+        "created_at": "2026-07-20T09:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079138802866733096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685053257100689408",
+              "start": 0,
+              "username": "lei_le91111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079138802866733096",
+        "in_reply_to_user_id": "1685053257100689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245473968341274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_le91111 我想问一下给别人发这种的目的是什么 真的会有什么快感吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685053257100689408",
+        "conversation_id": "2064245473968341274",
+        "created_at": "2026-06-09T07:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064245473968341274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064245473968341274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27059,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这个号不是我的第一个号 它的诞生原因也很畸形，以前我是个很恶心的猥琐男，会跑去一些女生的私信里问看不看私处之类的 后来认识了我最喜欢的前女友 他知道我的这些所作所为 说不喜欢我这样，像个发情的公狗 就算后面和她分手了也记到了现在 但是我有严重的暴露癖。于是就有了这个号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 89,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T22:23:20.000Z",
+        "description": "🚪188(互关除外) 男的一万。",
+        "id": "1685053257100689408",
+        "name": "藤宫周",
+        "pinned_tweet_id": "2064245473968341274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026333097726554112/qD4EiDKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6616,
+          "following_count": 1018,
+          "like_count": 15708,
+          "listed_count": 21,
+          "media_count": 187,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "lei_le91111",
+        "verified": false
+      }
+    ]
+  }
+}

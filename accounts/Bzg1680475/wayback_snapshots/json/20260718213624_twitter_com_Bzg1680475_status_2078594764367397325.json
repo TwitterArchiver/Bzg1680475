@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078458495729532965",
+    "created_at": "2026-07-18T21:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078594764367397325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1822672707944919040",
+          "start": 0,
+          "username": "zna_oa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078594764367397325",
+    "in_reply_to_user_id": "1822672707944919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078458495729532965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zna_oa 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2078458489282928640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgq-94aoAAIwlq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078458495729532965",
+        "created_at": "2026-07-18T21:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078594764367397325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1822672707944919040",
+              "start": 0,
+              "username": "zna_oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078594764367397325",
+        "in_reply_to_user_id": "1822672707944919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078458495729532965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zna_oa 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078458489282928640"
+          ]
+        },
+        "author_id": "1822672707944919040",
+        "conversation_id": "2078458495729532965",
+        "created_at": "2026-07-18T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078458495729532965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcsbaK3e0B",
+              "end": 30,
+              "expanded_url": "https://x.com/zna_oa/status/2078458495729532965/photo/1",
+              "media_key": "3_2078458489282928640",
+              "start": 7,
+              "url": "https://t.co/ZcsbaK3e0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078458495729532965",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3037,
+          "like_count": 298,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/ZcsbaK3e0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 85,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T16:33:41.000Z",
+        "description": "",
+        "id": "1822672707944919040",
+        "name": "zvy",
+        "pinned_tweet_id": "1969011310999294090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072891202987581440/-kUm1Una_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7611,
+          "following_count": 856,
+          "like_count": 3987,
+          "listed_count": 14,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "zna_oa",
+        "verified": false
+      }
+    ]
+  }
+}

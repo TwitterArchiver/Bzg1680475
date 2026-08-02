@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2078426246690820337",
+    "created_at": "2026-07-18T10:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078426246690820337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078426246690820337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头好晕好痛，是因为来月经还是咋的，昏睡了十二三小时起来头好痛，嗯也可能是睡太多了……我怎么可以这样浪费我的宝贵周末！啊忏悔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2078426246690820337",
+        "created_at": "2026-07-18T10:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078426246690820337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078426246690820337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头好晕好痛，是因为来月经还是咋的，昏睡了十二三小时起来头好痛，嗯也可能是睡太多了……我怎么可以这样浪费我的宝贵周末！啊忏悔！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜",
+        "id": "1788237544590823424",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 82,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2079142153096405452",
+    "created_at": "2026-07-20T09:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079142153096405452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079142153096405452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直觉得谈恋爱比过程比结果重要，我已经不再想结婚这方面了，还是体验感最重要。但我又是一个对待感情十分认真的人，也害怕自己的情绪被他人过多的影响，如果非要影响我，那一定要符合我的那些要求，所以我六年多我一直没再谈，之前那段恋爱又算什么呢，初高中啥也不懂的懵懂经历罢了，算了不讲无语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2079142153096405452",
+        "created_at": "2026-07-20T09:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079142153096405452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079142153096405452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得谈恋爱比过程比结果重要，我已经不再想结婚这方面了，还是体验感最重要。但我又是一个对待感情十分认真的人，也害怕自己的情绪被他人过多的影响，如果非要影响我，那一定要符合我的那些要求，所以我六年多我一直没再谈，之前那段恋爱又算什么呢，初高中啥也不懂的懵懂经历罢了，算了不讲无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "身体很虚很萎的社畜\n我就看看不约 求你们别找我\n不够狗不够骚不够瘦不够年轻别找我",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788237966118383616/Kpk9Ao76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 89,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

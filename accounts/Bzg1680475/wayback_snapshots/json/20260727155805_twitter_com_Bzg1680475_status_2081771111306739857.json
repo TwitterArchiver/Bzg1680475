@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081540081886883841"
+      ],
+      "media_source_tweet_id": [
+        "2081552651561681260"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2081771111306739857",
+    "created_at": "2026-07-27T15:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081771111306739857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmqYAPa4Ii",
+          "end": 72,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2081552651561681260/video/1",
+          "media_key": "13_2081540081886883841",
+          "start": 49,
+          "url": "https://t.co/xmqYAPa4Ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081771111306739857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081552651561681260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: カメラを向けるたびに、主役を奪ってくる猫ちゃんが可愛すぎる https://t.co/xmqYAPa4Ii"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9636,
+        "height": 1280,
+        "media_key": "13_2081540081886883841",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081540081886883841/img/jgB-sZ9U5wbjyUUH.jpg",
+        "public_metrics": {
+          "view_count": 14284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081540081886883841/vid/avc1/320x568/03J21logUI7PaBF-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081540081886883841/vid/avc1/480x852/hw0pJj_H3X3uQ0NU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081540081886883841/vid/avc1/720x1280/ntO-3E-VsKXFdRoz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081540081886883841/pl/tDrTDyoafMGuObCr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081540081886883841"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2081552651561681260",
+        "created_at": "2026-07-27T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081552651561681260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmqYAPa4Ii",
+              "end": 53,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2081552651561681260/video/1",
+              "media_key": "13_2081540081886883841",
+              "start": 30,
+              "url": "https://t.co/xmqYAPa4Ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081552651561681260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 44942,
+          "like_count": 2980,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "カメラを向けるたびに、主役を奪ってくる猫ちゃんが可愛すぎる https://t.co/xmqYAPa4Ii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081540081886883841"
+          ],
+          "media_source_tweet_id": [
+            "2081552651561681260"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2081771111306739857",
+        "created_at": "2026-07-27T15:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081771111306739857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmqYAPa4Ii",
+              "end": 72,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2081552651561681260/video/1",
+              "media_key": "13_2081540081886883841",
+              "start": 49,
+              "url": "https://t.co/xmqYAPa4Ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081771111306739857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081552651561681260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: カメラを向けるたびに、主役を奪ってくる猫ちゃんが可愛すぎる https://t.co/xmqYAPa4Ii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "Bzg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 18,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331794,
+          "following_count": 0,
+          "like_count": 4550,
+          "listed_count": 522,
+          "media_count": 9696,
+          "tweet_count": 9838
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}
