@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085179663643759084",
+    "created_at": "2026-08-07T07:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085635215410471183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1474559854517927937",
+          "start": 0,
+          "username": "TvTseven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085635215410471183",
+    "in_reply_to_user_id": "1474559854517927937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085229146943439124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTseven 咪咪又喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085179663643759084",
+        "created_at": "2026-08-07T07:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085635215410471183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1474559854517927937",
+              "start": 0,
+              "username": "TvTseven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085635215410471183",
+        "in_reply_to_user_id": "1474559854517927937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085229146943439124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTseven 咪咪又喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474559854517927937",
+        "conversation_id": "2085179663643759084",
+        "created_at": "2026-08-06T04:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085229146943439124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085229146943439124",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085179663643759084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 哎 跟你差不多哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 32,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T01:57:40.000Z",
+        "description": "小猫一只｜4i｜1i",
+        "id": "1474559854517927937",
+        "name": "喜欢睡大觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079624271123685376/oh93OS_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "TvTseven",
+        "verified": false
+      }
+    ]
+  }
+}

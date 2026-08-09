@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085699059474657280"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085699070690209963",
+    "created_at": "2026-08-07T12:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085699070690209963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QUO87NDBY",
+          "end": 46,
+          "expanded_url": "https://x.com/Bzg1680475/status/2085699070690209963/photo/1",
+          "media_key": "3_2085699059474657280",
+          "start": 23,
+          "url": "https://t.co/8QUO87NDBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085699070690209963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽我真的非常欣赏这个喘子，太敬业了其实。。 https://t.co/8QUO87NDBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2059,
+        "media_key": "3_2085699059474657280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHkPnxacAAzMI5.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085699059474657280"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085699070690209963",
+        "created_at": "2026-08-07T12:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085699070690209963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QUO87NDBY",
+              "end": 46,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085699070690209963/photo/1",
+              "media_key": "3_2085699059474657280",
+              "start": 23,
+              "url": "https://t.co/8QUO87NDBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085699070690209963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我真的非常欣赏这个喘子，太敬业了其实。。 https://t.co/8QUO87NDBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 33,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085382153169448962"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085382565305925722",
+    "created_at": "2026-08-06T15:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085382565305925722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7tse1D6szT",
+          "end": 32,
+          "expanded_url": "https://x.com/Bzg1680475/status/2085382565305925722/video/1",
+          "media_key": "13_2085382153169448962",
+          "start": 9,
+          "url": "https://t.co/7tse1D6szT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085382565305925722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢大家的信箱！ https://t.co/7tse1D6szT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 365760,
+        "height": 960,
+        "media_key": "13_2085382153169448962",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085382153169448962/img/OYKozvKzmAuXEjiY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085382153169448962/vid/avc1/320x426/oLxDJrgktC0iX0BJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085382153169448962/vid/avc1/480x640/IeR9tfWG_CqCXoou.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085382153169448962/vid/avc1/720x960/dWGzAERzzdY8e6xZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085382153169448962/pl/fQjcTaqmnWnAd3T9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085382153169448962"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085382565305925722",
+        "created_at": "2026-08-06T15:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085382565305925722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tse1D6szT",
+              "end": 32,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085382565305925722/video/1",
+              "media_key": "13_2085382153169448962",
+              "start": 9,
+              "url": "https://t.co/7tse1D6szT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085382565305925722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家的信箱！ https://t.co/7tse1D6szT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 33,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

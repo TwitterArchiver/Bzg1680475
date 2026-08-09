@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2083478519531868521",
+    "created_at": "2026-08-01T17:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083604296931934413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083559306985967616",
+          "start": 0,
+          "username": "JNezvm"
+        },
+        {
+          "end": 18,
+          "id": "2081939758473977858",
+          "start": 8,
+          "username": "Ttantongg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083604296931934413",
+    "in_reply_to_user_id": "2083559306985967616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083594060313629094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JNezvm @Ttantongg 其实是被屏蔽了，但我翻消息看到你啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2083478519531868521",
+        "created_at": "2026-08-01T17:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083604296931934413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083559306985967616",
+              "start": 0,
+              "username": "JNezvm"
+            },
+            {
+              "end": 18,
+              "id": "2081939758473977858",
+              "start": 8,
+              "username": "Ttantongg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083604296931934413",
+        "in_reply_to_user_id": "2083559306985967616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083594060313629094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JNezvm @Ttantongg 其实是被屏蔽了，但我翻消息看到你啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083559306985967616",
+        "conversation_id": "2083478519531868521",
+        "created_at": "2026-08-01T16:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083594060313629094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 22,
+              "id": "2081939758473977858",
+              "start": 12,
+              "username": "Ttantongg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083594060313629094",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083593264280838166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @Ttantongg 你好，我想找个真人聊天，但他不让我私信了，可以在这里聊聊天吗？还有你看得见吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 22,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T14:24:50.000Z",
+        "description": "",
+        "id": "2083559306985967616",
+        "name": "JN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083571858998546432/mzhwu1Db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "JNezvm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T03:10:48.000Z",
+        "description": "07，男，玩kards，原神，绝区零，泰拉瑞亚，饥荒，星露谷，战争雷霆，明日方舟，三角洲，瓦，明日方舟终末地，异环，幻兽帕鲁，杀戮尖塔。",
+        "id": "2081939758473977858",
+        "location": "成都",
+        "name": "Tta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082716575405334528/SH9b_N-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Ttantongg",
+        "verified": false
+      }
+    ]
+  }
+}

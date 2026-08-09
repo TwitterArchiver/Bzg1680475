@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084931949882458509",
+    "created_at": "2026-08-06T12:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085341748394614854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083125620108840960",
+          "start": 0,
+          "username": "Rain1ngC"
+        },
+        {
+          "end": 21,
+          "id": "1756909109788753920",
+          "start": 10,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085341748394614854",
+    "in_reply_to_user_id": "2083125620108840960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085279842766090396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain1ngC @__fanqie__ 不要这么说！我可没这样做过！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084931949882458509",
+        "created_at": "2026-08-06T12:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085341748394614854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083125620108840960",
+              "start": 0,
+              "username": "Rain1ngC"
+            },
+            {
+              "end": 21,
+              "id": "1756909109788753920",
+              "start": 10,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085341748394614854",
+        "in_reply_to_user_id": "2083125620108840960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085279842766090396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain1ngC @__fanqie__ 不要这么说！我可没这样做过！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083125620108840960",
+        "conversation_id": "2084931949882458509",
+        "created_at": "2026-08-06T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085279842766090396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 23,
+              "id": "1756909109788753920",
+              "start": 12,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085279842766090396",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084992405124911280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @__fanqie__ 真来了你又嫌粘人😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 33,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T09:43:27.000Z",
+        "description": "06在读男大\n永劫无间/瓦罗兰特dd",
+        "id": "2083125620108840960",
+        "location": "深圳",
+        "name": "落雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083126700108591104/dzqkuqIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Rain1ngC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12083,
+          "following_count": 2783,
+          "like_count": 1611,
+          "listed_count": 25,
+          "media_count": 2531,
+          "tweet_count": 11387
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

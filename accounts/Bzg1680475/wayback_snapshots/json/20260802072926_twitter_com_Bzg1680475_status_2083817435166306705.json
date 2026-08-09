@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2083813035991580775",
+    "created_at": "2026-08-02T07:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083817435166306705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083817435166306705",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083813035991580775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不抽烟不喝酒不改花刀不od的人崩溃的时候要怎么办呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2155,
+        "media_key": "3_2083813001069821953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsw4ksbgAE5eQo.jpg",
+        "width": 1220
+      },
+      {
+        "height": 803,
+        "media_key": "3_2083813010527948800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsw5H7bEAAgHYS.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2083813017477931008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsw5h0bYAA_Egi.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2141,
+        "media_key": "3_2083813028764770304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsw6L3a4AAN8Sq.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2083813035991580775",
+        "created_at": "2026-08-02T07:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083817435166306705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083817435166306705",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083813035991580775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不抽烟不喝酒不改花刀不od的人崩溃的时候要怎么办呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083813001069821953",
+            "3_2083813010527948800",
+            "3_2083813017477931008",
+            "3_2083813028764770304"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2083813035991580775",
+        "created_at": "2026-08-02T07:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083813035991580775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfJSW7kaBZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Bzg1680475/status/2083813035991580775/photo/1",
+              "media_key": "3_2083813001069821953",
+              "start": 70,
+              "url": "https://t.co/LfJSW7kaBZ"
+            },
+            {
+              "display_url": "pic.x.com/LfJSW7kaBZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Bzg1680475/status/2083813035991580775/photo/1",
+              "media_key": "3_2083813010527948800",
+              "start": 70,
+              "url": "https://t.co/LfJSW7kaBZ"
+            },
+            {
+              "display_url": "pic.x.com/LfJSW7kaBZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Bzg1680475/status/2083813035991580775/photo/1",
+              "media_key": "3_2083813017477931008",
+              "start": 70,
+              "url": "https://t.co/LfJSW7kaBZ"
+            },
+            {
+              "display_url": "pic.x.com/LfJSW7kaBZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Bzg1680475/status/2083813035991580775/photo/1",
+              "media_key": "3_2083813028764770304",
+              "start": 70,
+              "url": "https://t.co/LfJSW7kaBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083813035991580775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是一个心理很不健康的人，我很容易钻牛角尖，钻了就很久才能出来。是的我现在有点难过，其实这种性格真不好，成年人哪里需要说得那么清楚呢。 https://t.co/LfJSW7kaBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 23,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085268098702246306",
+    "created_at": "2026-08-06T15:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085386464876253456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809289929488494593",
+          "start": 0,
+          "username": "zhenlijingshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085386464876253456",
+    "in_reply_to_user_id": "1809289929488494593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085293557607534972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhenlijingshi 烦死了！太影响我拉屎的心情了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085268098702246306",
+        "created_at": "2026-08-06T15:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085386464876253456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809289929488494593",
+              "start": 0,
+              "username": "zhenlijingshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085386464876253456",
+        "in_reply_to_user_id": "1809289929488494593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085293557607534972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhenlijingshi 烦死了！太影响我拉屎的心情了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809289929488494593",
+        "conversation_id": "2085268098702246306",
+        "created_at": "2026-08-06T09:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085293557607534972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085293557607534972",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085268098702246306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 这是我最近看过最逆天的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 33,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T18:15:16.000Z",
+        "description": "",
+        "id": "1809289929488494593",
+        "name": "Ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078522699413106688/AhV0esCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 168,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "zhenlijingshi",
+        "verified": false
+      }
+    ]
+  }
+}

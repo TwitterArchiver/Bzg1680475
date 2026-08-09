@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085411469202694225",
+    "created_at": "2026-08-06T17:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085412580387160343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085412580387160343",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085411469202694225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能我撞了南墙才会回头吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2085411454178807808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDeqyjb0AAUGsJ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085411469202694225",
+        "created_at": "2026-08-06T17:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085412580387160343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085412580387160343",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085411469202694225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能我撞了南墙才会回头吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085411454178807808"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085411469202694225",
+        "created_at": "2026-08-06T17:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085411469202694225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJr78ccHQr",
+              "end": 38,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085411469202694225/photo/1",
+              "media_key": "3_2085411454178807808",
+              "start": 15,
+              "url": "https://t.co/CJr78ccHQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085411469202694225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全员恶人怎么又穿我身上了…… https://t.co/CJr78ccHQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 33,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085248216422121957",
+    "created_at": "2026-08-06T07:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085270912870572282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974862287761817600",
+          "start": 0,
+          "username": "berberber_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085270912870572282",
+    "in_reply_to_user_id": "1974862287761817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085248216422121957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berberber_1 美成这样啥意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_2085248212076826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBKM2VbkAASrIo.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085248216422121957",
+        "created_at": "2026-08-06T07:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085270912870572282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974862287761817600",
+              "start": 0,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085270912870572282",
+        "in_reply_to_user_id": "1974862287761817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085248216422121957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berberber_1 美成这样啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085248212076826624"
+          ]
+        },
+        "author_id": "1974862287761817600",
+        "conversation_id": "2085248216422121957",
+        "created_at": "2026-08-06T06:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085248216422121957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3U8eMypSf",
+              "end": 31,
+              "expanded_url": "https://x.com/berberber_1/status/2085248216422121957/photo/1",
+              "media_key": "3_2085248212076826624",
+              "start": 8,
+              "url": "https://t.co/w3U8eMypSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085248216422121957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "黑发怎么样呢？ https://t.co/w3U8eMypSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 33,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "🖤私信会被屏 请去ig",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX1vXh"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "🌍",
+        "name": "+ +",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074890110320230400/fYl77pG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 5,
+          "like_count": 265,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/a2iVZX1vXh",
+        "username": "berberber_1",
+        "verified": false
+      }
+    ]
+  }
+}

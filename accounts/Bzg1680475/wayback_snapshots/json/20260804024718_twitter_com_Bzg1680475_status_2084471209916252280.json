@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084240492594958769",
+    "created_at": "2026-08-04T02:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084471209916252280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063271909501128704",
+          "start": 0,
+          "username": "osborin8xi"
+        },
+        {
+          "end": 22,
+          "id": "2026707473047162880",
+          "start": 12,
+          "username": "kai325ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084471209916252280",
+    "in_reply_to_user_id": "2063271909501128704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084456416082047324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osborin8xi @kai325ovo 帅到极致自然骚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084240492594958769",
+        "created_at": "2026-08-04T02:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084471209916252280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063271909501128704",
+              "start": 0,
+              "username": "osborin8xi"
+            },
+            {
+              "end": 22,
+              "id": "2026707473047162880",
+              "start": 12,
+              "username": "kai325ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084471209916252280",
+        "in_reply_to_user_id": "2063271909501128704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084456416082047324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osborin8xi @kai325ovo 帅到极致自然骚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063271909501128704",
+        "conversation_id": "2084240492594958769",
+        "created_at": "2026-08-04T01:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084456416082047324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026707473047162880",
+              "start": 0,
+              "username": "kai325ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084456416082047324",
+        "in_reply_to_user_id": "2026707473047162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084240492594958769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kai325ovo 这时候有人就要问了男人到底是骚重要还是帅重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 25,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:49:29.000Z",
+        "description": "嗯_个人颜控非常严重！……所以我会根据你的身材以及说话方式自动匹配长相，不管是发什么还是拍什么。码都给我打好了啊喂。ps(没有特指或别的意思， 你们长得都挺不错的🥺\n        \n不要过来骚扰我  不是经常上线",
+        "id": "2063271909501128704",
+        "name": "Eleven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074935677167468544/JLYQQh65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 192,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "osborin8xi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T17:15:05.000Z",
+        "description": "1908年的 白羊 成年了 男 直的 直的 不喜欢男的  不是gay  不约 本人是一个很无趣的人喜欢在这里碎碎念分享一点日常 性压抑来这里释放的 照片在媒体可以看                 \n喜欢可以点赞关注谢谢宝宝",
+        "id": "2026707473047162880",
+        "location": "0.247km    我在你隔壁",
+        "name": "小楷",
+        "pinned_tweet_id": "2059694001817854179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031418605313851392/HRFLpeYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 58,
+          "like_count": 13603,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "kai325ovo",
+        "verified": false
+      }
+    ]
+  }
+}

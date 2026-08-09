@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085337532015726755",
+    "created_at": "2026-08-06T13:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085353058394128457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994683924279439360",
+          "start": 0,
+          "username": "babheisbneba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085353058394128457",
+    "in_reply_to_user_id": "1994683924279439360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085352459766300888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babheisbneba 过半个月就掉了怕啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085337532015726755",
+        "created_at": "2026-08-06T13:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085353058394128457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994683924279439360",
+              "start": 0,
+              "username": "babheisbneba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085353058394128457",
+        "in_reply_to_user_id": "1994683924279439360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085352459766300888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babheisbneba 过半个月就掉了怕啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994683924279439360",
+        "conversation_id": "2085337532015726755",
+        "created_at": "2026-08-06T13:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085352459766300888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085352459766300888",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085337532015726755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 这个很有辨识度，不怕被认出来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 33,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:25:01.000Z",
+        "description": "35中年男，已婚有娃，大厂中层，努力成为高管，目标10年后退休。抽烟喝酒，钟爱拉格，贪杯怕死，记录喝酒控酒，和一些七七八八。路亚，台钓，跑步，足球，篮球，海边，偶尔自驾，户外。",
+        "id": "1994683924279439360",
+        "location": "WX & SH",
+        "name": "derder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079821700905283585/Ok5LERbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "babheisbneba",
+        "verified": false
+      }
+    ]
+  }
+}

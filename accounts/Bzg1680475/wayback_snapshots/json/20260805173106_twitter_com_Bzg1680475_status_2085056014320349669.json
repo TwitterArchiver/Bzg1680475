@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085055819989893120"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085056014320349669",
+    "created_at": "2026-08-05T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085056014320349669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kuuVOwYFK",
+          "end": 64,
+          "expanded_url": "https://x.com/Bzg1680475/status/2085056014320349669/video/1",
+          "media_key": "13_2085055819989893120",
+          "start": 41,
+          "url": "https://t.co/9kuuVOwYFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085056014320349669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两条信箱！居然都问了我的知识盲区！但还是胡言乱语回答了一通～\n٩(๑^o^๑)۶ https://t.co/9kuuVOwYFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 261256,
+        "height": 1280,
+        "media_key": "13_2085055819989893120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085055819989893120/img/YboG0Tbn1Lapl8tX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085055819989893120/vid/avc1/320x710/9xB39ZC5Pymwq3A5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085055819989893120/vid/avc1/480x1066/JzI-zh7P1AoUrfoL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085055819989893120/vid/avc1/576x1280/haHLuHYhIK3M26Ix.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085055819989893120/pl/qT5kNMdbb9_BMqK7.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085055819989893120"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085056014320349669",
+        "created_at": "2026-08-05T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085056014320349669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kuuVOwYFK",
+              "end": 64,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085056014320349669/video/1",
+              "media_key": "13_2085055819989893120",
+              "start": 41,
+              "url": "https://t.co/9kuuVOwYFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085056014320349669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两条信箱！居然都问了我的知识盲区！但还是胡言乱语回答了一通～\n٩(๑^o^๑)۶ https://t.co/9kuuVOwYFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 31,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

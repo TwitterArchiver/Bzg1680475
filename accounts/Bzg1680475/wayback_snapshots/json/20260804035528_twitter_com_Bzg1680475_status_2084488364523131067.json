@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084321089665278050",
+    "created_at": "2026-08-04T03:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084488364523131067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903068462710394881",
+          "start": 0,
+          "username": "Jiyuu_0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084488364523131067",
+    "in_reply_to_user_id": "1903068462710394881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084321089665278050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiyuu_0521 圈到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084321089665278050",
+        "created_at": "2026-08-04T03:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084488364523131067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903068462710394881",
+              "start": 0,
+              "username": "Jiyuu_0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084488364523131067",
+        "in_reply_to_user_id": "1903068462710394881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084321089665278050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiyuu_0521 圈到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903068462710394881",
+        "conversation_id": "2084321089665278050",
+        "created_at": "2026-08-03T16:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084321089665278050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiyuu_0521/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jiyuu_0521/status/2084219490666234238",
+              "start": 8,
+              "url": "https://t.co/QN6g73LGdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084321089665278050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2293,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084219490666234238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他给了我40。 https://t.co/QN6g73LGdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 25,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:58:04.000Z",
+        "description": "只收口令 | 不卖袜子不要扫我的码了",
+        "id": "1903068462710394881",
+        "name": "Adaya",
+        "pinned_tweet_id": "2084313289643933806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083541564849364992/4824oMa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 119,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "Jiyuu_0521",
+        "verified": false
+      }
+    ]
+  }
+}

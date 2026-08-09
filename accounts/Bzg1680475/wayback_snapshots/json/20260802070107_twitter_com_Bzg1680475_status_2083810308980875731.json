@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2080465442712260626",
+    "created_at": "2026-08-02T07:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083810308980875731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "842241000470802435",
+          "start": 0,
+          "username": "worthlessoft"
+        },
+        {
+          "end": 25,
+          "id": "1109336213121581056",
+          "start": 14,
+          "username": "cute_7haha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083810308980875731",
+    "in_reply_to_user_id": "842241000470802435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083156888175387045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worthlessoft @cute_7haha 我没有看到推特给我推送你的回复，我也不知道他有没有小号"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [cute_7haha].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "cute_7haha",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.twitter.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2080465442712260626",
+        "created_at": "2026-08-02T07:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083810308980875731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "842241000470802435",
+              "start": 0,
+              "username": "worthlessoft"
+            },
+            {
+              "end": 25,
+              "id": "1109336213121581056",
+              "start": 14,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083810308980875731",
+        "in_reply_to_user_id": "842241000470802435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083156888175387045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worthlessoft @cute_7haha 我没有看到推特给我推送你的回复，我也不知道他有没有小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "842241000470802435",
+        "conversation_id": "2080465442712260626",
+        "created_at": "2026-07-31T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083156888175387045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 23,
+              "id": "1109336213121581056",
+              "start": 12,
+              "username": "cute_7haha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083156888175387045",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080483801659286002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @cute_7haha 这个博主我又找不到了🚬沂有小号吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 23,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-16T05:07:57.000Z",
+        "description": "",
+        "id": "842241000470802435",
+        "name": "🧀️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798629315367858176/lS_pQ1Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 262,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "worthlessoft",
+        "verified": false
+      }
+    ]
+  }
+}

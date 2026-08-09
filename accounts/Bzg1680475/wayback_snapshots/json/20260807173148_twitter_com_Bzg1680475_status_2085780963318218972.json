@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085780857709895680"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085772759435755800",
+    "created_at": "2026-08-07T17:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085780963318218972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484937266573168640",
+          "start": 0,
+          "username": "LouVeveryday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kY8MfKHkeF",
+          "end": 51,
+          "expanded_url": "https://x.com/Bzg1680475/status/2085780963318218972/photo/1",
+          "media_key": "3_2085780857709895680",
+          "start": 28,
+          "url": "https://t.co/kY8MfKHkeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085780963318218972",
+    "in_reply_to_user_id": "1484937266573168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085780352723996913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LouVeveryday 我已经吃了！还吃了鸡爪子！ https://t.co/kY8MfKHkeF"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085780352723996913].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085780352723996913",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085780352723996913"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085780857709895680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIuo58boAAzx0j.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085780857709895680"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085772759435755800",
+        "created_at": "2026-08-07T17:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085780963318218972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484937266573168640",
+              "start": 0,
+              "username": "LouVeveryday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kY8MfKHkeF",
+              "end": 51,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085780963318218972/photo/1",
+              "media_key": "3_2085780857709895680",
+              "start": 28,
+              "url": "https://t.co/kY8MfKHkeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780963318218972",
+        "in_reply_to_user_id": "1484937266573168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085780352723996913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LouVeveryday 我已经吃了！还吃了鸡爪子！ https://t.co/kY8MfKHkeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 33,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T17:13:42.000Z",
+        "description": "学习中…",
+        "id": "1484937266573168640",
+        "name": "想吃麦当劳",
+        "pinned_tweet_id": "2082127333797109846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065041684313133056/8A-lJBId_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 77,
+          "like_count": 413,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "LouVeveryday",
+        "verified": false
+      }
+    ]
+  }
+}

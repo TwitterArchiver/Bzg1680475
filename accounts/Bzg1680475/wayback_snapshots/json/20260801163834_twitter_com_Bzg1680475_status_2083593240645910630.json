@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2083478519531868521",
+    "created_at": "2026-08-01T16:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083593240645910630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082696738369064960",
+          "start": 0,
+          "username": "LOLf8tybp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083593240645910630",
+    "in_reply_to_user_id": "2082696738369064960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083574744062783807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOLf8tybp 老吃家！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2083478519531868521",
+        "created_at": "2026-08-01T16:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083593240645910630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082696738369064960",
+              "start": 0,
+              "username": "LOLf8tybp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083593240645910630",
+        "in_reply_to_user_id": "2082696738369064960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083574744062783807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOLf8tybp 老吃家！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082696738369064960",
+        "conversation_id": "2083478519531868521",
+        "created_at": "2026-08-01T15:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083574744062783807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083574744062783807",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083478519531868521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 刚出锅的更好吃   咬完脆皮下面的是带汁水的嫩鸡腿肉   他们家腌肉真的一绝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 22,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-30T05:17:59.000Z",
+        "description": "",
+        "id": "2082696738369064960",
+        "name": "LOL以绪塔尔",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 107,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "LOLf8tybp",
+        "verified": false
+      }
+    ]
+  }
+}

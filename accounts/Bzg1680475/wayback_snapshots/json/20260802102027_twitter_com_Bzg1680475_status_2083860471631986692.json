@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2083850030700728401",
+    "created_at": "2026-08-02T10:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083860471631986692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2023797826741039108",
+          "start": 0,
+          "username": "UnikYoung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083860471631986692",
+    "in_reply_to_user_id": "2023797826741039108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083850030700728401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnikYoung 哇塞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2083850030700728401",
+        "created_at": "2026-08-02T10:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083860471631986692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023797826741039108",
+              "start": 0,
+              "username": "UnikYoung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083860471631986692",
+        "in_reply_to_user_id": "2023797826741039108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083850030700728401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnikYoung 哇塞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023797826741039108",
+        "conversation_id": "2083850030700728401",
+        "created_at": "2026-08-02T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083850030700728401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083850030700728401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽个奶茶，回复作废，艾特无效，私信拉黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 23,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T16:33:08.000Z",
+        "description": "。",
+        "id": "2023797826741039108",
+        "location": "北京 重庆",
+        "name": "Kaneki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083216987711500289/1W3YEbo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 92,
+          "like_count": 4992,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "UnikYoung",
+        "verified": false
+      }
+    ]
+  }
+}

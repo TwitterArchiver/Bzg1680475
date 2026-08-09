@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085343591770267648"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085343797823865056",
+    "created_at": "2026-08-06T12:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085343797823865056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x2MZnoQOzo",
+          "end": 31,
+          "expanded_url": "https://x.com/Bzg1680475/status/2085343797823865056/video/1",
+          "media_key": "13_2085343591770267648",
+          "start": 8,
+          "url": "https://t.co/x2MZnoQOzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085343797823865056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "惹我你完蛋了。 https://t.co/x2MZnoQOzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 159040,
+        "height": 1280,
+        "media_key": "13_2085343591770267648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085343591770267648/img/q_pqb2BGrxT8tBZF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085343591770267648/vid/avc1/320x710/aXf_nXAPYdN3Qngq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085343591770267648/vid/avc1/480x1066/qTVLnCOfRnXVHO0g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085343591770267648/vid/avc1/576x1280/mlGcGznx0UgznFvQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085343591770267648/pl/9STMhnUJNfsgi01d.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085343591770267648"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085343797823865056",
+        "created_at": "2026-08-06T12:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085343797823865056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2MZnoQOzo",
+              "end": 31,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085343797823865056/video/1",
+              "media_key": "13_2085343591770267648",
+              "start": 8,
+              "url": "https://t.co/x2MZnoQOzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085343797823865056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惹我你完蛋了。 https://t.co/x2MZnoQOzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 33,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

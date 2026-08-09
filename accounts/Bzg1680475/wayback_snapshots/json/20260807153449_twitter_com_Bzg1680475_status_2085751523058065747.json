@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085568422671442029",
+    "created_at": "2026-08-07T15:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085751523058065747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1514271576950132738",
+          "start": 0,
+          "username": "yiziliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085751523058065747",
+    "in_reply_to_user_id": "1514271576950132738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085568422671442029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiziliang 首先长得丑就是原罪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085568422671442029",
+        "created_at": "2026-08-07T15:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085751523058065747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1514271576950132738",
+              "start": 0,
+              "username": "yiziliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085751523058065747",
+        "in_reply_to_user_id": "1514271576950132738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085568422671442029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiziliang 首先长得丑就是原罪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514271576950132738",
+        "conversation_id": "2085568422671442029",
+        "created_at": "2026-08-07T03:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085568422671442029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085568422671442029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14408,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 148,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "NIKI做错了0件事，整件事情和他没有任何关系！！你们现在网暴他的人，与当时网暴MINA至死的人有什么区别！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 33,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T15:57:50.000Z",
+        "description": "去更广阔的天空",
+        "id": "1514271576950132738",
+        "location": "中国",
+        "name": "青羊君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514272387465814017/V6-SXC5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "yiziliang",
+        "verified": false
+      }
+    ]
+  }
+}

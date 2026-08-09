@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083887986786402304",
+        "3_2083887986794770432"
+      ],
+      "media_source_tweet_id": [
+        "2083899364825546852",
+        "2083899364825546852"
+      ]
+    },
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084098265717604411",
+    "created_at": "2026-08-03T02:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084098265717604411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371642956088627200",
+          "start": 3,
+          "username": "terafabXai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/anVl4lhBRE",
+          "end": 85,
+          "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+          "media_key": "13_2083887986786402304",
+          "start": 62,
+          "url": "https://t.co/anVl4lhBRE"
+        },
+        {
+          "display_url": "pic.x.com/anVl4lhBRE",
+          "end": 85,
+          "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+          "media_key": "3_2083887986794770432",
+          "start": 62,
+          "url": "https://t.co/anVl4lhBRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084098265717604411",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083899364825546852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @terafabXai: 매일 아침 5분 일찍 출근하는 이유\n그냥 다른 사람의 개들을 보고 싶을 뿐. 🥲🐶 https://t.co/anVl4lhBRE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19411,
+        "height": 1280,
+        "media_key": "13_2083887986786402304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083887986786402304/img/PrRWusp9loaI8wZy.jpg",
+        "public_metrics": {
+          "view_count": 457792
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083887986786402304/vid/avc1/320x568/trx_ZLJaJJDE-spk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083887986786402304/vid/avc1/480x852/YcB953A2x-mPgV34.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083887986786402304/vid/avc1/720x1280/NqBHmjiBQ8BJGL2s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083887986786402304/pl/f25QvjGJ6nTONLsh.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2083887986794770432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt1FUSbMAALszR.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083887986786402304",
+            "3_2083887986794770432"
+          ]
+        },
+        "author_id": "1371642956088627200",
+        "conversation_id": "2083899364825546852",
+        "created_at": "2026-08-02T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083899364825546852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anVl4lhBRE",
+              "end": 69,
+              "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+              "media_key": "13_2083887986786402304",
+              "start": 46,
+              "url": "https://t.co/anVl4lhBRE"
+            },
+            {
+              "display_url": "pic.x.com/anVl4lhBRE",
+              "end": 69,
+              "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+              "media_key": "3_2083887986794770432",
+              "start": 46,
+              "url": "https://t.co/anVl4lhBRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083899364825546852",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1922,
+          "impression_count": 952341,
+          "like_count": 36292,
+          "quote_count": 129,
+          "reply_count": 100,
+          "retweet_count": 5203
+        },
+        "reply_settings": "everyone",
+        "text": "매일 아침 5분 일찍 출근하는 이유\n그냥 다른 사람의 개들을 보고 싶을 뿐. 🥲🐶 https://t.co/anVl4lhBRE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083887986786402304",
+            "3_2083887986794770432"
+          ],
+          "media_source_tweet_id": [
+            "2083899364825546852",
+            "2083899364825546852"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084098265717604411",
+        "created_at": "2026-08-03T02:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084098265717604411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371642956088627200",
+              "start": 3,
+              "username": "terafabXai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/anVl4lhBRE",
+              "end": 85,
+              "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+              "media_key": "13_2083887986786402304",
+              "start": 62,
+              "url": "https://t.co/anVl4lhBRE"
+            },
+            {
+              "display_url": "pic.x.com/anVl4lhBRE",
+              "end": 85,
+              "expanded_url": "https://x.com/terafabXai/status/2083899364825546852/video/1",
+              "media_key": "3_2083887986794770432",
+              "start": 62,
+              "url": "https://t.co/anVl4lhBRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084098265717604411",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083899364825546852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @terafabXai: 매일 아침 5분 일찍 출근하는 이유\n그냥 다른 사람의 개들을 보고 싶을 뿐. 🥲🐶 https://t.co/anVl4lhBRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 24,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T02:02:27.000Z",
+        "description": "루피\n\n협찬 문의\npackmanfire@gmail.com",
+        "id": "1371642956088627200",
+        "name": "과즙루피",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070121084431851520/tgol6Vfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 2992,
+          "like_count": 32486,
+          "listed_count": 5,
+          "media_count": 1085,
+          "tweet_count": 12452
+        },
+        "url": "",
+        "username": "terafabXai",
+        "verified": true
+      }
+    ]
+  }
+}

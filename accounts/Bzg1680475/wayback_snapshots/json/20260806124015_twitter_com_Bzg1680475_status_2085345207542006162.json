@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085285654624374958",
+    "created_at": "2026-08-06T12:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085345207542006162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766595057463996416",
+          "start": 0,
+          "username": "Aaa_NekozakiYuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085345207542006162",
+    "in_reply_to_user_id": "1766595057463996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085285654624374958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaa_NekozakiYuk 他可能没屁股吧。越没有什么越在意什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2085285649809367040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBsQAwbYAAkKkZ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085285654624374958",
+        "created_at": "2026-08-06T12:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085345207542006162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766595057463996416",
+              "start": 0,
+              "username": "Aaa_NekozakiYuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345207542006162",
+        "in_reply_to_user_id": "1766595057463996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085285654624374958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaa_NekozakiYuk 他可能没屁股吧。越没有什么越在意什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085285649809367040"
+          ]
+        },
+        "author_id": "1766595057463996416",
+        "conversation_id": "2085285654624374958",
+        "created_at": "2026-08-06T08:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085285654624374958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isOprm6aN5",
+              "end": 28,
+              "expanded_url": "https://x.com/Aaa_NekozakiYuk/status/2085285654624374958/photo/1",
+              "media_key": "3_2085285649809367040",
+              "start": 5,
+              "url": "https://t.co/isOprm6aN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085285654624374958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 938,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味。 https://t.co/isOprm6aN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要对骚扰我。友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 33,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T22:41:23.000Z",
+        "description": "什么都发   sw/brat  男的别叫我宝宝\n积极向上天天开心!\nhttps://t.co/LQEoawbAmL这个是我的提问箱^^",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharkteeth23242",
+                "end": 57,
+                "expanded_url": "https://ngl.link/sharkteeth23242",
+                "start": 34,
+                "url": "https://t.co/LQEoawbAmL"
+              }
+            ]
+          }
+        },
+        "id": "1766595057463996416",
+        "location": "骚扰我的一辈子不能发财",
+        "name": "吸酱QwQ",
+        "pinned_tweet_id": "2076152043161760051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021580219321352192/fG-i_wl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 279,
+          "like_count": 9643,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "Aaa_NekozakiYuk",
+        "verified": false
+      }
+    ]
+  }
+}

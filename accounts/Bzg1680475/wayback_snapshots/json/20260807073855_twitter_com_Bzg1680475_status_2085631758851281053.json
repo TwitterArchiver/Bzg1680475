@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085433294896992514",
+    "created_at": "2026-08-07T07:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085631758851281053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775688932203626497",
+          "start": 0,
+          "username": "Cici060611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085631758851281053",
+    "in_reply_to_user_id": "1775688932203626497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085433294896992514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cici060611 没钱还抽烟 没钱还养狗 狗太惨了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085433294896992514",
+        "created_at": "2026-08-07T07:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085631758851281053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775688932203626497",
+              "start": 0,
+              "username": "Cici060611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085631758851281053",
+        "in_reply_to_user_id": "1775688932203626497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085433294896992514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cici060611 没钱还抽烟 没钱还养狗 狗太惨了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "2085433294896992514",
+        "created_at": "2026-08-06T18:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085433294896992514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085433294896992514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1465,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "现在都不敢跟男的聊天了，聊着聊着他又肚子饿了，没钱买烟抽了，没有话费了，皮肤没钱充了，房租快到期了，他家狗粮也快没了，想喝酒了，又想要看我朋友圈没有的照片了，又想看素颜照了，又想看腿照了，又想约我出来见面了，又吃不起饭了，我喝杯奶茶又成富婆了，搞的好像我有罪一样，把他聊得家徒四壁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 33,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "meitiandouhenfan",
+        "id": "1775688932203626497",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1959928354288587104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066598886786105344/G3tlFwKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 79,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "Cici060611",
+        "verified": false
+      }
+    ]
+  }
+}

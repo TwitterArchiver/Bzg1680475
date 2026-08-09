@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085057073361141768",
+    "created_at": "2026-08-05T17:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085058045411983674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936844560652726272",
+          "start": 0,
+          "username": "XiaoYePo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085058045411983674",
+    "in_reply_to_user_id": "1936844560652726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085057073361141768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYePo 这期狗味溢出来了 感觉比较傲娇摇尾巴的那种狗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 321874,
+        "height": 1280,
+        "media_key": "13_2085056933577502720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085056933577502720/img/SDAs20l8qsVP9LQU.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085056933577502720/vid/avc1/320x568/2ZP30qg7j-PT0Ifu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085056933577502720/vid/avc1/480x852/j25liUF-yxBz98xd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085056933577502720/vid/avc1/720x1280/r2luH7tLEKzvOuE8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085056933577502720/pl/w7aYnrwvso3H80Yt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085057073361141768",
+        "created_at": "2026-08-05T17:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085058045411983674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936844560652726272",
+              "start": 0,
+              "username": "XiaoYePo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085058045411983674",
+        "in_reply_to_user_id": "1936844560652726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085057073361141768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYePo 这期狗味溢出来了 感觉比较傲娇摇尾巴的那种狗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085056933577502720"
+          ]
+        },
+        "author_id": "1936844560652726272",
+        "conversation_id": "2085057073361141768",
+        "created_at": "2026-08-05T17:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085057073361141768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRTF1hj88S",
+              "end": 29,
+              "expanded_url": "https://x.com/XiaoYePo/status/2085057073361141768/video/1",
+              "media_key": "13_2085056933577502720",
+              "start": 6,
+              "url": "https://t.co/FRTF1hj88S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085057073361141768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "读一些信箱 https://t.co/FRTF1hj88S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 31,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T17:51:51.000Z",
+        "description": "07 | 直男 如果能被大家喜欢的话就太好啦\n匿名提问在这里~ https://t.co/HbxsS8SUNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye42026",
+                "end": 55,
+                "expanded_url": "http://ngl.link/xiaoye42026",
+                "start": 32,
+                "url": "https://t.co/HbxsS8SUNQ"
+              }
+            ]
+          }
+        },
+        "id": "1936844560652726272",
+        "location": "5.20km",
+        "name": "小也",
+        "pinned_tweet_id": "2078507502572802261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061481799197270016/OTuxVuSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 31,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "XiaoYePo",
+        "verified": false
+      }
+    ]
+  }
+}

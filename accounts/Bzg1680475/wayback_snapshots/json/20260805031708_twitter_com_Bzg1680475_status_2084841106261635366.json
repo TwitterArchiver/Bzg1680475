@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084831348980904216",
+    "created_at": "2026-08-05T03:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084841106261635366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043453447580659712",
+          "start": 0,
+          "username": "PSteinbeck18981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084841106261635366",
+    "in_reply_to_user_id": "2043453447580659712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084831348980904216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PSteinbeck18981 好快啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084831348980904216",
+        "created_at": "2026-08-05T03:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084841106261635366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043453447580659712",
+              "start": 0,
+              "username": "PSteinbeck18981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084841106261635366",
+        "in_reply_to_user_id": "2043453447580659712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084831348980904216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PSteinbeck18981 好快啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043453447580659712",
+        "conversation_id": "2084831348980904216",
+        "created_at": "2026-08-05T02:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084831348980904216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PSteinbeck1898…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/PSteinbeck18981/status/2083608893528412523",
+              "start": 150,
+              "url": "https://t.co/IrbcR6mK2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084831348980904216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083608893528412523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1000fo了，能被大家喜欢真的很开心！但是你切记百是百 千是千是云泥之别，是天壤之别，是判若云泥，是天差地别神鬼殊途仙凡有别生殖隔离，你切记999年魂兽爆的也是百年魂环，已经共情不了前天的自己了\n——\n评论区抽两个宝宝喝奶茶或者录几分钟的定制音频，24小时截止吧=ᗜωᗜ=这样国外的宝宝也有时间看 https://t.co/IrbcR6mK2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 26,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T22:17:23.000Z",
+        "description": "04丨dom丨喜欢我的都是好宝宝，欢迎和我互动哟丨想要互fo可以私信我！眼熟都会互fo的丨有推荐台本或者建议请发给我丨如不小心冒犯请告诉我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shufu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shufu1",
+                "start": 0,
+                "url": "https://t.co/fY2nHvDmgo"
+              }
+            ]
+          }
+        },
+        "id": "2043453447580659712",
+        "location": "3.3km",
+        "name": "束缚",
+        "pinned_tweet_id": "2084236902375547037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079829971384823808/A-lVfvMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 15,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/fY2nHvDmgo",
+        "username": "PSteinbeck18981",
+        "verified": false
+      }
+    ]
+  }
+}

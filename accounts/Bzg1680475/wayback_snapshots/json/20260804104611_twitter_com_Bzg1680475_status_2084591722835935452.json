@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2084590593662165068",
+    "created_at": "2026-08-04T10:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084591722835935452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904176859006271489",
+          "start": 0,
+          "username": "l3502982700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084591722835935452",
+    "in_reply_to_user_id": "1904176859006271489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084591398720774273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3502982700 哈哈哈哈没有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084590593662165068",
+        "created_at": "2026-08-04T10:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084591722835935452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904176859006271489",
+              "start": 0,
+              "username": "l3502982700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084591722835935452",
+        "in_reply_to_user_id": "1904176859006271489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084591398720774273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3502982700 哈哈哈哈没有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904176859006271489",
+        "conversation_id": "2084590593662165068",
+        "created_at": "2026-08-04T10:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084591398720774273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084591398720774273",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084590593662165068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 剧本杀吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 26,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T14:22:08.000Z",
+        "description": "11",
+        "id": "1904176859006271489",
+        "name": "云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081742336334106624/uGXSbkxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "l3502982700",
+        "verified": false
+      }
+    ]
+  }
+}
