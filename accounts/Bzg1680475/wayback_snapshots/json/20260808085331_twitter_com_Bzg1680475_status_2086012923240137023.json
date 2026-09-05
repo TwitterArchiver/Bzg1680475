@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2085896637818523817",
+    "created_at": "2026-08-08T08:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T09:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086012923240137023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165651336731537412",
+          "start": 0,
+          "username": "CappyCookie"
+        },
+        {
+          "end": 24,
+          "id": "1584868049710186503",
+          "start": 13,
+          "username": "yu25411730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086012923240137023",
+    "in_reply_to_user_id": "1165651336731537412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085896637818523817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CappyCookie @yu25411730 提问这个视频到底喊了几声妈妈◉‿◉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1198915,
+        "height": 960,
+        "media_key": "13_2085895558468935680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085895558468935680/img/-aEDzVLREVvri5gm.jpg",
+        "public_metrics": {
+          "view_count": 620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085895558468935680/vid/avc1/320x426/NfAk-ECqFpyC-4zz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085895558468935680/vid/avc1/480x640/sBxlc5DwP348RRsJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085895558468935680/vid/avc1/720x960/dMnonZI6IAkJ_Ujq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085895558468935680/pl/FezWu3SNpQ5gbKNJ.m3u8?v=6fc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085896637818523817",
+        "created_at": "2026-08-08T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086012923240137023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165651336731537412",
+              "start": 0,
+              "username": "CappyCookie"
+            },
+            {
+              "end": 24,
+              "id": "1584868049710186503",
+              "start": 13,
+              "username": "yu25411730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086012923240137023",
+        "in_reply_to_user_id": "1165651336731537412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085896637818523817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CappyCookie @yu25411730 提问这个视频到底喊了几声妈妈◉‿◉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085895558468935680"
+          ]
+        },
+        "author_id": "1165651336731537412",
+        "conversation_id": "2085896637818523817",
+        "created_at": "2026-08-08T01:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T02:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085896637818523817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "男喘"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "女性向"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "青年音"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "小狗男"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "年下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "1584868049710186503",
+              "start": 97,
+              "username": "yu25411730"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Dhk4tVvvg",
+              "end": 155,
+              "expanded_url": "https://x.com/CappyCookie/status/2085896637818523817/video/1",
+              "media_key": "13_2085895558468935680",
+              "start": 132,
+              "url": "https://t.co/7Dhk4tVvvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085896637818523817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1292,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粘人小狗 × 诱人妈妈\n\n小狗男/1i/哭腔/年下/撒娇/舔手指/舔穴/女上do舔胸\n\n“求求妈妈不要再折磨小狗了”\n“妈妈，别玩玩具了好不好，用我嘛”\n“不许躲开，妈妈是小狗的”\n感谢台本老师@yu25411730\n#男喘 #女性向 #青年音 #小狗男 #年下 https://t.co/7Dhk4tVvvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 34,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T15:45:18.000Z",
+        "description": "业余男喘丨04 Switch \n很好说话 私信评论都会看\n匿名链接⇩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moonlight20364",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moonlight20364",
+                "start": 0,
+                "url": "https://t.co/Ma8Tw6rXpk"
+              }
+            ]
+          }
+        },
+        "id": "1165651336731537412",
+        "name": "Moonlight",
+        "pinned_tweet_id": "2085426793201459652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085692237149769728/_Nx-mhPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 40,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/Ma8Tw6rXpk",
+        "username": "CappyCookie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T11:22:55.000Z",
+        "description": "台本台本，啥都写点\n录本请私信，录本请私信，录本请私信！！！！禁止二传二改！！！台本请不要带入现实！！！",
+        "id": "1584868049710186503",
+        "name": "月亮是丸子（录本请私信）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584868217348132864/FelviYEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17450,
+          "following_count": 198,
+          "like_count": 8881,
+          "listed_count": 44,
+          "media_count": 314,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "yu25411730",
+        "verified": false
+      }
+    ]
+  }
+}

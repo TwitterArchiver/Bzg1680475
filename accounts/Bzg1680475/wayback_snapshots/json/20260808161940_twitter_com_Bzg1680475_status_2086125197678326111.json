@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788237544590823424",
+    "conversation_id": "2086117603647631612",
+    "created_at": "2026-08-08T16:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086125197678326111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086125197678326111",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086125043080421648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 我又躺在床上了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2086117603647631612",
+        "created_at": "2026-08-08T16:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086125197678326111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086125197678326111",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086125043080421648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 我又躺在床上了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2086117603647631612",
+        "created_at": "2026-08-08T16:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086125043080421648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086125043080421648",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086117603647631612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 完蛋了是我们ADHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。\n无🚪，没有给人提供情绪价值的义务，请不要骚扰我。\n友好交流大欢迎！◉‿◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ3GFH"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2085316570297811327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 35,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/ZHVLQJ3GFH",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "he/him/他 泛性恋（大概）ENTP ADHD 高敏HSP \n带有女性气质但取向正常 介意勿扰\n大体善良比格，偶尔邪恶比格（真的是偶尔）\n也许你不相信，我喜欢有厚度的灵魂\n对精神的迷恋超过对肉体的迷恋\n欢迎来到我的自留地 有趣人类观察\n🚪一颗真心or超多的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chord88751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chord88751",
+                "start": 0,
+                "url": "https://t.co/JBFE0eK8Kr"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "location": "孤魂野鬼飘来飘去",
+        "name": "chord（减脂版）",
+        "pinned_tweet_id": "2082287796480528750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 442,
+          "like_count": 6304,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/JBFE0eK8Kr",
+        "username": "chord244",
+        "verified": false
+      }
+    ]
+  }
+}
